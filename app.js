@@ -234,7 +234,8 @@ function showOfficials(stateName) {
       <div>
         <strong>${o.name}</strong><br>
         <small>${o.position} • ${o.party}</small><br>
-        <small>Religion: ${o.religion || "—"}</small>
+        <small>Religion: ${o.religion || "—"}</small><br>
+        <small>AIPAC: ${o.aipac || "—"}</small>
       </div>
     `;
     div.style.cssText =
