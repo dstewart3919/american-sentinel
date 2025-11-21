@@ -1,6 +1,8 @@
 let scene, camera, renderer, raycaster, mouse, controls;
 let stateMeshes = [];
 let data;
+let stateMeshMap = new Map();
+let currentSelectedMeshes = null;
 
 // ——— Projection (unchanged – already perfect) ———
 function lonLatToVector2(lon, lat, stateName) {
@@ -105,6 +107,10 @@ async function init() {
       mesh.userData.stateName = stateName;
       scene.add(mesh);
       stateMeshes.push(mesh);
+
+      // Add to mesh map for glow effect
+      if (!stateMeshMap.has(stateName)) stateMeshMap.set(stateName, []);
+      stateMeshMap.get(stateName).push(mesh);
 
       // Invisible-to-raycast borders
       const edges = new THREE.EdgesGeometry(geometry);
@@ -247,6 +253,21 @@ function createOfficialDiv(o) {
 }
 
 function showOfficials(stateName) {
+  // Reset previous glow
+  if (currentSelectedMeshes) {
+    currentSelectedMeshes.forEach((mesh) => {
+      mesh.material.emissive.setHex(0);
+      mesh.material.emissiveIntensity = 0;
+    });
+  }
+
+  // Set glow on selected state
+  currentSelectedMeshes = stateMeshMap.get(stateName) || [];
+  currentSelectedMeshes.forEach((mesh) => {
+    mesh.material.emissive.setHex(0xffffff);
+    mesh.material.emissiveIntensity = 0.3;
+  });
+
   document.getElementById("state-name").textContent = stateName;
   const list = document.getElementById("officials-list");
   list.innerHTML = "";
@@ -285,6 +306,15 @@ function showOfficials(stateName) {
 }
 
 function hideOfficials() {
+  // Reset glow
+  if (currentSelectedMeshes) {
+    currentSelectedMeshes.forEach((mesh) => {
+      mesh.material.emissive.setHex(0);
+      mesh.material.emissiveIntensity = 0;
+    });
+    currentSelectedMeshes = null;
+  }
+
   document.getElementById("info").style.display = "none";
 }
 
