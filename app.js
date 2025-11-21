@@ -227,28 +227,53 @@ function animate() {
 }
 
 // —-- INFO PANEL ——
+function createOfficialDiv(o) {
+  const div = document.createElement("div");
+  div.className = "official";
+  div.innerHTML = `
+    <img src="${
+      o.image || "https://via.placeholder.com/60"
+    }" onerror="this.src='https://via.placeholder.com/60'">
+    <div>
+      <strong>${o.name}</strong><br>
+      <small>${o.position} • ${o.party}</small><br>
+      <small>Religion: ${o.religion || "—"}</small><br>
+      <small>AIPAC: ${o.aipac || "—"}</small>
+    </div>
+  `;
+  div.style.cssText =
+    "display:flex; align-items:center; gap:12px; margin:10px 0;";
+  return div;
+}
+
 function showOfficials(stateName) {
   document.getElementById("state-name").textContent = stateName;
   const list = document.getElementById("officials-list");
   list.innerHTML = "";
-  data.states[stateName]?.officials?.forEach((o) => {
-    const div = document.createElement("div");
-    div.className = "official";
-    div.innerHTML = `
-      <img src="${
-        o.image || "https://via.placeholder.com/60"
-      }" onerror="this.src='https://via.placeholder.com/60'">
-      <div>
-        <strong>${o.name}</strong><br>
-        <small>${o.position} • ${o.party}</small><br>
-        <small>Religion: ${o.religion || "—"}</small><br>
-        <small>AIPAC: ${o.aipac || "—"}</small>
-      </div>
-    `;
-    div.style.cssText =
-      "display:flex; align-items:center; gap:12px; margin:10px 0;";
-    list.appendChild(div);
+  const officials = data.states[stateName]?.officials || [];
+  const govSen = [];
+  const house = [];
+  officials.forEach((o) => {
+    if (o.position === "Governor" || o.position === "Senator") {
+      govSen.push(o);
+    } else {
+      house.push(o);
+    }
   });
+  // Append Gov and Senators
+  govSen.forEach((o) => list.appendChild(createOfficialDiv(o)));
+  // Append House if any
+  if (house.length > 0) {
+    const details = document.createElement("details");
+    const summary = document.createElement("summary");
+    summary.textContent = `House Representatives (${house.length})`;
+    details.appendChild(summary);
+    const houseDiv = document.createElement("div");
+    houseDiv.style.cssText = "margin-left: 20px;";
+    house.forEach((o) => houseDiv.appendChild(createOfficialDiv(o)));
+    details.appendChild(houseDiv);
+    list.appendChild(details);
+  }
   document.getElementById("info").style.display = "block";
 }
 
