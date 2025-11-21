@@ -123,10 +123,14 @@ async function init() {
     });
   });
 
-  // ——— PERFECT CLICK HANDLER ———
-  window.addEventListener("click", (event) => {
-    mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
-    mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+  // ——— PERFECT CLICK/TAP HANDLER ———
+  const onPointer = (event) => {
+    event.preventDefault();
+    const clientX = event.clientX || event.changedTouches?.[0]?.clientX || 0;
+    const clientY = event.clientY || event.changedTouches?.[0]?.clientY || 0;
+
+    mouse.x = (clientX / window.innerWidth) * 2 - 1;
+    mouse.y = -(clientY / window.innerHeight) * 2 + 1;
 
     raycaster.setFromCamera(mouse, camera);
     const intersects = raycaster.intersectObjects(stateMeshes, true); // recursive = true
@@ -146,7 +150,10 @@ async function init() {
       }
     }
     hideOfficials();
-  });
+  };
+
+  renderer.domElement.addEventListener("click", onPointer);
+  renderer.domElement.addEventListener("touchend", onPointer);
 
   window.addEventListener("resize", onWindowResize);
   animate();
