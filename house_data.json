@@ -1,0 +1,1454 @@
+{
+  "states": {
+    "Alabama": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Kay Ivey",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$0",
+          "image": "images/kay_ivey.jpg"
+        },
+        {
+          "name": "Tommy Tuberville",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$650,000",
+          "image": "images/tommy_tuberville.jpg"
+        },
+        {
+          "name": "Katie Britt",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$1,050,000",
+          "image": "images/katie_britt.jpg"
+        }
+      ]
+    },
+    "Alaska": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Mike Dunleavy",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/mike_dunleavy.jpg"
+        },
+        {
+          "name": "Lisa Murkowski",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$1,400,000",
+          "image": "images/lisa_murkowski.jpg"
+        },
+        {
+          "name": "Dan Sullivan",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$1,200,000",
+          "image": "images/dan_sullivan.jpg"
+        }
+      ]
+    },
+    "Arizona": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Katie Hobbs",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/katie_hobbs.jpg"
+        },
+        {
+          "name": "Mark Kelly",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$1,800,000",
+          "image": "images/mark_kelly.jpg"
+        },
+        {
+          "name": "Ruben Gallego",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$2,100,000",
+          "image": "images/ruben_gallego.jpg"
+        }
+      ]
+    },
+    "Arkansas": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Sarah Huckabee Sanders",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$0",
+          "image": "images/sarah_huckabee_sanders.jpg"
+        },
+        {
+          "name": "John Boozman",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$750,000",
+          "image": "images/john_boozman.jpg"
+        },
+        {
+          "name": "Tom Cotton",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "aipac": "$1,900,000",
+          "image": "images/tom_cotton.jpg"
+        }
+      ]
+    },
+    "California": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Gavin Newsom",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/gavin_newsom.jpg"
+        },
+        {
+          "name": "Alex Padilla",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$1,100,000",
+          "image": "images/alex_padilla.jpg"
+        },
+        {
+          "name": "Adam Schiff",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$6,230,000",
+          "image": "images/adam_schiff.jpg"
+        }
+      ]
+    },
+    "Colorado": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Jared Polis",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$0",
+          "image": "images/jared_polis.jpg"
+        },
+        {
+          "name": "Michael Bennet",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$2,800,000",
+          "image": "images/michael_bennet.jpg"
+        },
+        {
+          "name": "John Hickenlooper",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$950,000",
+          "image": "images/john_hickenlooper.jpg"
+        }
+      ]
+    },
+    "Connecticut": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Ned Lamont",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "aipac": "$0",
+          "image": "images/ned_lamont.jpg"
+        },
+        {
+          "name": "Richard Blumenthal",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$2,400,000",
+          "image": "images/richard_blumenthal.jpg"
+        },
+        {
+          "name": "Chris Murphy",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$1,300,000",
+          "image": "images/chris_murphy.jpg"
+        }
+      ]
+    },
+    "Delaware": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "John Carney",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/john_carney.jpg"
+        },
+        {
+          "name": "Lisa Blunt Rochester",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "aipac": "$1,100,000",
+          "image": "images/lisa_blunt_rochester.jpg"
+        },
+        {
+          "name": "Chris Coons",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "aipac": "$2,200,000",
+          "image": "images/chris_coons.jpg"
+        }
+      ]
+    },
+    "Florida": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Ron DeSantis",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/ron_desantis.jpg"
+        },
+        {
+          "name": "Rick Scott",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$1,600,000",
+          "image": "images/rick_scott.jpg"
+        },
+        {
+          "name": "Marco Rubio",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$2,500,000",
+          "image": "images/marco_rubio.jpg"
+        }
+      ]
+    },
+    "Georgia": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Brian Kemp",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$0",
+          "image": "images/brian_kemp.jpg"
+        },
+        {
+          "name": "Jon Ossoff",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$2,700,000",
+          "image": "images/jon_ossoff.jpg"
+        },
+        {
+          "name": "Raphael Warnock",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "aipac": "$1,200,000",
+          "image": "images/raphael_warnock.jpg"
+        }
+      ]
+    },
+    "Hawaii": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Josh Green",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$0",
+          "image": "images/josh_green.jpg"
+        },
+        {
+          "name": "Brian Schatz",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$1,500,000",
+          "image": "images/brian_schatz.jpg"
+        },
+        {
+          "name": "Mazie Hirono",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Buddhist",
+          "aipac": "$800,000",
+          "image": "images/mazie_hirono.jpg"
+        }
+      ]
+    },
+    "Idaho": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Brad Little",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$0",
+          "image": "images/brad_little.jpg"
+        },
+        {
+          "name": "Mike Crapo",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Mormon",
+          "aipac": "$327,000",
+          "image": "images/mike_crapo.jpg"
+        },
+        {
+          "name": "Jim Risch",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$1,100,000",
+          "image": "images/jim_risch.jpg"
+        }
+      ]
+    },
+    "Illinois": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "JB Pritzker",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$0",
+          "image": "images/jb_pritzker.jpg"
+        },
+        {
+          "name": "Dick Durbin",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$1,200,000",
+          "image": "images/dick_durbin.jpg"
+        },
+        {
+          "name": "Tammy Duckworth",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Buddhist",
+          "aipac": "$500,000",
+          "image": "images/tammy_duckworth.jpg"
+        }
+      ]
+    },
+    "Indiana": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Eric Holcomb",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/eric_holcomb.jpg"
+        },
+        {
+          "name": "Mike Braun",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Mormon",
+          "aipac": "$400,000",
+          "image": "images/mike_braun.jpg"
+        },
+        {
+          "name": "Todd Young",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$396,000",
+          "image": "images/todd_young.jpg"
+        }
+      ]
+    },
+    "Iowa": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Kim Reynolds",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Methodist",
+          "aipac": "$0",
+          "image": "images/kim_reynolds.jpg"
+        },
+        {
+          "name": "Chuck Grassley",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$502,000",
+          "image": "images/chuck_grassley.jpg"
+        },
+        {
+          "name": "Joni Ernst",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Lutheran",
+          "aipac": "$529,000",
+          "image": "images/joni_ernst.jpg"
+        }
+      ]
+    },
+    "Kansas": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Laura Kelly",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Methodist",
+          "aipac": "$0",
+          "image": "images/laura_kelly.jpg"
+        },
+        {
+          "name": "Jerry Moran",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "aipac": "$800,000",
+          "image": "images/jerry_moran.jpg"
+        },
+        {
+          "name": "Roger Marshall",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$900,000",
+          "image": "images/roger_marshall.jpg"
+        }
+      ]
+    },
+    "Kentucky": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Andy Beshear",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "aipac": "$0",
+          "image": "images/andy_beshear.jpg"
+        },
+        {
+          "name": "Mitch McConnell",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$1,950,000",
+          "image": "images/mitch_mcconnell.jpg"
+        },
+        {
+          "name": "Rand Paul",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Christian",
+          "aipac": "$50,000",
+          "image": "images/rand_paul.jpg"
+        }
+      ]
+    },
+    "Louisiana": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Jeff Landry",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/jeff_landry.jpg"
+        },
+        {
+          "name": "Bill Cassidy",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$600,000",
+          "image": "images/bill_cassidy.jpg"
+        },
+        {
+          "name": "John Kennedy",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$500,000",
+          "image": "images/john_kennedy.jpg"
+        }
+      ]
+    },
+    "Maine": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Janet Mills",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/janet_mills.jpg"
+        },
+        {
+          "name": "Susan Collins",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$647,000",
+          "image": "images/susan_collins.jpg"
+        },
+        {
+          "name": "Angus King",
+          "position": "Senator",
+          "party": "Independent",
+          "religion": "Episcopal",
+          "aipac": "$300,000",
+          "image": "images/angus_king.jpg"
+        }
+      ]
+    },
+    "Maryland": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Wes Moore",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "aipac": "$0",
+          "image": "images/wes_moore.jpg"
+        },
+        {
+          "name": "Ben Cardin",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$2,500,000",
+          "image": "images/ben_cardin.jpg"
+        },
+        {
+          "name": "Chris Van Hollen",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$1,500,000",
+          "image": "images/chris_van_hollen.jpg"
+        }
+      ]
+    },
+    "Massachusetts": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Maura Healey",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/maura_healey.jpg"
+        },
+        {
+          "name": "Elizabeth Warren",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Methodist",
+          "aipac": "$300,000",
+          "image": "images/elizabeth_warren.jpg"
+        },
+        {
+          "name": "Ed Markey",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$800,000",
+          "image": "images/ed_markey.jpg"
+        }
+      ]
+    },
+    "Michigan": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Gretchen Whitmer",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "aipac": "$0",
+          "image": "images/gretchen_whitmer.jpg"
+        },
+        {
+          "name": "Gary Peters",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$1,000,000",
+          "image": "images/gary_peters.jpg"
+        },
+        {
+          "name": "Debbie Stabenow",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$900,000",
+          "image": "images/debbie_stabenow.jpg"
+        }
+      ]
+    },
+    "Minnesota": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Tim Walz",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Lutheran",
+          "aipac": "$0",
+          "image": "images/tim_walz.jpg"
+        },
+        {
+          "name": "Amy Klobuchar",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$1,200,000",
+          "image": "images/amy_klobuchar.jpg"
+        },
+        {
+          "name": "Tina Smith",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$600,000",
+          "image": "images/tina_smith.jpg"
+        }
+      ]
+    },
+    "Mississippi": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Tate Reeves",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$0",
+          "image": "images/tate_reeves.jpg"
+        },
+        {
+          "name": "Roger Wicker",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$700,000",
+          "image": "images/roger_wicker.jpg"
+        },
+        {
+          "name": "Cindy Hyde-Smith",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$400,000",
+          "image": "images/cindy_hyde-smith.jpg"
+        }
+      ]
+    },
+    "Missouri": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Mike Parson",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$0",
+          "image": "images/mike_parson.jpg"
+        },
+        {
+          "name": "Josh Hawley",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$256,000",
+          "image": "images/josh_hawley.jpg"
+        },
+        {
+          "name": "Eric Schmitt",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$300,000",
+          "image": "images/eric_schmitt.jpg"
+        }
+      ]
+    },
+    "Montana": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Greg Gianforte",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Christian",
+          "aipac": "$0",
+          "image": "images/greg_gianforte.jpg"
+        },
+        {
+          "name": "Jon Tester",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$424,000",
+          "image": "images/jon_tester.jpg"
+        },
+        {
+          "name": "Steve Daines",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$500,000",
+          "image": "images/steve_daines.jpg"
+        }
+      ]
+    },
+    "Nebraska": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Jim Pillen",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/jim_pillen.jpg"
+        },
+        {
+          "name": "Deb Fischer",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "aipac": "$800,000",
+          "image": "images/deb_fischer.jpg"
+        },
+        {
+          "name": "Pete Ricketts",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$147,000",
+          "image": "images/pete_ricketts.jpg"
+        }
+      ]
+    },
+    "Nevada": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Joe Lombardo",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/joe_lombardo.jpg"
+        },
+        {
+          "name": "Catherine Cortez Masto",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$1,000,000",
+          "image": "images/catherine_cortez_masto.jpg"
+        },
+        {
+          "name": "Jacky Rosen",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$1,147,000",
+          "image": "images/jacky_rosen.jpg"
+        }
+      ]
+    },
+    "New Hampshire": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Chris Sununu",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/chris_sununu.jpg"
+        },
+        {
+          "name": "Jeanne Shaheen",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Greek Orthodox",
+          "aipac": "$1,000,000",
+          "image": "images/jeanne_shaheen.jpg"
+        },
+        {
+          "name": "Maggie Hassan",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "aipac": "$641,000",
+          "image": "images/maggie_hassan.jpg"
+        }
+      ]
+    },
+    "New Jersey": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Mikie Sherrill",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "aipac": "$0",
+          "image": "images/mikie_sherrill.jpg"
+        },
+        {
+          "name": "Cory Booker",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "aipac": "$871,000",
+          "image": "images/cory_booker.jpg"
+        },
+        {
+          "name": "Andy Kim",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "aipac": "$500,000",
+          "image": "images/andy_kim.jpg"
+        }
+      ]
+    },
+    "New Mexico": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Michelle Lujan Grisham",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/michelle_lujan_grisham.jpg"
+        },
+        {
+          "name": "Martin Heinrich",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$500,000",
+          "image": "images/martin_heinrich.jpg"
+        },
+        {
+          "name": "Ben Ray Luj\u00c3\u00a1n",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$600,000",
+          "image": "images/ben_ray_luj\u00e3\u00a1n.jpg"
+        }
+      ]
+    },
+    "New York": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Kathy Hochul",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/kathy_hochul.jpg"
+        },
+        {
+          "name": "Chuck Schumer",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$1,727,000",
+          "image": "images/chuck_schumer.jpg"
+        },
+        {
+          "name": "Kirsten Gillibrand",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Methodist",
+          "aipac": "$372,000",
+          "image": "images/kirsten_gillibrand.jpg"
+        }
+      ]
+    },
+    "North Carolina": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Roy Cooper",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "aipac": "$0",
+          "image": "images/roy_cooper.jpg"
+        },
+        {
+          "name": "Thom Tillis",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "aipac": "$271,000",
+          "image": "images/thom_tillis.jpg"
+        },
+        {
+          "name": "Ted Budd",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$159,000",
+          "image": "images/ted_budd.jpg"
+        }
+      ]
+    },
+    "North Dakota": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Doug Burgum",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$0",
+          "image": "images/doug_burgum.jpg"
+        },
+        {
+          "name": "Kevin Cramer",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Lutheran",
+          "aipac": "$400,000",
+          "image": "images/kevin_cramer.jpg"
+        },
+        {
+          "name": "John Hoeven",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$500,000",
+          "image": "images/john_hoeven.jpg"
+        }
+      ]
+    },
+    "Ohio": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Mike DeWine",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/mike_dewine.jpg"
+        },
+        {
+          "name": "Sherrod Brown",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$230,000",
+          "image": "images/sherrod_brown.jpg"
+        },
+        {
+          "name": "Bernie Moreno",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$300,000",
+          "image": "images/bernie_moreno.jpg"
+        }
+      ]
+    },
+    "Oklahoma": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Kevin Stitt",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$0",
+          "image": "images/kevin_stitt.jpg"
+        },
+        {
+          "name": "James Lankford",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$400,000",
+          "image": "images/james_lankford.jpg"
+        },
+        {
+          "name": "Markwayne Mullin",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$300,000",
+          "image": "images/markwayne_mullin.jpg"
+        }
+      ]
+    },
+    "Oregon": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Tina Kotek",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$0",
+          "image": "images/tina_kotek.jpg"
+        },
+        {
+          "name": "Ron Wyden",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$1,285,000",
+          "image": "images/ron_wyden.jpg"
+        },
+        {
+          "name": "Jeff Merkley",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Methodist",
+          "aipac": "$500,000",
+          "image": "images/jeff_merkley.jpg"
+        }
+      ]
+    },
+    "Pennsylvania": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Josh Shapiro",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$0",
+          "image": "images/josh_shapiro.jpg"
+        },
+        {
+          "name": "Bob Casey",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$399,000",
+          "image": "images/bob_casey.jpg"
+        },
+        {
+          "name": "John Fetterman",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "aipac": "$244,000",
+          "image": "images/john_fetterman.jpg"
+        }
+      ]
+    },
+    "Rhode Island": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Dan McKee",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/dan_mckee.jpg"
+        },
+        {
+          "name": "Jack Reed",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$600,000",
+          "image": "images/jack_reed.jpg"
+        },
+        {
+          "name": "Sheldon Whitehouse",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "aipac": "$617,000",
+          "image": "images/sheldon_whitehouse.jpg"
+        }
+      ]
+    },
+    "South Carolina": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Henry McMaster",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$0",
+          "image": "images/henry_mcmaster.jpg"
+        },
+        {
+          "name": "Lindsey Graham",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$1,800,000",
+          "image": "images/lindsey_graham.jpg"
+        },
+        {
+          "name": "Tim Scott",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Reformed",
+          "aipac": "$1,000,000",
+          "image": "images/tim_scott.jpg"
+        }
+      ]
+    },
+    "South Dakota": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Kristi Noem",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Evangelical",
+          "aipac": "$0",
+          "image": "images/kristi_noem.jpg"
+        },
+        {
+          "name": "Mike Rounds",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Episcopal",
+          "aipac": "$400,000",
+          "image": "images/mike_rounds.jpg"
+        },
+        {
+          "name": "John Thune",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$462,000",
+          "image": "images/john_thune.jpg"
+        }
+      ]
+    },
+    "Tennessee": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Bill Lee",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$0",
+          "image": "images/bill_lee.jpg"
+        },
+        {
+          "name": "Marsha Blackburn",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "aipac": "$500,000",
+          "image": "images/marsha_blackburn.jpg"
+        },
+        {
+          "name": "Bill Hagerty",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Episcopal",
+          "aipac": "$300,000",
+          "image": "images/bill_hagerty.jpg"
+        }
+      ]
+    },
+    "Texas": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Greg Abbott",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "aipac": "$0",
+          "image": "images/greg_abbott.jpg"
+        },
+        {
+          "name": "Ted Cruz",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Southern Baptist",
+          "aipac": "$353,000",
+          "image": "images/ted_cruz.jpg"
+        },
+        {
+          "name": "John Cornyn",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "aipac": "$800,000",
+          "image": "images/john_cornyn.jpg"
+        }
+      ]
+    },
+    "Utah": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Spencer Cox",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Mormon",
+          "aipac": "$0",
+          "image": "images/spencer_cox.jpg"
+        },
+        {
+          "name": "Mike Lee",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Mormon",
+          "aipac": "$400,000",
+          "image": "images/mike_lee.jpg"
+        },
+        {
+          "name": "John Curtis",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Mormon",
+          "aipac": "$13,500",
+          "image": "images/john_curtis.jpg"
+        }
+      ]
+    },
+    "Vermont": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Phil Scott",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/phil_scott.jpg"
+        },
+        {
+          "name": "Bernie Sanders",
+          "position": "Senator",
+          "party": "Independent",
+          "religion": "Jewish",
+          "aipac": "$10",
+          "image": "images/bernie_sanders.jpg"
+        },
+        {
+          "name": "Peter Welch",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$300,000",
+          "image": "images/peter_welch.jpg"
+        }
+      ]
+    },
+    "Virginia": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Abigail Spanberger",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/abigail_spanberger.jpg"
+        },
+        {
+          "name": "Mark Warner",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "aipac": "$800,000",
+          "image": "images/mark_warner.jpg"
+        },
+        {
+          "name": "Tim Kaine",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$500,000",
+          "image": "images/tim_kaine.jpg"
+        }
+      ]
+    },
+    "Washington": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Jay Inslee",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "aipac": "$0",
+          "image": "images/jay_inslee.jpg"
+        },
+        {
+          "name": "Patty Murray",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "aipac": "$613,000",
+          "image": "images/patty_murray.jpg"
+        },
+        {
+          "name": "Maria Cantwell",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$399,000",
+          "image": "images/maria_cantwell.jpg"
+        }
+      ]
+    },
+    "West Virginia": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Jim Justice",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "aipac": "$0",
+          "image": "images/jim_justice.jpg"
+        },
+        {
+          "name": "Joe Manchin",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$300,000",
+          "image": "images/joe_manchin.jpg"
+        },
+        {
+          "name": "Shelley Moore Capito",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "aipac": "$500,000",
+          "image": "images/shelley_moore_capito.jpg"
+        }
+      ]
+    },
+    "Wisconsin": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Tony Evers",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "aipac": "$0",
+          "image": "images/tony_evers.jpg"
+        },
+        {
+          "name": "Ron Johnson",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$200,000",
+          "image": "images/ron_johnson.jpg"
+        },
+        {
+          "name": "Tammy Baldwin",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$230,000",
+          "image": "images/tammy_baldwin.jpg"
+        }
+      ]
+    },
+    "Wyoming": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Mark Gordon",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Episcopal",
+          "aipac": "$0",
+          "image": "images/mark_gordon.jpg"
+        },
+        {
+          "name": "John Barrasso",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$389,000",
+          "image": "images/john_barrasso.jpg"
+        },
+        {
+          "name": "Cynthia Lummis",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Episcopal",
+          "aipac": "$200,000",
+          "image": "images/cynthia_lummis.jpg"
+        }
+      ]
+    }
+  }
+}

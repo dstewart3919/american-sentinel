@@ -38,7 +38,7 @@ function createShapeFromCoordinates(coordinates, stateName) {
 
 // ——— INIT ———
 async function init() {
-  const response = await fetch("data.json");
+  const response = await fetch("gov_sen_data.json");
   data = await response.json();
 
   scene = new THREE.Scene();
