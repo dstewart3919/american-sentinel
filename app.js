@@ -44,7 +44,11 @@ async function init() {
   data = await response.json();
 
   scene = new THREE.Scene();
-  scene.background = new THREE.Color(0x000814);
+  // Load flag.jpg as background texture
+  const loader = new THREE.TextureLoader();
+  loader.load("images/Flag.jpg", function (texture) {
+    scene.background = texture;
+  });
 
   camera = new THREE.PerspectiveCamera(
     35,
