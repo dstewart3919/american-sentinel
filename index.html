@@ -38,6 +38,25 @@
         max-height: 60vh;
         overflow-y: auto;
       }
+      details {
+        margin: 10px 0;
+      }
+      summary {
+        cursor: pointer;
+        user-select: none;
+        -webkit-tap-highlight-color: transparent;
+        list-style: none;
+        -webkit-appearance: none;
+      }
+      details::before {
+        content: "▶ ";
+        display: inline-block;
+        transform: rotate(90deg);
+        transition: transform 0.3s;
+      }
+      details[open]::before {
+        transform: rotate(0deg);
+      }
       .official {
         margin-bottom: 10px;
         padding: 5px;
