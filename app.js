@@ -58,9 +58,12 @@ async function init() {
   renderer.setPixelRatio(window.devicePixelRatio);
   document.body.appendChild(renderer.domElement);
 
+  // OrbitControls – iOS friendly settings
   controls = new THREE.OrbitControls(camera, renderer.domElement);
   controls.enableDamping = true;
   controls.dampingFactor = 0.08;
+  controls.rotateSpeed = 0.7;
+  controls.screenSpacePanning = true;
 
   scene.add(new THREE.AmbientLight(0xffffff, 0.7));
   const dirLight = new THREE.DirectionalLight(0xffffff, 0.6);
@@ -73,9 +76,8 @@ async function init() {
   const geoData = await geoResponse.json();
 
   raycaster = new THREE.Raycaster();
-  raycaster.params.Line.threshold = 0.5; // helps with thin lines
+  raycaster.params.Line.threshold = 0.5;
   mouse = new THREE.Vector2();
-
   // ——— CREATE STATES ———
   geoData.features.forEach((feature) => {
     const stateName = feature.properties.name;
@@ -96,12 +98,7 @@ async function init() {
 
     polygons.forEach((polygon) => {
       const shape = createShapeFromCoordinates(polygon, stateName);
-      const extrudeSettings = {
-        depth: 0.2,
-        bevelEnabled: false,
-        bevelThickness: 0.2,
-        bevelSize: 0.1,
-      };
+      const extrudeSettings = { depth: 0.2, bevelEnabled: false };
       const geometry = new THREE.ExtrudeGeometry(shape, extrudeSettings);
       const material = new THREE.MeshPhongMaterial({ color, shininess: 30 });
 
@@ -110,37 +107,91 @@ async function init() {
       scene.add(mesh);
       stateMeshes.push(mesh);
 
-      // ——— BORDERS THAT DON'T BLOCK CLICKS ———
+      // Invisible-to-raycast borders
       const edges = new THREE.EdgesGeometry(geometry);
       const line = new THREE.LineSegments(
         edges,
         new THREE.LineBasicMaterial({ color: 0x000000 })
       );
-      line.renderOrder = 999; // draw on top
-      line.material.depthTest = false; // prevent z-fighting
-      line.raycast = () => {}; // ← THIS IS THE KEY: borders are invisible to raycaster
+      line.renderOrder = 999;
+      line.material.depthTest = false;
+      line.raycast = () => {}; // ← blocks raycast
       mesh.add(line);
     });
   });
 
-  // ——— PERFECT CLICK/TAP HANDLER ———
-  const onPointer = (event) => {
-    event.preventDefault();
-    const clientX = event.clientX || event.changedTouches?.[0]?.clientX || 0;
-    const clientY = event.clientY || event.changedTouches?.[0]?.clientY || 0;
+  // —-- iOS + Desktop TAP DETECTION (THIS IS THE FIX) --—
+  let pointerDownInfo = null;
 
-    mouse.x = (clientX / window.innerWidth) * 2 - 1;
-    mouse.y = -(clientY / window.innerHeight) * 2 + 1;
+  const onPointerDown = (event) => {
+    // Ignore non-primary pointers (e.g. second finger during pinch)
+    if (event.isPrimary === false) return;
 
+    pointerDownInfo = {
+      x: event.clientX,
+      y: event.clientY,
+      time: Date.now(),
+      pointerId: event.pointerId,
+    };
+  };
+
+  const onPointerUp = (event) => {
+    if (!pointerDownInfo || event.isPrimary === false) return;
+
+    const dx = event.clientX - pointerDownInfo.x;
+    const dy = event.clientY - pointerDownInfo.y;
+    const distance = Math.hypot(dx, dy);
+    const time = Date.now() - pointerDownInfo.time;
+
+    // Consider it a tap if moved < 12px and released within 400ms
+    if (distance < 12 && time < 400) {
+      mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
+      mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+
+      raycaster.setFromCamera(mouse, camera);
+      const intersects = raycaster.intersectObjects(stateMeshes, true);
+
+      if (intersects.length > 0) {
+        const hit =
+          intersects.find((i) => i.object.userData.stateName) ||
+          intersects.find((i) => i.object.parent?.userData.stateName);
+
+        if (hit) {
+          const stateMesh = hit.object.userData.stateName
+            ? hit.object
+            : hit.object.parent;
+          showOfficials(stateMesh.userData.stateName);
+          pointerDownInfo = null;
+          return;
+        }
+      }
+      hideOfficials();
+    }
+
+    pointerDownInfo = null;
+  };
+
+  // —-- EVENT LISTENERS --—
+  const canvas = renderer.domElement;
+
+  canvas.addEventListener("pointerdown", onPointerDown);
+  canvas.addEventListener("pointerup", onPointerUp);
+  canvas.addEventListener("pointercancel", () => {
+    pointerDownInfo = null;
+  });
+
+  // Keep mouse click for desktop (optional but nice)
+  canvas.addEventListener("click", (e) => {
+    // Re-use same logic
+    mouse.x = (e.clientX / window.innerWidth) * 2 - 1;
+    mouse.y = -(e.clientY / window.innerHeight) * 2 + 1;
     raycaster.setFromCamera(mouse, camera);
-    const intersects = raycaster.intersectObjects(stateMeshes, true); // recursive = true
+    const intersects = raycaster.intersectObjects(stateMeshes, true);
 
     if (intersects.length > 0) {
-      // Find the first object that is a state mesh (skip lines)
       const hit =
         intersects.find((i) => i.object.userData.stateName) ||
         intersects.find((i) => i.object.parent?.userData.stateName);
-
       if (hit) {
         const stateMesh = hit.object.userData.stateName
           ? hit.object
@@ -150,10 +201,7 @@ async function init() {
       }
     }
     hideOfficials();
-  };
-
-  renderer.domElement.addEventListener("click", onPointer);
-  renderer.domElement.addEventListener("touchend", onPointer);
+  });
 
   window.addEventListener("resize", onWindowResize);
   animate();
@@ -171,7 +219,7 @@ function animate() {
   renderer.render(scene, camera);
 }
 
-// ——— INFO PANEL (unchanged) ———
+// —-- INFO PANEL --—
 function showOfficials(stateName) {
   document.getElementById("state-name").textContent = stateName;
   const list = document.getElementById("officials-list");
