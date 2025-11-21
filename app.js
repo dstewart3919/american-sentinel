@@ -60,8 +60,7 @@ async function init() {
 
   // OrbitControls – iOS friendly settings
   controls = new THREE.OrbitControls(camera, renderer.domElement);
-  controls.enableDamping = true;
-  controls.dampingFactor = 0.08;
+  controls.enableDamping = false;
   controls.rotateSpeed = 0.7;
   controls.screenSpacePanning = true;
 
