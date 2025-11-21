@@ -120,7 +120,15 @@ async function init() {
     });
   });
 
-  // —-- iOS + Desktop TAP DETECTION (THIS IS THE FIX) --—
+  const houseResponse = await fetch("house_data.json");
+  const houseData = await houseResponse.json();
+  for (let state in houseData.states) {
+    if (data.states[state]) {
+      data.states[state].officials.push(...houseData.states[state].officials);
+    }
+  }
+
+  // —-- iOS + Desktop TAP DETECTION (THIS IS THE FIX) ——
   let pointerDownInfo = null;
 
   const onPointerDown = (event) => {
@@ -171,7 +179,7 @@ async function init() {
     pointerDownInfo = null;
   };
 
-  // —-- EVENT LISTENERS --—
+  // —-- EVENT LISTENERS ——
   const canvas = renderer.domElement;
 
   canvas.addEventListener("pointerdown", onPointerDown);
@@ -219,7 +227,7 @@ function animate() {
   renderer.render(scene, camera);
 }
 
-// —-- INFO PANEL --—
+// —-- INFO PANEL ——
 function showOfficials(stateName) {
   document.getElementById("state-name").textContent = stateName;
   const list = document.getElementById("officials-list");
