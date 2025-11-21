@@ -264,15 +264,22 @@ function showOfficials(stateName) {
   govSen.forEach((o) => list.appendChild(createOfficialDiv(o)));
   // Append House if any
   if (house.length > 0) {
-    const details = document.createElement("details");
-    const summary = document.createElement("summary");
-    summary.textContent = `House Representatives (${house.length})`;
-    details.appendChild(summary);
+    const houseHeader = document.createElement("div");
+    houseHeader.textContent = `House Representatives (${house.length})`;
+    houseHeader.style.cssText =
+      "cursor: pointer; font-weight: bold; margin-bottom: 5px;";
+    houseHeader.addEventListener("click", () => {
+      if (houseDiv.style.display === "none" || houseDiv.style.display === "") {
+        houseDiv.style.display = "block";
+      } else {
+        houseDiv.style.display = "none";
+      }
+    });
     const houseDiv = document.createElement("div");
-    houseDiv.style.cssText = "margin-left: 20px;";
+    houseDiv.style.cssText = "margin-left: 20px; display: none;";
     house.forEach((o) => houseDiv.appendChild(createOfficialDiv(o)));
-    details.appendChild(houseDiv);
-    list.appendChild(details);
+    list.appendChild(houseHeader);
+    list.appendChild(houseDiv);
   }
   document.getElementById("info").style.display = "block";
 }
