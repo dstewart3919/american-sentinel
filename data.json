@@ -1,0 +1,1654 @@
+{
+  "states": {
+    "Alabama": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Kay Ivey",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/kay_ivey.jpg"
+        },
+        {
+          "name": "Tommy Tuberville",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/tommy_tuberville.jpg"
+        },
+        {
+          "name": "Katie Britt",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/katie_britt.jpg"
+        },
+        {
+          "name": "Steven Reed",
+          "position": "Mayor of Montgomery",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "image": "images/steven_reed.jpg"
+        }
+      ]
+    },
+    "Alaska": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Mike Dunleavy",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/mike_dunleavy.jpg"
+        },
+        {
+          "name": "Lisa Murkowski",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Episcopal",
+          "image": "images/lisa_murkowski.jpg"
+        },
+        {
+          "name": "Dan Sullivan",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/dan_sullivan.jpg"
+        },
+        {
+          "name": "Suzanne LaFrance",
+          "position": "Mayor of Anchorage",
+          "party": "Non-partisan",
+          "religion": "Unknown",
+          "image": "images/suzanne_lafrance.jpg"
+        }
+      ]
+    },
+    "Arizona": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Katie Hobbs",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Mormon (raised)",
+          "image": "images/katie_hobbs.jpg"
+        },
+        {
+          "name": "Kyrsten Sinema",
+          "position": "Senator",
+          "party": "Independent",
+          "religion": "Unknown",
+          "image": "images/kyrsten_sinema.jpg"
+        },
+        {
+          "name": "Mark Kelly",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/mark_kelly.jpg"
+        },
+        {
+          "name": "Kate Gallego",
+          "position": "Mayor of Phoenix",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/kate_gallego.jpg"
+        }
+      ]
+    },
+    "Arkansas": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Sarah Huckabee Sanders",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/sarah_huckabee_sanders.jpg"
+        },
+        {
+          "name": "John Boozman",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/john_boozman.jpg"
+        },
+        {
+          "name": "Tom Cotton",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/tom_cotton.jpg"
+        },
+        {
+          "name": "Frank Scott Jr.",
+          "position": "Mayor of Little Rock",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/frank_scott_jr.jpg"
+        }
+      ]
+    },
+    "California": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Gavin Newsom",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/gavin_newsom.jpg"
+        },
+        {
+          "name": "Alex Padilla",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/alex_padilla.jpg"
+        },
+        {
+          "name": "Laphonza Butler",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/laphonza_butler.jpg"
+        },
+        {
+          "name": "Karen Bass",
+          "position": "Mayor of Los Angeles",
+          "party": "Democrat",
+          "religion": "Methodist",
+          "image": "images/karen_bass.jpg"
+        }
+      ]
+    },
+    "Colorado": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Jared Polis",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/jared_polis.jpg"
+        },
+        {
+          "name": "Michael Bennet",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/michael_bennet.jpg"
+        },
+        {
+          "name": "John Hickenlooper",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/john_hickenlooper.jpg"
+        },
+        {
+          "name": "Mike Johnston",
+          "position": "Mayor of Denver",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/mike_johnston.jpg"
+        }
+      ]
+    },
+    "Connecticut": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Ned Lamont",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "image": "images/ned_lamont.jpg"
+        },
+        {
+          "name": "Richard Blumenthal",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/richard_blumenthal.jpg"
+        },
+        {
+          "name": "Chris Murphy",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/chris_murphy.jpg"
+        },
+        {
+          "name": "Luke Bronin",
+          "position": "Mayor of Hartford",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/luke_bronin.jpg"
+        }
+      ]
+    },
+    "Delaware": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "John Carney",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/john_carney.jpg"
+        },
+        {
+          "name": "Tom Carper",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "image": "images/tom_carper.jpg"
+        },
+        {
+          "name": "Chris Coons",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "image": "images/chris_coons.jpg"
+        },
+        {
+          "name": "Mike Purzycki",
+          "position": "Mayor of Wilmington",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/mike_purzycki.jpg"
+        }
+      ]
+    },
+    "Florida": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Ron DeSantis",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/ron_desantis.jpg"
+        },
+        {
+          "name": "Rick Scott",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/rick_scott.jpg"
+        },
+        {
+          "name": "Marco Rubio",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/marco_rubio.jpg"
+        },
+        {
+          "name": "Francis Suarez",
+          "position": "Mayor of Miami",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/francis_suarez.jpg"
+        }
+      ]
+    },
+    "Georgia": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Brian Kemp",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/brian_kemp.jpg"
+        },
+        {
+          "name": "Jon Ossoff",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/jon_ossoff.jpg"
+        },
+        {
+          "name": "Raphael Warnock",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "image": "images/raphael_warnock.jpg"
+        },
+        {
+          "name": "Andre Dickens",
+          "position": "Mayor of Atlanta",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "image": "images/andre_dickens.jpg"
+        }
+      ]
+    },
+    "Hawaii": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Josh Green",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/josh_green.jpg"
+        },
+        {
+          "name": "Brian Schatz",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/brian_schatz.jpg"
+        },
+        {
+          "name": "Mazie Hirono",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Buddhist",
+          "image": "images/mazie_hirono.jpg"
+        },
+        {
+          "name": "Rick Blangiardi",
+          "position": "Mayor of Honolulu",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/rick_blangiardi.jpg"
+        }
+      ]
+    },
+    "Idaho": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Brad Little",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/brad_little.jpg"
+        },
+        {
+          "name": "Mike Crapo",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Mormon",
+          "image": "images/mike_crapo.jpg"
+        },
+        {
+          "name": "Jim Risch",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/jim_risch.jpg"
+        },
+        {
+          "name": "Lauren McLean",
+          "position": "Mayor of Boise",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/lauren_mclean.jpg"
+        }
+      ]
+    },
+    "Illinois": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "J.B. Pritzker",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/jb_pritzker.jpg"
+        },
+        {
+          "name": "Dick Durbin",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/dick_durbin.jpg"
+        },
+        {
+          "name": "Tammy Duckworth",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Buddhist",
+          "image": "images/tammy_duckworth.jpg"
+        },
+        {
+          "name": "Brandon Johnson",
+          "position": "Mayor of Chicago",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/brandon_johnson.jpg"
+        }
+      ]
+    },
+    "Indiana": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Eric Holcomb",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/eric_holcomb.jpg"
+        },
+        {
+          "name": "Mike Braun",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Mormon",
+          "image": "images/mike_braun.jpg"
+        },
+        {
+          "name": "Todd Young",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/todd_young.jpg"
+        },
+        {
+          "name": "Joe Hogsett",
+          "position": "Mayor of Indianapolis",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/joe_hogsett.jpg"
+        }
+      ]
+    },
+    "Iowa": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Kim Reynolds",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Methodist",
+          "image": "images/kim_reynolds.jpg"
+        },
+        {
+          "name": "Chuck Grassley",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/chuck_grassley.jpg"
+        },
+        {
+          "name": "Joni Ernst",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Lutheran",
+          "image": "images/joni_ernst.jpg"
+        },
+        {
+          "name": "Connie Boesen",
+          "position": "Mayor of Des Moines",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/connie_boesen.jpg"
+        }
+      ]
+    },
+    "Kansas": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Laura Kelly",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Methodist",
+          "image": "images/laura_kelly.jpg"
+        },
+        {
+          "name": "Jerry Moran",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "image": "images/jerry_moran.jpg"
+        },
+        {
+          "name": "Roger Marshall",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/roger_marshall.jpg"
+        },
+        {
+          "name": "Brandon Whipple",
+          "position": "Mayor of Wichita",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/brandon_whipple.jpg"
+        }
+      ]
+    },
+    "Kentucky": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Andy Beshear",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "image": "images/andy_beshear.jpg"
+        },
+        {
+          "name": "Mitch McConnell",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/mitch_mcconnell.jpg"
+        },
+        {
+          "name": "Rand Paul",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Christian",
+          "image": "images/rand_paul.jpg"
+        },
+        {
+          "name": "Craig Greenberg",
+          "position": "Mayor of Louisville",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/craig_greenberg.jpg"
+        }
+      ]
+    },
+    "Louisiana": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Jeff Landry",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/jeff_landry.jpg"
+        },
+        {
+          "name": "Bill Cassidy",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/bill_cassidy.jpg"
+        },
+        {
+          "name": "John Kennedy",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/john_kennedy.jpg"
+        },
+        {
+          "name": "LaToya Cantrell",
+          "position": "Mayor of New Orleans",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "image": "images/latoya_cantrell.jpg"
+        }
+      ]
+    },
+    "Maine": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Janet Mills",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/janet_mills.jpg"
+        },
+        {
+          "name": "Susan Collins",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/susan_collins.jpg"
+        },
+        {
+          "name": "Angus King",
+          "position": "Senator",
+          "party": "Independent",
+          "religion": "Episcopal",
+          "image": "images/angus_king.jpg"
+        },
+        {
+          "name": "Dale Crafts",
+          "position": "Mayor of Portland",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/dale_crafts.jpg"
+        }
+      ]
+    },
+    "Maryland": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Wes Moore",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "image": "images/wes_moore.jpg"
+        },
+        {
+          "name": "Ben Cardin",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/ben_cardin.jpg"
+        },
+        {
+          "name": "Chris Van Hollen",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/chris_van_hollen.jpg"
+        },
+        {
+          "name": "Brandon Scott",
+          "position": "Mayor of Baltimore",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/brandon_scott.jpg"
+        }
+      ]
+    },
+    "Massachusetts": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Maura Healey",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/maura_healey.jpg"
+        },
+        {
+          "name": "Elizabeth Warren",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Methodist",
+          "image": "images/elizabeth_warren.jpg"
+        },
+        {
+          "name": "Ed Markey",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/ed_markey.jpg"
+        },
+        {
+          "name": "Michelle Wu",
+          "position": "Mayor of Boston",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/michelle_wu.jpg"
+        }
+      ]
+    },
+    "Michigan": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Gretchen Whitmer",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "image": "images/gretchen_whitmer.jpg"
+        },
+        {
+          "name": "Gary Peters",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/gary_peters.jpg"
+        },
+        {
+          "name": "Debbie Stabenow",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/debbie_stabenow.jpg"
+        },
+        {
+          "name": "Mike Duggan",
+          "position": "Mayor of Detroit",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/mike_duggan.jpg"
+        }
+      ]
+    },
+    "Minnesota": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Tim Walz",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Lutheran",
+          "image": "images/tim_walz.jpg"
+        },
+        {
+          "name": "Amy Klobuchar",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/amy_klobuchar.jpg"
+        },
+        {
+          "name": "Tina Smith",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/tina_smith.jpg"
+        },
+        {
+          "name": "Jacob Frey",
+          "position": "Mayor of Minneapolis",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/jacob_frey.jpg"
+        }
+      ]
+    },
+    "Mississippi": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Tate Reeves",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/tate_reeves.jpg"
+        },
+        {
+          "name": "Roger Wicker",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/roger_wicker.jpg"
+        },
+        {
+          "name": "Cindy Hyde-Smith",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/cindy_hyde_smith.jpg"
+        },
+        {
+          "name": "Chokwe Antar Lumumba",
+          "position": "Mayor of Jackson",
+          "party": "Democrat",
+          "religion": "Muslim",
+          "image": "images/chokwe_antarlumumba.jpg"
+        }
+      ]
+    },
+    "Missouri": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Mike Parson",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/mike_parson.jpg"
+        },
+        {
+          "name": "Josh Hawley",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/josh_hawley.jpg"
+        },
+        {
+          "name": "Eric Schmitt",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/eric_schmitt.jpg"
+        },
+        {
+          "name": "Quinton Lucas",
+          "position": "Mayor of Kansas City",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/quinton_lucas.jpg"
+        }
+      ]
+    },
+    "Montana": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Greg Gianforte",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Christian",
+          "image": "images/greg_gianforte.jpg"
+        },
+        {
+          "name": "Jon Tester",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/jon_tester.jpg"
+        },
+        {
+          "name": "Steve Daines",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/steve_daines.jpg"
+        },
+        {
+          "name": "Bill Cherkasky",
+          "position": "Mayor of Billings",
+          "party": "Non-partisan",
+          "religion": "Unknown",
+          "image": "images/bill_cherkasky.jpg"
+        }
+      ]
+    },
+    "Nebraska": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Jim Pillen",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/jim_pillen.jpg"
+        },
+        {
+          "name": "Deb Fischer",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "image": "images/deb_fischer.jpg"
+        },
+        {
+          "name": "Pete Ricketts",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/pete_ricketts.jpg"
+        },
+        {
+          "name": "Jean Stothert",
+          "position": "Mayor of Omaha",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/jean_stothert.jpg"
+        }
+      ]
+    },
+    "Nevada": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Joe Lombardo",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/joe_lombardo.jpg"
+        },
+        {
+          "name": "Catherine Cortez Masto",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/catherine_cortez_masto.jpg"
+        },
+        {
+          "name": "Jacky Rosen",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/jacky_rosen.jpg"
+        },
+        {
+          "name": "Shelly Berkley",
+          "position": "Mayor of Las Vegas",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/shelly_berkley.jpg"
+        }
+      ]
+    },
+    "New Hampshire": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Chris Sununu",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/chris_sununu.jpg"
+        },
+        {
+          "name": "Jeanne Shaheen",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Greek Orthodox",
+          "image": "images/jeanne_shaheen.jpg"
+        },
+        {
+          "name": "Maggie Hassan",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "image": "images/maggie_hassan.jpg"
+        },
+        {
+          "name": "Joyce Craig",
+          "position": "Mayor of Manchester",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/joyce_craig.jpg"
+        }
+      ]
+    },
+    "New Jersey": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Mikie Sherrill",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "image": "images/mikie_sherrill.jpg"
+        },
+        {
+          "name": "Cory Booker",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "image": "images/cory_booker.jpg"
+        },
+        {
+          "name": "Andy Kim",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "image": "images/andy_kim.jpg"
+        },
+        {
+          "name": "Ras Baraka",
+          "position": "Mayor of Newark",
+          "party": "Democrat",
+          "religion": "Muslim",
+          "image": "images/ras_baraka.jpg"
+        }
+      ]
+    },
+    "New Mexico": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Michelle Lujan Grisham",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/michelle_lujan_grisham.jpg"
+        },
+        {
+          "name": "Martin Heinrich",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/martin_heinrich.jpg"
+        },
+        {
+          "name": "Ben Ray Luján",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/ben_ray_lujan.jpg"
+        },
+        {
+          "name": "Tim Keller",
+          "position": "Mayor of Albuquerque",
+          "party": "Democrat",
+          "religion": "Lutheran",
+          "image": "images/tim_keller.jpg"
+        }
+      ]
+    },
+    "New York": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Kathy Hochul",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/kathy_hochul.jpg"
+        },
+        {
+          "name": "Chuck Schumer",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/chuck_schumer.jpg"
+        },
+        {
+          "name": "Kirsten Gillibrand",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Methodist",
+          "image": "images/kirsten_gillibrand.jpg"
+        },
+        {
+          "name": "Zohran Mamdani",
+          "position": "Mayor of New York City",
+          "party": "Democrat",
+          "religion": "Muslim",
+          "image": "images/zohran_mamdani.jpg"
+        }
+      ]
+    },
+    "North Carolina": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Roy Cooper",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "image": "images/roy_cooper.jpg"
+        },
+        {
+          "name": "Thom Tillis",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "image": "images/thom_tillis.jpg"
+        },
+        {
+          "name": "Ted Budd",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/ted_budd.jpg"
+        },
+        {
+          "name": "Vi Lyles",
+          "position": "Mayor of Charlotte",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "image": "images/vi_lyles.jpg"
+        }
+      ]
+    },
+    "North Dakota": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Doug Burgum",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/doug_burgum.jpg"
+        },
+        {
+          "name": "Kevin Cramer",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Lutheran",
+          "image": "images/kevin_cramer.jpg"
+        },
+        {
+          "name": "John Hoeven",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/john_hoeven.jpg"
+        },
+        {
+          "name": "Tim Mahoney",
+          "position": "Mayor of Fargo",
+          "party": "Non-partisan",
+          "religion": "Unknown",
+          "image": "images/tim_mahoney.jpg"
+        }
+      ]
+    },
+    "Ohio": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Mike DeWine",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/mike_dewine.jpg"
+        },
+        {
+          "name": "Sherrod Brown",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/sherrod_brown.jpg"
+        },
+        {
+          "name": "Bernie Moreno",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/bernie_moreno.jpg"
+        },
+        {
+          "name": "Andrew Ginther",
+          "position": "Mayor of Columbus",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/andrew_ginther.jpg"
+        }
+      ]
+    },
+    "Oklahoma": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Kevin Stitt",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/kevin_stitt.jpg"
+        },
+        {
+          "name": "James Lankford",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/james_lankford.jpg"
+        },
+        {
+          "name": "Markwayne Mullin",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/markwayne_mullin.jpg"
+        },
+        {
+          "name": "David Holt",
+          "position": "Mayor of Oklahoma City",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/david_holt.jpg"
+        }
+      ]
+    },
+    "Oregon": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Tina Kotek",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/tina_kotek.jpg"
+        },
+        {
+          "name": "Ron Wyden",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/ron_wyden.jpg"
+        },
+        {
+          "name": "Jeff Merkley",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Methodist",
+          "image": "images/jeff_merkley.jpg"
+        },
+        {
+          "name": "Ted Wheeler",
+          "position": "Mayor of Portland",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/ted_wheeler.jpg"
+        }
+      ]
+    },
+    "Pennsylvania": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Josh Shapiro",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "image": "images/josh_shapiro.jpg"
+        },
+        {
+          "name": "Bob Casey",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/bob_casey.jpg"
+        },
+        {
+          "name": "John Fetterman",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "image": "images/john_fetterman.jpg"
+        },
+        {
+          "name": "Cherelle Parker",
+          "position": "Mayor of Philadelphia",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "image": "images/cherelle_parker.jpg"
+        }
+      ]
+    },
+    "Rhode Island": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Dan McKee",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/dan_mckee.jpg"
+        },
+        {
+          "name": "Jack Reed",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/jack_reed.jpg"
+        },
+        {
+          "name": "Sheldon Whitehouse",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "image": "images/sheldon_whitehouse.jpg"
+        },
+        {
+          "name": "Sabina Matos",
+          "position": "Mayor of Providence",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/sabina_matos.jpg"
+        }
+      ]
+    },
+    "South Carolina": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Henry McMaster",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/henry_mcmaster.jpg"
+        },
+        {
+          "name": "Lindsey Graham",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/lindsey_graham.jpg"
+        },
+        {
+          "name": "Tim Scott",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Reformed",
+          "image": "images/tim_scott.jpg"
+        },
+        {
+          "name": "John Tecklenburg",
+          "position": "Mayor of Charleston",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "image": "images/john_tecklenburg.jpg"
+        }
+      ]
+    },
+    "South Dakota": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Kristi Noem",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Evangelical",
+          "image": "images/kristi_noem.jpg"
+        },
+        {
+          "name": "Mike Rounds",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Episcopal",
+          "image": "images/mike_rounds.jpg"
+        },
+        {
+          "name": "John Thune",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/john_thune.jpg"
+        },
+        {
+          "name": "Paul TenHaken",
+          "position": "Mayor of Sioux Falls",
+          "party": "Republican",
+          "religion": "Christian",
+          "image": "images/paul_tenhaken.jpg"
+        }
+      ]
+    },
+    "Tennessee": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Bill Lee",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/bill_lee.jpg"
+        },
+        {
+          "name": "Marsha Blackburn",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Presbyterian",
+          "image": "images/marsha_blackburn.jpg"
+        },
+        {
+          "name": "Bill Hagerty",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Episcopal",
+          "image": "images/bill_hagerty.jpg"
+        },
+        {
+          "name": "John Cooper",
+          "position": "Mayor of Nashville",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "image": "images/john_cooper.jpg"
+        }
+      ]
+    },
+    "Texas": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Greg Abbott",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Catholic",
+          "image": "images/greg_abbott.jpg"
+        },
+        {
+          "name": "Ted Cruz",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Southern Baptist",
+          "image": "images/ted_cruz.jpg"
+        },
+        {
+          "name": "John Cornyn",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "image": "images/john_cornyn.jpg"
+        },
+        {
+          "name": "John Whitmire",
+          "position": "Mayor of Houston",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "image": "images/john_whitmire.jpg"
+        }
+      ]
+    },
+    "Utah": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Spencer Cox",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Mormon",
+          "image": "images/spencer_cox.jpg"
+        },
+        {
+          "name": "Mike Lee",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Mormon",
+          "image": "images/mike_lee.jpg"
+        },
+        {
+          "name": "John Curtis",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Mormon",
+          "image": "images/john_curtis.jpg"
+        },
+        {
+          "name": "Erin Mendenhall",
+          "position": "Mayor of Salt Lake City",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/erin_mendenhall.jpg"
+        }
+      ]
+    },
+    "Vermont": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Phil Scott",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/phil_scott.jpg"
+        },
+        {
+          "name": "Bernie Sanders",
+          "position": "Senator",
+          "party": "Independent",
+          "religion": "Jewish",
+          "image": "images/bernie_sanders.jpg"
+        },
+        {
+          "name": "Peter Welch",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/peter_welch.jpg"
+        },
+        {
+          "name": "Alicia Peterman",
+          "position": "Mayor of Burlington",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/alicia_peterman.jpg"
+        }
+      ]
+    },
+    "Virginia": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Abigail Spanberger",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/abigail_spanberger.jpg"
+        },
+        {
+          "name": "Mark Warner",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "image": "images/mark_warner.jpg"
+        },
+        {
+          "name": "Tim Kaine",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/tim_kaine.jpg"
+        },
+        {
+          "name": "Levar Stoney",
+          "position": "Mayor of Richmond",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/levar_stoney.jpg"
+        }
+      ]
+    },
+    "Washington": {
+      "party": "Democrat",
+      "officials": [
+        {
+          "name": "Jay Inslee",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "image": "images/jay_inslee.jpg"
+        },
+        {
+          "name": "Patty Murray",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Catholic",
+          "image": "images/patty_murray.jpg"
+        },
+        {
+          "name": "Maria Cantwell",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/maria_cantwell.jpg"
+        },
+        {
+          "name": "Bruce Harrell",
+          "position": "Mayor of Seattle",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/bruce_harrell.jpg"
+        }
+      ]
+    },
+    "West Virginia": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Jim Justice",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Baptist",
+          "image": "images/jim_justice.jpg"
+        },
+        {
+          "name": "Joe Manchin",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/joe_manchin.jpg"
+        },
+        {
+          "name": "Shelley Moore Capito",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Methodist",
+          "image": "images/shelley_moore_capito.jpg"
+        },
+        {
+          "name": "Amy Shuler Goodwin",
+          "position": "Mayor of Charleston",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/amy_shuler_goodwin.jpg"
+        }
+      ]
+    },
+    "Wisconsin": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Tony Evers",
+          "position": "Governor",
+          "party": "Democrat",
+          "religion": "Presbyterian",
+          "image": "images/tony_evers.jpg"
+        },
+        {
+          "name": "Ron Johnson",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/ron_johnson.jpg"
+        },
+        {
+          "name": "Tammy Baldwin",
+          "position": "Senator",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/tammy_baldwin.jpg"
+        },
+        {
+          "name": "Cavalier Johnson",
+          "position": "Mayor of Milwaukee",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "image": "images/cavalier_johnson.jpg"
+        }
+      ]
+    },
+    "Wyoming": {
+      "party": "Republican",
+      "officials": [
+        {
+          "name": "Mark Gordon",
+          "position": "Governor",
+          "party": "Republican",
+          "religion": "Episcopal",
+          "image": "images/mark_gordon.jpg"
+        },
+        {
+          "name": "John Barrasso",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/john_barrasso.jpg"
+        },
+        {
+          "name": "Cynthia Lummis",
+          "position": "Senator",
+          "party": "Republican",
+          "religion": "Episcopal",
+          "image": "images/cynthia_lummis.jpg"
+        },
+        {
+          "name": "Mary Elizabeth Walsh",
+          "position": "Mayor of Cheyenne",
+          "party": "Republican",
+          "religion": "Unknown",
+          "image": "images/mary_elizabeth_walsh.jpg"
+        }
+      ]
+    }
+  }
+}

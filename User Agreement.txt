@@ -1,0 +1,55 @@
+User Agreement for American Sentinel
+
+Effective Date: January 24, 2025
+
+1. Introduction By using the American Sentinel app ("App"), you agree to be bound by the terms and conditions set forth in this User Agreement ("Agreement"). This Agreement is between you ("User" or "You") and [Company Name], the developer of the App ("we", "our", or "us"). Please read this Agreement carefully before using the App.
+
+2. Purpose of the App American Sentinel provides a platform for users to report and publicly disclose a wide range of issues, including but not limited to:
+
+Government corruption
+Immigration violations
+Child abuse
+Police or government abuse
+UFO sightings
+Any other events or issues you believe are important and worth reporting
+These reports will be publicly available for viewing by other users. The goal is to create a transparent platform where all issues, both positive and negative, can be shared and discussed.
+
+3. User Responsibilities
+
+Accuracy of Information: You agree to provide true, accurate, and complete information when submitting reports. False or misleading reports may result in legal action. You are responsible for ensuring that all information provided is truthful and correct.
+Prohibited Use: You may not use the App to submit reports that are malicious, false, defamatory, abusive, or otherwise unlawful. Any attempt to use the App for unlawful purposes will result in the immediate suspension of your access to the App, and we may report you to the relevant authorities.
+No Harassment: You agree not to use the App for harassment or harm toward others, including submitting reports with the intent to harm the reputation or privacy of any individual or entity.
+Public Access to Reports: You acknowledge that all reports you submit through the App may be made publicly accessible. You are solely responsible for the content of the reports and understand that they may be viewed, shared, and discussed by others.
+Extraordinary Claims: Reports related to UFO sightings or other extraordinary claims will also be made public. However, you acknowledge that such claims may be viewed with skepticism and critical analysis by others.
+4. Limitation of Liability
+
+Accuracy and Verification of Reports: While the App allows for the submission of reports, we do not verify or validate the accuracy of these reports. We are not liable for any action taken or not taken based on the information provided in a report.
+False Reports: You acknowledge that submitting false reports may subject you to legal action, including civil and criminal penalties, depending on your jurisdiction. You are solely responsible for any consequences arising from false or misleading reports.
+Third-Party Actions: The App may link to third-party services or organizations to which reports are forwarded. We do not control these services and are not responsible for their actions or outcomes.
+5. Privacy and Data Protection
+
+Data Collection: By using the App, you agree that we may collect certain personal data necessary to process your report. This data may include, but is not limited to, your IP address, location, and other details provided in your report.
+Data Security: We use commercially reasonable efforts to protect your data, but we cannot guarantee its security. By submitting reports, you understand and accept the risks associated with data transmission and storage.
+Compliance with GDPR (EU): If you are located in the European Union (EU), you have specific rights under the General Data Protection Regulation (GDPR). We are committed to protecting your privacy in accordance with GDPR guidelines, including the right to access, correct, and delete your personal data. For more information, please see our Privacy Policy.
+6. Intellectual Property
+
+Ownership: All intellectual property rights in the App, including but not limited to software, design, and content, are owned by [Company Name] or its licensors. You are granted a limited, non-exclusive, non-transferable license to use the App in accordance with this Agreement.
+User-Generated Content: You retain ownership of any content you submit through the App, but you grant us a worldwide, royalty-free license to use, store, and display such content for the purposes of operating the App.
+7. Termination
+
+Suspension or Termination of Account: We reserve the right to suspend or terminate your access to the App at any time, with or without cause, and with or without notice, particularly if you violate any provisions of this Agreement or engage in prohibited activity.
+Effect of Termination: Upon termination, you must immediately cease using the App. Any data or reports submitted may be retained as required by applicable law.
+8. Legal Compliance
+
+Compliance with Laws (Canada and EU): You agree to comply with all applicable laws in your jurisdiction, including laws regarding the submission of reports and privacy regulations. If you are in Canada, your use of the App is subject to the Personal Information Protection and Electronic Documents Act (PIPEDA), and if you are in the EU, the General Data Protection Regulation (GDPR) applies.
+False Reports (Canada): Under Canadian law, submitting false reports can result in criminal charges. You may be subject to prosecution for providing false or misleading information under the Criminal Code of Canada.
+False Reports (EU): In the EU, submitting false reports could lead to civil and criminal liability under applicable national laws, as well as potential sanctions under GDPR for misuse of personal data.
+9. Dispute Resolution
+
+Governing Law: This Agreement shall be governed by and construed in accordance with the laws of [Insert Jurisdiction].
+Arbitration: Any dispute arising out of or related to this Agreement shall be resolved through binding arbitration in [Insert Location], unless otherwise agreed by the parties.
+Class Action Waiver: You agree that any dispute will be resolved on an individual basis and not as part of a class or representative action.
+10. Modifications to This Agreement We reserve the right to modify this Agreement at any time. Any changes will be posted on this page, and the "Effective Date" at the top will be updated accordingly. It is your responsibility to review this Agreement periodically for any changes.
+
+11. Contact Information If you have any questions about this Agreement or the App, please contact us at [Insert Contact Information].
+
