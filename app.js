@@ -226,7 +226,44 @@ async function init() {
   });
 
   window.addEventListener("resize", onWindowResize);
+  await loadPresidentTeam();
   animate();
+}
+
+async function loadPresidentTeam() {
+  try {
+    const response = await fetch("president_team_data.json");
+    const teamData = await response.json();
+    const teamContainer = document.querySelector(".team");
+    teamContainer.innerHTML = ""; // Clear existing hardcoded content
+
+    teamData.officials.forEach((official) => {
+      const memberDiv = document.createElement("div");
+      memberDiv.className = "team-member";
+
+      const img = document.createElement("img");
+      img.src = official.image;
+      img.alt = official.name;
+      img.onerror = function () {
+        this.src = "https://via.placeholder.com/80";
+      };
+
+      const span = document.createElement("div");
+      span.className = "team-member-info";
+      span.innerHTML = `
+        <strong>${official.name}</strong><br>
+        <small>${official.position} • ${official.party}</small><br>
+        <small>Religion: ${official.religion || "—"}</small><br>
+        <small>AIPAC: ${official.aipac || "—"}</small>
+      `;
+
+      memberDiv.appendChild(img);
+      memberDiv.appendChild(span);
+      teamContainer.appendChild(memberDiv);
+    });
+  } catch (error) {
+    console.error("Failed to load president team data:", error);
+  }
 }
 
 function onWindowResize() {
