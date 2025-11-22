@@ -46,7 +46,7 @@ async function init() {
   scene = new THREE.Scene();
   // Load flag.jpg as background texture
   const loader = new THREE.TextureLoader();
-  loader.load("images/Flag.jpg", function (texture) {
+  loader.load("images/flag.jpg", function (texture) {
     scene.background = texture;
   });
 
