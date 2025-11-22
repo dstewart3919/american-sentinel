@@ -4,23 +4,73 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>American Sentinel</title>
+    <link
+      href="https://fonts.googleapis.com/css2?family=Oswald:wght@700&family=Roboto:wght@400;500&display=swap"
+      rel="stylesheet"
+    />
     <style>
       body {
         margin: 0;
         overflow: auto;
-        font-family: Arial, sans-serif;
+        font-family: "Roboto", sans-serif;
         padding: 20px;
       }
       header {
-        text-align: center;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
         margin-bottom: 20px;
       }
+      #logo {
+        height: 120px;
+        margin-bottom: 10px;
+      }
       header h1 {
+        font-family: "Oswald", sans-serif;
         margin: 0;
+        font-size: 4.5em;
       }
       header p {
         color: #666;
         font-style: italic;
+        font-family: "Roboto", serif;
+        font-size: 1.2em;
+      }
+      #metrics-section {
+        margin-bottom: 20px;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background: #f0f8ff;
+      }
+      #metrics-section h2 {
+        margin-top: 0;
+        text-align: center;
+      }
+      .metrics-container {
+        display: flex;
+        justify-content: space-around;
+        flex-wrap: wrap;
+        gap: 20px;
+      }
+      .metric {
+        background: white;
+        padding: 15px;
+        border-radius: 5px;
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        min-width: 200px;
+        text-align: center;
+        font-weight: 500;
+      }
+      @media (max-width: 768px) {
+        .metrics-container {
+          flex-direction: column;
+          align-items: center;
+        }
+        .metric {
+          min-width: auto;
+          width: 100%;
+        }
       }
       #president-section {
         margin-bottom: 20px;
@@ -103,13 +153,26 @@
   </head>
   <body>
     <header>
+      <img
+        src="images/american_sentinel.png"
+        alt="American Sentinel Logo"
+        id="logo"
+      />
       <h1>American Sentinel</h1>
       <p>"Restoring America, Through transparency"</p>
     </header>
+    <section id="metrics-section">
+      <h2>US Economic Indicators (2025)</h2>
+      <div class="metrics-container">
+        <div class="metric" id="debt">National Debt: Loading...</div>
+        <div class="metric" id="unemployment">
+          Unemployment Rate: Loading...
+        </div>
+        <div class="metric" id="foreign-aid">Foreign Aid: Loading...</div>
+      </div>
+    </section>
     <section id="president-section">
-      <h2>The President and His Administration</h2>
-      <p>Monitoring the current administration's actions and policies.</p>
-      <h3>Key Administration Officials</h3>
+      <h2>Key Administration Officials</h2>
       <div class="team">
         <!-- Team members will be loaded dynamically from president_team_data.json -->
       </div>

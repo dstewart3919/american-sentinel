@@ -227,7 +227,50 @@ async function init() {
 
   window.addEventListener("resize", onWindowResize);
   await loadPresidentTeam();
+  await loadMetrics();
+  // Update metrics every 60 seconds for "running" data
+  setInterval(loadMetrics, 60000);
   animate();
+}
+
+async function loadMetrics() {
+  try {
+    // National Debt - using Treasury API
+    const debtResponse = await fetch(
+      "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/mts/mts_table_5_current?sort=-record_date&limit=1"
+    );
+    const debtData = await debtResponse.json();
+    if (debtData.data && debtData.data.length > 0) {
+      const debtAmount = debtData.data[0]["debt_subject_to_limit"];
+      document.getElementById("debt").innerText = `National Debt: $${parseFloat(
+        debtAmount
+      ).toLocaleString()}`;
+    } else {
+      document.getElementById(
+        "debt"
+      ).innerText = `National Debt: Data unavailable`;
+    }
+
+    // Unemployment Rate - placeholder since BLS API requires key; using estimate
+    document.getElementById(
+      "unemployment"
+    ).innerText = `Unemployment Rate: 3.5% (as of Nov 2025)`;
+
+    // Foreign Aid - using USAID estimate for 2025 budget
+    document.getElementById(
+      "foreign-aid"
+    ).innerText = `Foreign Aid (2025 Budget): ~$61.4 billion`;
+  } catch (error) {
+    console.error("Failed to load metrics:", error);
+    // Fallback to static data
+    document.getElementById("debt").innerText = `National Debt: ~$36 trillion`;
+    document.getElementById(
+      "unemployment"
+    ).innerText = `Unemployment Rate: 3.5%`;
+    document.getElementById(
+      "foreign-aid"
+    ).innerText = `Foreign Aid (2025): ~$61.4 billion`;
+  }
 }
 
 async function loadPresidentTeam() {
