@@ -50,9 +50,11 @@ async function init() {
     scene.background = texture;
   });
 
+  const container = document.getElementById("map");
+
   camera = new THREE.PerspectiveCamera(
     35,
-    window.innerWidth / window.innerHeight,
+    container.offsetWidth / container.offsetHeight,
     0.1,
     1000
   );
@@ -60,9 +62,9 @@ async function init() {
   camera.lookAt(0, 0, 0);
 
   renderer = new THREE.WebGLRenderer({ antialias: true });
-  renderer.setSize(window.innerWidth, window.innerHeight);
+  renderer.setSize(container.offsetWidth, container.offsetHeight);
   renderer.setPixelRatio(window.devicePixelRatio);
-  document.body.appendChild(renderer.domElement);
+  container.appendChild(renderer.domElement);
 
   // OrbitControls – iOS friendly settings
   controls = new THREE.OrbitControls(camera, renderer.domElement);
@@ -162,8 +164,10 @@ async function init() {
 
     // Consider it a tap if moved < 12px and released within 400ms
     if (distance < 12 && time < 400) {
-      mouse.x = (event.clientX / window.innerWidth) * 2 - 1;
-      mouse.y = -(event.clientY / window.innerHeight) * 2 + 1;
+      const canvas = renderer.domElement;
+      const rect = canvas.getBoundingClientRect();
+      mouse.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
+      mouse.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
 
       raycaster.setFromCamera(mouse, camera);
       const intersects = raycaster.intersectObjects(stateMeshes, true);
@@ -200,8 +204,9 @@ async function init() {
   // Keep mouse click for desktop (optional but nice)
   canvas.addEventListener("click", (e) => {
     // Re-use same logic
-    mouse.x = (e.clientX / window.innerWidth) * 2 - 1;
-    mouse.y = -(e.clientY / window.innerHeight) * 2 + 1;
+    const rect = canvas.getBoundingClientRect();
+    mouse.x = ((e.clientX - rect.left) / rect.width) * 2 - 1;
+    mouse.y = -((e.clientY - rect.top) / rect.height) * 2 + 1;
     raycaster.setFromCamera(mouse, camera);
     const intersects = raycaster.intersectObjects(stateMeshes, true);
 
@@ -225,9 +230,10 @@ async function init() {
 }
 
 function onWindowResize() {
-  camera.aspect = window.innerWidth / window.innerHeight;
+  const container = document.getElementById("map");
+  camera.aspect = container.offsetWidth / container.offsetHeight;
   camera.updateProjectionMatrix();
-  renderer.setSize(window.innerWidth, window.innerHeight);
+  renderer.setSize(container.offsetWidth, container.offsetHeight);
 }
 
 function animate() {

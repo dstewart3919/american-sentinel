@@ -3,12 +3,61 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>US Political Map</title>
+    <title>American Sentinel</title>
     <style>
       body {
         margin: 0;
-        overflow: hidden;
+        overflow: auto;
         font-family: Arial, sans-serif;
+        padding: 20px;
+      }
+      header {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      header h1 {
+        margin: 0;
+      }
+      header p {
+        color: #666;
+        font-style: italic;
+      }
+      #president-section {
+        margin-bottom: 20px;
+        padding: 20px;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        background: #f9f9f9;
+      }
+      #president-section h2 {
+        margin-top: 0;
+      }
+      .team {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 20px;
+      }
+      .team-member {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+      }
+      .team-member img {
+        width: 80px;
+        height: 80px;
+        border-radius: 50%;
+        margin-bottom: 10px;
+      }
+      .team-member span {
+        font-size: 14px;
+        color: #333;
+      }
+      #map-container {
+        position: relative;
+        border: 1px solid #ddd;
+        border-radius: 5px;
+        overflow: hidden;
       }
       #info {
         position: absolute;
@@ -53,9 +102,35 @@
     </style>
   </head>
   <body>
-    <div id="info">
-      <h3 id="state-name"></h3>
-      <div id="officials-list"></div>
+    <header>
+      <h1>American Sentinel</h1>
+      <p>"Restoring America, Through transparency"</p>
+    </header>
+    <section id="president-section">
+      <h2>The President and His Administration</h2>
+      <p>Monitoring the current administration's actions and policies.</p>
+      <h3>Key Administration Officials</h3>
+      <div class="team">
+        <div class="team-member">
+          <img src="images/brad_little.jpg" alt="Brad Little" />
+          <span>Brad Little - Example Official</span>
+        </div>
+        <div class="team-member">
+          <img src="images/gavin_newsom.jpg" alt="Gavin Newsom" />
+          <span>Gavin Newsom - Example Official</span>
+        </div>
+        <div class="team-member">
+          <img src="images/adam_schiff.jpg" alt="Adam Schiff" />
+          <span>Adam Schiff - Example Official</span>
+        </div>
+      </div>
+    </section>
+    <div id="map-container">
+      <div id="map" style="height: 60vh; position: relative"></div>
+      <div id="info">
+        <h3 id="state-name"></h3>
+        <div id="officials-list"></div>
+      </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/controls/OrbitControls.js"></script>
