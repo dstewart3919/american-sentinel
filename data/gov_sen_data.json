@@ -207,12 +207,12 @@
       "party": "Democrat",
       "officials": [
         {
-          "name": "John Carney",
+          "name": "Matt Meyer",
           "position": "Governor",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$0",
-          "image": "images/john_carney.jpg"
+          "image": "images/matt_meyer.jpg"
         },
         {
           "name": "Lisa Blunt Rochester",
@@ -381,12 +381,12 @@
       "party": "Republican",
       "officials": [
         {
-          "name": "Eric Holcomb",
+          "name": "Mike Braun",
           "position": "Governor",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/eric_holcomb.jpg"
+          "image": "images/mike_braun.jpg"
         },
         {
           "name": "Mike Braun",
@@ -700,12 +700,12 @@
       "party": "Republican",
       "officials": [
         {
-          "name": "Mike Parson",
+          "name": "Mike Kehoe",
           "position": "Governor",
           "party": "Republican",
           "religion": "Baptist",
           "aipac": "$0",
-          "image": "images/mike_parson.jpg"
+          "image": "images/mike_kehoe.jpg"
         },
         {
           "name": "Josh Hawley",
@@ -816,12 +816,12 @@
       "party": "Republican",
       "officials": [
         {
-          "name": "Chris Sununu",
+          "name": "Kelly Ayotte",
           "position": "Governor",
           "party": "Republican",
           "religion": "Catholic",
           "aipac": "$0",
-          "image": "images/chris_sununu.jpg"
+          "image": "images/kelly_ayotte.jpg"
         },
         {
           "name": "Jeanne Shaheen",
@@ -932,12 +932,12 @@
       "party": "Republican",
       "officials": [
         {
-          "name": "Roy Cooper",
+          "name": "Josh Stein",
           "position": "Governor",
           "party": "Democrat",
           "religion": "Baptist",
           "aipac": "$0",
-          "image": "images/roy_cooper.jpg"
+          "image": "images/josh_stein.jpg"
         },
         {
           "name": "Thom Tillis",
@@ -961,12 +961,12 @@
       "party": "Republican",
       "officials": [
         {
-          "name": "Doug Burgum",
+          "name": "Kelly Armstrong",
           "position": "Governor",
           "party": "Republican",
           "religion": "Presbyterian",
           "aipac": "$0",
-          "image": "images/doug_burgum.jpg"
+          "image": "images/kelly_armstrong.jpg"
         },
         {
           "name": "Kevin Cramer",
@@ -1164,12 +1164,12 @@
       "party": "Republican",
       "officials": [
         {
-          "name": "Kristi Noem",
+          "name": "Larry Rhoden",
           "position": "Governor",
           "party": "Republican",
           "religion": "Evangelical",
           "aipac": "$0",
-          "image": "images/kristi_noem.jpg"
+          "image": "images/larry_rhoden.jpg"
         },
         {
           "name": "Mike Rounds",
@@ -1338,12 +1338,12 @@
       "party": "Democrat",
       "officials": [
         {
-          "name": "Jay Inslee",
+          "name": "Bob Ferguson",
           "position": "Governor",
           "party": "Democrat",
           "religion": "Presbyterian",
           "aipac": "$0",
-          "image": "images/jay_inslee.jpg"
+          "image": "images/bob_ferguson.jpg"
         },
         {
           "name": "Patty Murray",
@@ -1367,12 +1367,12 @@
       "party": "Republican",
       "officials": [
         {
-          "name": "Jim Justice",
+          "name": "Patrick Morrisey",
           "position": "Governor",
           "party": "Republican",
           "religion": "Baptist",
           "aipac": "$0",
-          "image": "images/jim_justice.jpg"
+          "image": "images/patrick_morrisey.jpg"
         },
         {
           "name": "Joe Manchin",
