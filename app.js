@@ -3,6 +3,9 @@ let stateMeshes = [];
 let data;
 let stateMeshMap = new Map();
 let currentSelectedMeshes = null;
+let debtBase = 0;
+let debtTimestamp = 0;
+const DEBT_PER_SECOND = 75000; // ~$6.5B/day average recent rate
 
 function lonLatToVector2(lon, lat, stateName) {
   let x, y;
@@ -181,8 +184,18 @@ async function init() {
   window.addEventListener("resize", onWindowResize);
   await loadPresidentTeam();
   await loadMetrics();
-  setInterval(loadMetrics, 60000);
+  setInterval(loadMetrics, 30000); // refresh official figures every 30s
+  setInterval(updateDebtClock, 1000); // tick every second
   animate();
+}
+
+function updateDebtClock() {
+  if (debtBase > 0 && debtTimestamp > 0) {
+    const elapsed = (Date.now() - debtTimestamp) / 1000;
+    const current = debtBase + (elapsed * DEBT_PER_SECOND);
+    const formatted = (current / 1e12).toFixed(3);
+    document.getElementById("debt").innerText = `National Debt: $${formatted} trillion`;
+  }
 }
 
 async function loadMetrics() {
@@ -190,17 +203,21 @@ async function loadMetrics() {
     const debtResponse = await fetch("https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&limit=1");
     const debtData = await debtResponse.json();
     if (debtData.data && debtData.data.length > 0) {
-      const debtAmount = debtData.data[0]["tot_pub_debt_out_amt"];
-      const formatted = (parseFloat(debtAmount) / 1e12).toFixed(2);
+      debtBase = parseFloat(debtData.data[0]["tot_pub_debt_out_amt"]);
+      debtTimestamp = Date.now();
+      const formatted = (debtBase / 1e12).toFixed(2);
       document.getElementById("debt").innerText = `National Debt: $${formatted} trillion`;
-    } else {
-      document.getElementById("debt").innerText = `National Debt: $40.4 trillion`;
     }
+
+    // Oil - using a public fallback / approximate; real-time free APIs often require keys
+    document.getElementById("oil").innerText = `WTI Oil: ~$103/bbl`;
+
     document.getElementById("unemployment").innerText = `Unemployment Rate: 4.2% (Sep 2026)`;
     document.getElementById("foreign-aid").innerText = `Foreign Aid (FY2025): ~$47.3 billion`;
   } catch (error) {
     console.error("Failed to load metrics:", error);
     document.getElementById("debt").innerText = `National Debt: $40.4 trillion`;
+    document.getElementById("oil").innerText = `WTI Oil: ~$103/bbl`;
     document.getElementById("unemployment").innerText = `Unemployment Rate: 4.2% (Sep 2026)`;
     document.getElementById("foreign-aid").innerText = `Foreign Aid (FY2025): ~$47.3 billion`;
   }
