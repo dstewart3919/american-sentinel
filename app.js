@@ -1,10 +1,9 @@
-let scene, camera, renderer, raycaster, mouse, controls;
+let scene, camera, renderer, raycaster, mouse, controls, composer, bloomPass;
 let stateMeshes = [];
 let data;
 let stateMeshMap = new Map();
 let currentSelectedMeshes = null;
 
-// ——— Projection (unchanged – already perfect) ———
 function lonLatToVector2(lon, lat, stateName) {
   let x, y;
   if (stateName === "Alaska") {
@@ -38,13 +37,11 @@ function createShapeFromCoordinates(coordinates, stateName) {
   return shape;
 }
 
-// ——— INIT ———
 async function init() {
   const response = await fetch("data/gov_sen_data.json");
   data = await response.json();
 
   scene = new THREE.Scene();
-  // Load flag.jpg as background texture
   const loader = new THREE.TextureLoader();
   loader.load("images/flag.jpg", function (texture) {
     scene.background = texture;
@@ -52,21 +49,22 @@ async function init() {
 
   const container = document.getElementById("map");
 
-  camera = new THREE.PerspectiveCamera(
-    35,
-    container.offsetWidth / container.offsetHeight,
-    0.1,
-    1000
-  );
+  camera = new THREE.PerspectiveCamera(35, container.offsetWidth / container.offsetHeight, 0.1, 1000);
   camera.position.set(0, 0, 30);
   camera.lookAt(0, 0, 0);
 
   renderer = new THREE.WebGLRenderer({ antialias: true });
   renderer.setSize(container.offsetWidth, container.offsetHeight);
   renderer.setPixelRatio(window.devicePixelRatio);
+  renderer.toneMapping = THREE.ReinhardToneMapping;
   container.appendChild(renderer.domElement);
 
-  // OrbitControls – iOS friendly settings
+  composer = new THREE.EffectComposer(renderer);
+  const renderPass = new THREE.RenderPass(scene, camera);
+  composer.addPass(renderPass);
+  bloomPass = new THREE.UnrealBloomPass(new THREE.Vector2(container.offsetWidth, container.offsetHeight), 0.35, 0.4, 0.85);
+  composer.addPass(bloomPass);
+
   controls = new THREE.OrbitControls(camera, renderer.domElement);
   controls.enableDamping = false;
   controls.rotateSpeed = 0.7;
@@ -77,57 +75,43 @@ async function init() {
   dirLight.position.set(10, 20, 15);
   scene.add(dirLight);
 
-  const geoResponse = await fetch(
-    "https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json"
-  );
+  const geoResponse = await fetch("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json");
   const geoData = await geoResponse.json();
 
   raycaster = new THREE.Raycaster();
   raycaster.params.Line.threshold = 0.5;
   mouse = new THREE.Vector2();
-  // ——— CREATE STATES ———
+
   geoData.features.forEach((feature) => {
     const stateName = feature.properties.name;
     if (!data.states[stateName]) return;
 
     const party = data.states[stateName].party || "Unknown";
-    const color =
-      party === "Republican"
-        ? 0xff2222
-        : party === "Democrat"
-        ? 0x2244ff
-        : 0x888888;
+    const color = party === "Republican" ? 0xff2222 : party === "Democrat" ? 0x2244ff : 0x888888;
 
-    const polygons =
-      feature.geometry.type === "Polygon"
-        ? [feature.geometry.coordinates]
-        : feature.geometry.coordinates;
+    const polygons = feature.geometry.type === "Polygon" ? [feature.geometry.coordinates] : feature.geometry.coordinates;
 
     polygons.forEach((polygon) => {
       const shape = createShapeFromCoordinates(polygon, stateName);
       const extrudeSettings = { depth: 0.2, bevelEnabled: false };
       const geometry = new THREE.ExtrudeGeometry(shape, extrudeSettings);
-      const material = new THREE.MeshPhongMaterial({ color, shininess: 30 });
+      const material = new THREE.MeshPhongMaterial({ color, shininess: 40, emissive: 0x000000, emissiveIntensity: 0 });
 
       const mesh = new THREE.Mesh(geometry, material);
       mesh.userData.stateName = stateName;
       scene.add(mesh);
       stateMeshes.push(mesh);
 
-      // Add to mesh map for glow effect
       if (!stateMeshMap.has(stateName)) stateMeshMap.set(stateName, []);
       stateMeshMap.get(stateName).push(mesh);
 
-      // Invisible-to-raycast borders
       const edges = new THREE.EdgesGeometry(geometry);
-      const line = new THREE.LineSegments(
-        edges,
-        new THREE.LineBasicMaterial({ color: 0x000000 })
-      );
+      const line = new THREE.LineSegments(edges, new THREE.LineBasicMaterial({ color: 0xffffff, transparent: true, opacity: 0.35 }));
       line.renderOrder = 999;
       line.material.depthTest = false;
-      line.raycast = () => {}; // ← blocks raycast
+      line.raycast = () => {};
       mesh.add(line);
+      mesh.userData.edgeLine = line;
     });
   });
 
@@ -139,48 +123,30 @@ async function init() {
     }
   }
 
-  // —-- iOS + Desktop TAP DETECTION (THIS IS THE FIX) ——
   let pointerDownInfo = null;
 
   const onPointerDown = (event) => {
-    // Ignore non-primary pointers (e.g. second finger during pinch)
     if (event.isPrimary === false) return;
-
-    pointerDownInfo = {
-      x: event.clientX,
-      y: event.clientY,
-      time: Date.now(),
-      pointerId: event.pointerId,
-    };
+    pointerDownInfo = { x: event.clientX, y: event.clientY, time: Date.now(), pointerId: event.pointerId };
   };
 
   const onPointerUp = (event) => {
     if (!pointerDownInfo || event.isPrimary === false) return;
-
     const dx = event.clientX - pointerDownInfo.x;
     const dy = event.clientY - pointerDownInfo.y;
     const distance = Math.hypot(dx, dy);
     const time = Date.now() - pointerDownInfo.time;
-
-    // Consider it a tap if moved < 12px and released within 400ms
     if (distance < 12 && time < 400) {
       const canvas = renderer.domElement;
       const rect = canvas.getBoundingClientRect();
       mouse.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
       mouse.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
-
       raycaster.setFromCamera(mouse, camera);
       const intersects = raycaster.intersectObjects(stateMeshes, true);
-
       if (intersects.length > 0) {
-        const hit =
-          intersects.find((i) => i.object.userData.stateName) ||
-          intersects.find((i) => i.object.parent?.userData.stateName);
-
+        const hit = intersects.find((i) => i.object.userData.stateName) || intersects.find((i) => i.object.parent?.userData.stateName);
         if (hit) {
-          const stateMesh = hit.object.userData.stateName
-            ? hit.object
-            : hit.object.parent;
+          const stateMesh = hit.object.userData.stateName ? hit.object : hit.object.parent;
           showOfficials(stateMesh.userData.stateName);
           pointerDownInfo = null;
           return;
@@ -188,36 +154,23 @@ async function init() {
       }
       hideOfficials();
     }
-
     pointerDownInfo = null;
   };
 
-  // —-- EVENT LISTENERS ——
   const canvas = renderer.domElement;
-
   canvas.addEventListener("pointerdown", onPointerDown);
   canvas.addEventListener("pointerup", onPointerUp);
-  canvas.addEventListener("pointercancel", () => {
-    pointerDownInfo = null;
-  });
-
-  // Keep mouse click for desktop (optional but nice)
+  canvas.addEventListener("pointercancel", () => { pointerDownInfo = null; });
   canvas.addEventListener("click", (e) => {
-    // Re-use same logic
     const rect = canvas.getBoundingClientRect();
     mouse.x = ((e.clientX - rect.left) / rect.width) * 2 - 1;
     mouse.y = -((e.clientY - rect.top) / rect.height) * 2 + 1;
     raycaster.setFromCamera(mouse, camera);
     const intersects = raycaster.intersectObjects(stateMeshes, true);
-
     if (intersects.length > 0) {
-      const hit =
-        intersects.find((i) => i.object.userData.stateName) ||
-        intersects.find((i) => i.object.parent?.userData.stateName);
+      const hit = intersects.find((i) => i.object.userData.stateName) || intersects.find((i) => i.object.parent?.userData.stateName);
       if (hit) {
-        const stateMesh = hit.object.userData.stateName
-          ? hit.object
-          : hit.object.parent;
+        const stateMesh = hit.object.userData.stateName ? hit.object : hit.object.parent;
         showOfficials(stateMesh.userData.stateName);
         return;
       }
@@ -228,17 +181,13 @@ async function init() {
   window.addEventListener("resize", onWindowResize);
   await loadPresidentTeam();
   await loadMetrics();
-  // Update metrics every 60 seconds for "running" data
   setInterval(loadMetrics, 60000);
   animate();
 }
 
 async function loadMetrics() {
   try {
-    // National Debt - Debt to the Penny (Treasury)
-    const debtResponse = await fetch(
-      "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&limit=1"
-    );
+    const debtResponse = await fetch("https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&limit=1");
     const debtData = await debtResponse.json();
     if (debtData.data && debtData.data.length > 0) {
       const debtAmount = debtData.data[0]["tot_pub_debt_out_amt"];
@@ -247,15 +196,10 @@ async function loadMetrics() {
     } else {
       document.getElementById("debt").innerText = `National Debt: $40.4 trillion`;
     }
-
-    // Unemployment Rate - latest BLS (Sep 2026)
     document.getElementById("unemployment").innerText = `Unemployment Rate: 4.2% (Sep 2026)`;
-
-    // Foreign Aid - FY2025 actuals (ForeignAssistance.gov / Pew)
     document.getElementById("foreign-aid").innerText = `Foreign Aid (FY2025): ~$47.3 billion`;
   } catch (error) {
     console.error("Failed to load metrics:", error);
-    // Fallback to current public figures
     document.getElementById("debt").innerText = `National Debt: $40.4 trillion`;
     document.getElementById("unemployment").innerText = `Unemployment Rate: 4.2% (Sep 2026)`;
     document.getElementById("foreign-aid").innerText = `Foreign Aid (FY2025): ~$47.3 billion`;
@@ -267,28 +211,17 @@ async function loadPresidentTeam() {
     const response = await fetch("data/president_team_data.json");
     const teamData = await response.json();
     const teamContainer = document.querySelector(".team");
-    teamContainer.innerHTML = ""; // Clear existing hardcoded content
-
+    teamContainer.innerHTML = "";
     teamData.officials.forEach((official) => {
       const memberDiv = document.createElement("div");
       memberDiv.className = "team-member";
-
       const img = document.createElement("img");
       img.src = official.image;
       img.alt = official.name;
-      img.onerror = function () {
-        this.src = "https://via.placeholder.com/80";
-      };
-
+      img.onerror = function () { this.src = "https://via.placeholder.com/80"; };
       const span = document.createElement("div");
       span.className = "team-member-info";
-      span.innerHTML = `
-        <strong>${official.name}</strong><br>
-        <small>${official.position} • ${official.party}</small><br>
-        <small>Religion: ${official.religion || "—"}</small><br>
-        <small>AIPAC: ${official.aipac || "—"}</small>
-      `;
-
+      span.innerHTML = `<strong>${official.name}</strong><br><small>${official.position} • ${official.party}</small><br><small>Religion: ${official.religion || "—"}</small><br><small>AIPAC: ${official.aipac || "—"}</small>`;
       memberDiv.appendChild(img);
       memberDiv.appendChild(span);
       teamContainer.appendChild(memberDiv);
@@ -303,50 +236,44 @@ function onWindowResize() {
   camera.aspect = container.offsetWidth / container.offsetHeight;
   camera.updateProjectionMatrix();
   renderer.setSize(container.offsetWidth, container.offsetHeight);
+  if (composer) composer.setSize(container.offsetWidth, container.offsetHeight);
 }
 
 function animate() {
   requestAnimationFrame(animate);
   controls.update();
-  renderer.render(scene, camera);
+  if (composer) composer.render();
+  else renderer.render(scene, camera);
 }
 
-// —-- INFO PANEL ——
 function createOfficialDiv(o) {
   const div = document.createElement("div");
   div.className = "official";
-  div.innerHTML = `
-    <img src="${
-      o.image || "https://via.placeholder.com/60"
-    }" onerror="this.src='https://via.placeholder.com/60'">
-    <div>
-      <strong>${o.name}</strong><br>
-      <small>${o.position} • ${o.party}</small><br>
-      <small>Religion: ${o.religion || "—"}</small><br>
-      <small>AIPAC: ${o.aipac || "—"}</small>
-    </div>
-  `;
-  div.style.cssText =
-    "display:flex; align-items:center; gap:12px; margin:10px 0;";
+  div.innerHTML = `<img src="${o.image || "https://via.placeholder.com/60"}" onerror="this.src='https://via.placeholder.com/60'"><div><strong>${o.name}</strong><br><small>${o.position} • ${o.party}</small><br><small>Religion: ${o.religion || "—"}</small><br><small>AIPAC: ${o.aipac || "—"}</small></div>`;
+  div.style.cssText = "display:flex; align-items:center; gap:12px; margin:10px 0;";
   return div;
 }
 
 function showOfficials(stateName) {
-  // Reset previous glow
   if (currentSelectedMeshes) {
     currentSelectedMeshes.forEach((mesh) => {
-      mesh.material.emissive.setHex(0);
+      mesh.material.emissive.setHex(0x000000);
       mesh.material.emissiveIntensity = 0;
+      if (mesh.userData.edgeLine) {
+        mesh.userData.edgeLine.material.color.setHex(0xffffff);
+        mesh.userData.edgeLine.material.opacity = 0.35;
+      }
     });
   }
-
-  // Set glow on selected state
   currentSelectedMeshes = stateMeshMap.get(stateName) || [];
   currentSelectedMeshes.forEach((mesh) => {
     mesh.material.emissive.setHex(0xffffff);
-    mesh.material.emissiveIntensity = 0.3;
+    mesh.material.emissiveIntensity = 0.5;
+    if (mesh.userData.edgeLine) {
+      mesh.userData.edgeLine.material.color.setHex(0xffd700);
+      mesh.userData.edgeLine.material.opacity = 0.95;
+    }
   });
-
   document.getElementById("state-name").textContent = stateName;
   const list = document.getElementById("officials-list");
   list.innerHTML = "";
@@ -354,26 +281,17 @@ function showOfficials(stateName) {
   const govSen = [];
   const house = [];
   officials.forEach((o) => {
-    if (o.position === "Governor" || o.position === "Senator") {
-      govSen.push(o);
-    } else {
-      house.push(o);
-    }
+    if (o.position === "Governor" || o.position === "Senator") govSen.push(o);
+    else house.push(o);
   });
-  // Append Gov and Senators
   govSen.forEach((o) => list.appendChild(createOfficialDiv(o)));
-  // Append House if any
   if (house.length > 0) {
     const houseHeader = document.createElement("div");
     houseHeader.textContent = `House Representatives (${house.length})`;
-    houseHeader.style.cssText =
-      "cursor: pointer; font-weight: bold; margin-bottom: 5px;";
+    houseHeader.style.cssText = "cursor: pointer; font-weight: bold; margin-bottom: 5px;";
     houseHeader.addEventListener("click", () => {
-      if (houseDiv.style.display === "none" || houseDiv.style.display === "") {
-        houseDiv.style.display = "block";
-      } else {
-        houseDiv.style.display = "none";
-      }
+      if (houseDiv.style.display === "none" || houseDiv.style.display === "") houseDiv.style.display = "block";
+      else houseDiv.style.display = "none";
     });
     const houseDiv = document.createElement("div");
     houseDiv.style.cssText = "margin-left: 20px; display: none;";
@@ -385,17 +303,18 @@ function showOfficials(stateName) {
 }
 
 function hideOfficials() {
-  // Reset glow
   if (currentSelectedMeshes) {
     currentSelectedMeshes.forEach((mesh) => {
-      mesh.material.emissive.setHex(0);
+      mesh.material.emissive.setHex(0x000000);
       mesh.material.emissiveIntensity = 0;
+      if (mesh.userData.edgeLine) {
+        mesh.userData.edgeLine.material.color.setHex(0xffffff);
+        mesh.userData.edgeLine.material.opacity = 0.35;
+      }
     });
     currentSelectedMeshes = null;
   }
-
   document.getElementById("info").style.display = "none";
 }
 
-// START
 init();
