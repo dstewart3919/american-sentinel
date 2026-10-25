@@ -1,11 +1,11 @@
-let scene, camera, renderer, raycaster, mouse, controls, composer, bloomPass;
+let scene, camera, renderer, raycaster, mouse, controls, composer = null, bloomPass = null;
 let stateMeshes = [];
 let data;
 let stateMeshMap = new Map();
 let currentSelectedMeshes = null;
 let debtBase = 0;
 let debtTimestamp = 0;
-const DEBT_PER_SECOND = 75000; // ~$6.5B/day average recent rate
+const DEBT_PER_SECOND = 75000;
 
 function lonLatToVector2(lon, lat, stateName) {
   let x, y;
@@ -41,8 +41,13 @@ function createShapeFromCoordinates(coordinates, stateName) {
 }
 
 async function init() {
-  const response = await fetch("data/gov_sen_data.json");
-  data = await response.json();
+  try {
+    const response = await fetch("data/gov_sen_data.json");
+    data = await response.json();
+  } catch (e) {
+    console.error("Failed to load state data", e);
+    return;
+  }
 
   scene = new THREE.Scene();
   const loader = new THREE.TextureLoader();
@@ -51,6 +56,7 @@ async function init() {
   });
 
   const container = document.getElementById("map");
+  if (!container) return;
 
   camera = new THREE.PerspectiveCamera(35, container.offsetWidth / container.offsetHeight, 0.1, 1000);
   camera.position.set(0, 0, 30);
@@ -59,14 +65,20 @@ async function init() {
   renderer = new THREE.WebGLRenderer({ antialias: true });
   renderer.setSize(container.offsetWidth, container.offsetHeight);
   renderer.setPixelRatio(window.devicePixelRatio);
-  renderer.toneMapping = THREE.ReinhardToneMapping;
   container.appendChild(renderer.domElement);
 
-  composer = new THREE.EffectComposer(renderer);
-  const renderPass = new THREE.RenderPass(scene, camera);
-  composer.addPass(renderPass);
-  bloomPass = new THREE.UnrealBloomPass(new THREE.Vector2(container.offsetWidth, container.offsetHeight), 0.35, 0.4, 0.85);
-  composer.addPass(bloomPass);
+  // Optional bloom — only if the postprocessing scripts loaded
+  try {
+    if (typeof THREE.EffectComposer !== "undefined" && typeof THREE.UnrealBloomPass !== "undefined") {
+      composer = new THREE.EffectComposer(renderer);
+      composer.addPass(new THREE.RenderPass(scene, camera));
+      bloomPass = new THREE.UnrealBloomPass(new THREE.Vector2(container.offsetWidth, container.offsetHeight), 0.3, 0.4, 0.85);
+      composer.addPass(bloomPass);
+    }
+  } catch (e) {
+    console.warn("Bloom disabled", e);
+    composer = null;
+  }
 
   controls = new THREE.OrbitControls(camera, renderer.domElement);
   controls.enableDamping = false;
@@ -78,8 +90,14 @@ async function init() {
   dirLight.position.set(10, 20, 15);
   scene.add(dirLight);
 
-  const geoResponse = await fetch("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json");
-  const geoData = await geoResponse.json();
+  let geoData;
+  try {
+    const geoResponse = await fetch("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json");
+    geoData = await geoResponse.json();
+  } catch (e) {
+    console.error("Failed to load map geometry", e);
+    return;
+  }
 
   raycaster = new THREE.Raycaster();
   raycaster.params.Line.threshold = 0.5;
@@ -96,8 +114,7 @@ async function init() {
 
     polygons.forEach((polygon) => {
       const shape = createShapeFromCoordinates(polygon, stateName);
-      const extrudeSettings = { depth: 0.2, bevelEnabled: false };
-      const geometry = new THREE.ExtrudeGeometry(shape, extrudeSettings);
+      const geometry = new THREE.ExtrudeGeometry(shape, { depth: 0.2, bevelEnabled: false });
       const material = new THREE.MeshPhongMaterial({ color, shininess: 40, emissive: 0x000000, emissiveIntensity: 0 });
 
       const mesh = new THREE.Mesh(geometry, material);
@@ -118,36 +135,35 @@ async function init() {
     });
   });
 
-  const houseResponse = await fetch("data/house_data.json");
-  const houseData = await houseResponse.json();
-  for (let state in houseData.states) {
-    if (data.states[state]) {
-      data.states[state].officials.push(...houseData.states[state].officials);
+  try {
+    const houseResponse = await fetch("data/house_data.json");
+    const houseData = await houseResponse.json();
+    for (let state in houseData.states) {
+      if (data.states[state]) {
+        data.states[state].officials.push(...houseData.states[state].officials);
+      }
     }
+  } catch (e) {
+    console.warn("House data failed", e);
   }
 
   let pointerDownInfo = null;
-
   const onPointerDown = (event) => {
     if (event.isPrimary === false) return;
-    pointerDownInfo = { x: event.clientX, y: event.clientY, time: Date.now(), pointerId: event.pointerId };
+    pointerDownInfo = { x: event.clientX, y: event.clientY, time: Date.now() };
   };
-
   const onPointerUp = (event) => {
     if (!pointerDownInfo || event.isPrimary === false) return;
     const dx = event.clientX - pointerDownInfo.x;
     const dy = event.clientY - pointerDownInfo.y;
-    const distance = Math.hypot(dx, dy);
-    const time = Date.now() - pointerDownInfo.time;
-    if (distance < 12 && time < 400) {
-      const canvas = renderer.domElement;
-      const rect = canvas.getBoundingClientRect();
+    if (Math.hypot(dx, dy) < 12 && Date.now() - pointerDownInfo.time < 400) {
+      const rect = renderer.domElement.getBoundingClientRect();
       mouse.x = ((event.clientX - rect.left) / rect.width) * 2 - 1;
       mouse.y = -((event.clientY - rect.top) / rect.height) * 2 + 1;
       raycaster.setFromCamera(mouse, camera);
       const intersects = raycaster.intersectObjects(stateMeshes, true);
       if (intersects.length > 0) {
-        const hit = intersects.find((i) => i.object.userData.stateName) || intersects.find((i) => i.object.parent?.userData.stateName);
+        const hit = intersects.find(i => i.object.userData.stateName) || intersects.find(i => i.object.parent?.userData.stateName);
         if (hit) {
           const stateMesh = hit.object.userData.stateName ? hit.object : hit.object.parent;
           showOfficials(stateMesh.userData.stateName);
@@ -171,7 +187,7 @@ async function init() {
     raycaster.setFromCamera(mouse, camera);
     const intersects = raycaster.intersectObjects(stateMeshes, true);
     if (intersects.length > 0) {
-      const hit = intersects.find((i) => i.object.userData.stateName) || intersects.find((i) => i.object.parent?.userData.stateName);
+      const hit = intersects.find(i => i.object.userData.stateName) || intersects.find(i => i.object.parent?.userData.stateName);
       if (hit) {
         const stateMesh = hit.object.userData.stateName ? hit.object : hit.object.parent;
         showOfficials(stateMesh.userData.stateName);
@@ -182,10 +198,10 @@ async function init() {
   });
 
   window.addEventListener("resize", onWindowResize);
-  await loadPresidentTeam();
-  await loadMetrics();
-  setInterval(loadMetrics, 30000); // refresh official figures every 30s
-  setInterval(updateDebtClock, 1000); // tick every second
+  loadPresidentTeam();
+  loadMetrics();
+  setInterval(loadMetrics, 30000);
+  setInterval(updateDebtClock, 1000);
   animate();
 }
 
@@ -194,32 +210,29 @@ function updateDebtClock() {
     const elapsed = (Date.now() - debtTimestamp) / 1000;
     const current = debtBase + (elapsed * DEBT_PER_SECOND);
     const formatted = (current / 1e12).toFixed(3);
-    document.getElementById("debt").innerText = `National Debt: $${formatted} trillion`;
+    const el = document.getElementById("debt");
+    if (el) el.innerText = `National Debt: $${formatted} trillion`;
   }
 }
 
 async function loadMetrics() {
+  // Always set fallbacks first so something shows immediately
+  const set = (id, text) => { const el = document.getElementById(id); if (el) el.innerText = text; };
+  set("debt", "National Debt: $40.4 trillion");
+  set("oil", "WTI Oil: ~$103/bbl");
+  set("unemployment", "Unemployment Rate: 4.2% (Sep 2026)");
+  set("foreign-aid", "Foreign Aid (FY2025): ~$47.3 billion");
+
   try {
     const debtResponse = await fetch("https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&limit=1");
     const debtData = await debtResponse.json();
     if (debtData.data && debtData.data.length > 0) {
       debtBase = parseFloat(debtData.data[0]["tot_pub_debt_out_amt"]);
       debtTimestamp = Date.now();
-      const formatted = (debtBase / 1e12).toFixed(2);
-      document.getElementById("debt").innerText = `National Debt: $${formatted} trillion`;
+      set("debt", `National Debt: $${(debtBase / 1e12).toFixed(2)} trillion`);
     }
-
-    // Oil - using a public fallback / approximate; real-time free APIs often require keys
-    document.getElementById("oil").innerText = `WTI Oil: ~$103/bbl`;
-
-    document.getElementById("unemployment").innerText = `Unemployment Rate: 4.2% (Sep 2026)`;
-    document.getElementById("foreign-aid").innerText = `Foreign Aid (FY2025): ~$47.3 billion`;
-  } catch (error) {
-    console.error("Failed to load metrics:", error);
-    document.getElementById("debt").innerText = `National Debt: $40.4 trillion`;
-    document.getElementById("oil").innerText = `WTI Oil: ~$103/bbl`;
-    document.getElementById("unemployment").innerText = `Unemployment Rate: 4.2% (Sep 2026)`;
-    document.getElementById("foreign-aid").innerText = `Foreign Aid (FY2025): ~$47.3 billion`;
+  } catch (e) {
+    console.warn("Debt API failed, using fallback", e);
   }
 }
 
@@ -228,6 +241,7 @@ async function loadPresidentTeam() {
     const response = await fetch("data/president_team_data.json");
     const teamData = await response.json();
     const teamContainer = document.querySelector(".team");
+    if (!teamContainer) return;
     teamContainer.innerHTML = "";
     teamData.officials.forEach((official) => {
       const memberDiv = document.createElement("div");
@@ -237,19 +251,19 @@ async function loadPresidentTeam() {
       img.alt = official.name;
       img.onerror = function () { this.src = "https://via.placeholder.com/80"; };
       const span = document.createElement("div");
-      span.className = "team-member-info";
       span.innerHTML = `<strong>${official.name}</strong><br><small>${official.position} • ${official.party}</small><br><small>Religion: ${official.religion || "—"}</small><br><small>AIPAC: ${official.aipac || "—"}</small>`;
       memberDiv.appendChild(img);
       memberDiv.appendChild(span);
       teamContainer.appendChild(memberDiv);
     });
   } catch (error) {
-    console.error("Failed to load president team data:", error);
+    console.error("Failed to load president team", error);
   }
 }
 
 function onWindowResize() {
   const container = document.getElementById("map");
+  if (!container || !camera || !renderer) return;
   camera.aspect = container.offsetWidth / container.offsetHeight;
   camera.updateProjectionMatrix();
   renderer.setSize(container.offsetWidth, container.offsetHeight);
@@ -258,9 +272,9 @@ function onWindowResize() {
 
 function animate() {
   requestAnimationFrame(animate);
-  controls.update();
+  if (controls) controls.update();
   if (composer) composer.render();
-  else renderer.render(scene, camera);
+  else if (renderer && scene && camera) renderer.render(scene, camera);
 }
 
 function createOfficialDiv(o) {
@@ -306,12 +320,11 @@ function showOfficials(stateName) {
     const houseHeader = document.createElement("div");
     houseHeader.textContent = `House Representatives (${house.length})`;
     houseHeader.style.cssText = "cursor: pointer; font-weight: bold; margin-bottom: 5px;";
-    houseHeader.addEventListener("click", () => {
-      if (houseDiv.style.display === "none" || houseDiv.style.display === "") houseDiv.style.display = "block";
-      else houseDiv.style.display = "none";
-    });
     const houseDiv = document.createElement("div");
     houseDiv.style.cssText = "margin-left: 20px; display: none;";
+    houseHeader.addEventListener("click", () => {
+      houseDiv.style.display = houseDiv.style.display === "none" ? "block" : "none";
+    });
     house.forEach((o) => houseDiv.appendChild(createOfficialDiv(o)));
     list.appendChild(houseHeader);
     list.appendChild(houseDiv);
