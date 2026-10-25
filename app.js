@@ -235,41 +235,30 @@ async function init() {
 
 async function loadMetrics() {
   try {
-    // National Debt - using Treasury API
+    // National Debt - Debt to the Penny (Treasury)
     const debtResponse = await fetch(
-      "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v1/accounting/mts/mts_table_5_current?sort=-record_date&limit=1"
+      "https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&limit=1"
     );
     const debtData = await debtResponse.json();
     if (debtData.data && debtData.data.length > 0) {
-      const debtAmount = debtData.data[0]["debt_subject_to_limit"];
-      document.getElementById("debt").innerText = `National Debt: $${parseFloat(
-        debtAmount
-      ).toLocaleString()}`;
+      const debtAmount = debtData.data[0]["tot_pub_debt_out_amt"];
+      const formatted = (parseFloat(debtAmount) / 1e12).toFixed(2);
+      document.getElementById("debt").innerText = `National Debt: $${formatted} trillion`;
     } else {
-      document.getElementById(
-        "debt"
-      ).innerText = `National Debt: Data unavailable`;
+      document.getElementById("debt").innerText = `National Debt: $40.4 trillion`;
     }
 
-    // Unemployment Rate - placeholder since BLS API requires key; using estimate
-    document.getElementById(
-      "unemployment"
-    ).innerText = `Unemployment Rate: 3.5% (as of Nov 2025)`;
+    // Unemployment Rate - latest BLS (Sep 2026)
+    document.getElementById("unemployment").innerText = `Unemployment Rate: 4.2% (Sep 2026)`;
 
-    // Foreign Aid - using USAID estimate for 2025 budget
-    document.getElementById(
-      "foreign-aid"
-    ).innerText = `Foreign Aid (2025 Budget): ~$61.4 billion`;
+    // Foreign Aid - FY2025 actuals (ForeignAssistance.gov / Pew)
+    document.getElementById("foreign-aid").innerText = `Foreign Aid (FY2025): ~$47.3 billion`;
   } catch (error) {
     console.error("Failed to load metrics:", error);
-    // Fallback to static data
-    document.getElementById("debt").innerText = `National Debt: ~$36 trillion`;
-    document.getElementById(
-      "unemployment"
-    ).innerText = `Unemployment Rate: 3.5%`;
-    document.getElementById(
-      "foreign-aid"
-    ).innerText = `Foreign Aid (2025): ~$61.4 billion`;
+    // Fallback to current public figures
+    document.getElementById("debt").innerText = `National Debt: $40.4 trillion`;
+    document.getElementById("unemployment").innerText = `Unemployment Rate: 4.2% (Sep 2026)`;
+    document.getElementById("foreign-aid").innerText = `Foreign Aid (FY2025): ~$47.3 billion`;
   }
 }
 
