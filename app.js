@@ -40,7 +40,7 @@ function createShapeFromCoordinates(coordinates, stateName) {
 
 // ——— INIT ———
 async function init() {
-  const response = await fetch("gov_sen_data.json");
+  const response = await fetch("data/gov_sen_data.json");
   data = await response.json();
 
   scene = new THREE.Scene();
@@ -131,7 +131,7 @@ async function init() {
     });
   });
 
-  const houseResponse = await fetch("house_data.json");
+  const houseResponse = await fetch("data/house_data.json");
   const houseData = await houseResponse.json();
   for (let state in houseData.states) {
     if (data.states[state]) {
@@ -275,7 +275,7 @@ async function loadMetrics() {
 
 async function loadPresidentTeam() {
   try {
-    const response = await fetch("president_team_data.json");
+    const response = await fetch("data/president_team_data.json");
     const teamData = await response.json();
     const teamContainer = document.querySelector(".team");
     teamContainer.innerHTML = ""; // Clear existing hardcoded content
