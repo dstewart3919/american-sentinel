@@ -6,6 +6,14 @@ let currentSelectedMeshes = null;
 let debtBase = 0;
 let debtTimestamp = 0;
 const DEBT_PER_SECOND = 75000;
+const PORTRAIT_FALLBACK = "images/portrait-fallback.svg";
+const HAVE_IMAGE = new Set(["Donald_Trump.jpg", "adam_schiff.jpg", "alex_padilla.jpg", "american_sentinel.png", "brad_little.jpg", "brian_kemp.jpg", "brian_schatz.jpg", "catherine_cortez_masto.jpg", "chris_wright.jpg", "chuck_schumer.jpg", "cynthia_lummis.jpg", "dan_sullivan.jpg", "doug_burgum.jpg", "flag.jpg", "gavin_newsom.jpg", "greg_abbott.jpg", "greg_gianforte.jpg", "harrison_fields.jpg", "howard_lutnick.jpg", "jacky_rosen.jpg", "jared_polis.jpg", "jay_inslee.jpg", "jb_pritzker.jpg", "jd_vance.jpg", "jeff_merkley.jpg", "jim_goyer.jpg", "jim_risch.jpg", "joe_lombardo.jpg", "john_barrasso.jpg", "john_cornyn.jpg", "jon_ossoff.jpg", "jon_tester.jpg", "josh_green.jpg", "karoline_leavitt.jpg", "katie_britt.jpg", "kay_ivey.jpg", "kevin_hassett.jpg", "kristi_noem.jpg", "linda_mcmahon.jpg", "lisa_murkowski.jpg", "marco_rubio.jpg", "maria_cantwell.jpg", "mark_gordon.jpg", "matt_brasseaux.jpg", "mazie_hirono.jpg", "michael_bennet.jpg", "mike_crapo.jpg", "mike_dunleavy.jpg", "mike_waltz.jpg", "pam_bondi.jpg", "patty_murray.jpg", "pete_hegseth.jpg", "raphael_warnock.jpg", "rick_scott.jpg", "robert_f_kennedy_jr.jpg", "ron_desantis.jpg", "ron_wyden.jpg", "sarah_huckabee_sanders.jpg", "scott_bessent.jpg", "scott_turner.jpg", "sean_duffy.jpg", "stephen_miller.jpg", "steve_daines.jpg", "susie_wiles.jpg", "taylor_budowich.jpg", "ted_cruz.jpg", "tina_kotek.jpg", "tom_cotton.jpg", "tommy_tuberville.jpg", "tulsi_gabbard.jpg", "vince_haley.jpg", "william_mcginley.jpg", "william_scharf.jpg"]);
+
+function portraitSrc(src) {
+  if (!src) return PORTRAIT_FALLBACK;
+  const file = String(src).split("/").pop();
+  return file && HAVE_IMAGE.has(file) ? src : PORTRAIT_FALLBACK;
+}
 
 function lonLatToVector2(lon, lat, stateName) {
   let x, y;
@@ -92,7 +100,7 @@ async function init() {
 
   let geoData;
   try {
-    const geoResponse = await fetch("https://raw.githubusercontent.com/PublicaMundi/MappingAPI/master/data/geojson/us-states.json");
+    const geoResponse = await fetch("data/geojson_temp.json");
     geoData = await geoResponse.json();
   } catch (e) {
     console.error("Failed to load map geometry", e);
@@ -223,16 +231,22 @@ async function loadMetrics() {
   set("unemployment", "Unemployment Rate: 4.2% (Sep 2026)");
   set("foreign-aid", "Foreign Aid (FY2025): ~$47.3 billion");
 
-  try {
-    const debtResponse = await fetch("https://api.fiscaldata.treasury.gov/services/api/fiscal_service/v2/accounting/od/debt_to_penny?sort=-record_date&limit=1");
-    const debtData = await debtResponse.json();
-    if (debtData.data && debtData.data.length > 0) {
-      debtBase = parseFloat(debtData.data[0]["tot_pub_debt_out_amt"]);
-      debtTimestamp = Date.now();
-      set("debt", `National Debt: $${(debtBase / 1e12).toFixed(2)} trillion`);
+  // GitHub Pages is static: skip the app server so a missing /api/debt does not 404.
+  const onGithubPages = /(^|\.)github\.io$/i.test(location.hostname);
+  if (!onGithubPages) {
+    try {
+      const debtResponse = await fetch(new URL("../api/debt", location.href));
+      if (debtResponse.ok) {
+        const debtData = await debtResponse.json();
+        if (typeof debtData.amount === "number" && debtData.amount > 0) {
+          debtBase = debtData.amount;
+          debtTimestamp = Date.now();
+          set("debt", `National Debt: $${(debtBase / 1e12).toFixed(2)} trillion`);
+        }
+      }
+    } catch (e) {
+      console.warn("Debt API failed, using fallback", e);
     }
-  } catch (e) {
-    console.warn("Debt API failed, using fallback", e);
   }
 }
 
@@ -247,9 +261,9 @@ async function loadPresidentTeam() {
       const memberDiv = document.createElement("div");
       memberDiv.className = "team-member";
       const img = document.createElement("img");
-      img.src = official.image;
+      img.src = portraitSrc(official.image);
       img.alt = official.name;
-      img.onerror = function () { this.src = "https://via.placeholder.com/80"; };
+      img.onerror = function () { this.src = "images/portrait-fallback.svg"; };
       const span = document.createElement("div");
       span.innerHTML = `<strong>${official.name}</strong><br><small>${official.position} • ${official.party}</small><br><small>Religion: ${official.religion || "—"}</small><br><small>AIPAC: ${official.aipac || "—"}</small>`;
       memberDiv.appendChild(img);
@@ -280,7 +294,7 @@ function animate() {
 function createOfficialDiv(o) {
   const div = document.createElement("div");
   div.className = "official";
-  div.innerHTML = `<img src="${o.image || "https://via.placeholder.com/60"}" onerror="this.src='https://via.placeholder.com/60'"><div><strong>${o.name}</strong><br><small>${o.position} • ${o.party}</small><br><small>Religion: ${o.religion || "—"}</small><br><small>AIPAC: ${o.aipac || "—"}</small></div>`;
+  div.innerHTML = `<img src="${portraitSrc(o.image)}" alt=""><div><strong>${o.name}</strong><br><small>${o.position} • ${o.party}</small><br><small>Religion: ${o.religion || "—"}</small><br><small>AIPAC: ${o.aipac || "—"}</small></div>`;
   div.style.cssText = "display:flex; align-items:center; gap:12px; margin:10px 0;";
   return div;
 }
