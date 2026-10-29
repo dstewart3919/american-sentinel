@@ -27,4 +27,4 @@ python3 -m http.server 8080
 
 Officials data is in the JSON files under `data/`. Images are referenced by path in the JSON. Missing portraits use `images/portrait-fallback.svg`.
 
-The national debt figure updates live only when the page is hosted with the app server (`/api/debt`). On GitHub Pages it shows the published fallback and does not call that API.
+AIPAC figures are FEC filings for 2022, 2024, and 2026 combined. "Direct" is AIPAC PAC (`C00797670`) contributions to the campaign. "UDP for" and "UDP against" are independent expenditures by AIPAC's super PAC, United Democracy Project (`C00799031`). `$0` means those committees reported nothing for that person in those cycles, not that no pro-Israel donor ever gave.

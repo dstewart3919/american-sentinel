@@ -6,7 +6,7 @@
       "position": "President",
       "party": "Republican",
       "religion": "Christian",
-      "aipac": "$230,000,000",
+      "aipac": "$0",
       "image": "images/Donald_Trump.jpg"
     },
     {
@@ -14,7 +14,7 @@
       "position": "Vice President",
       "party": "Republican",
       "religion": "Catholic",
-      "aipac": "$167,000",
+      "aipac": "$0",
       "image": "images/jd_vance.jpg"
     },
     {
@@ -110,7 +110,7 @@
       "position": "Secretary of State",
       "party": "Republican",
       "religion": "Catholic",
-      "aipac": "$1,013,563",
+      "aipac": "$10,000 direct",
       "image": "images/marco_rubio.jpg"
     },
     {
@@ -166,7 +166,7 @@
       "position": "Secretary of Labor",
       "party": "Republican",
       "religion": "Christian",
-      "aipac": "$0",
+      "aipac": "$8,500 direct",
       "image": "images/lori_chavez_deremer.jpg"
     },
     {
@@ -214,7 +214,7 @@
       "position": "National Security Advisor",
       "party": "Republican",
       "religion": "Protestant",
-      "aipac": "$250,000",
+      "aipac": "$14,200 direct",
       "image": "images/mike_waltz.jpg"
     },
     {
@@ -222,7 +222,7 @@
       "position": "Director of National Intelligence",
       "party": "Republican",
       "religion": "Hindu",
-      "aipac": "$40,000",
+      "aipac": "$0",
       "image": "images/tulsi_gabbard.jpg"
     },
     {
@@ -230,7 +230,7 @@
       "position": "U.S. Ambassador to the United Nations",
       "party": "Republican",
       "religion": "Catholic",
-      "aipac": "$980,000",
+      "aipac": "$14,194 direct",
       "image": "images/elise_stefanik.jpg"
     },
     {
@@ -238,7 +238,7 @@
       "position": "Administrator of the Environmental Protection Agency",
       "party": "Republican",
       "religion": "Jewish",
-      "aipac": "$500,000",
+      "aipac": "$0",
       "image": "images/lee_zeldin.jpg"
     },
     {
