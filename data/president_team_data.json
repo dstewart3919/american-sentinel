@@ -5,7 +5,7 @@
       "name": "Donald Trump",
       "position": "President",
       "party": "Republican",
-      "religion": "Christian",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/Donald_Trump.jpg"
     },
@@ -13,119 +13,23 @@
       "name": "JD Vance",
       "position": "Vice President",
       "party": "Republican",
-      "religion": "Catholic",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/jd_vance.jpg"
-    },
-    {
-      "name": "Susie Wiles",
-      "position": "White House Chief of Staff",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/susie_wiles.jpg"
-    },
-    {
-      "name": "Stephen Miller",
-      "position": "Deputy Chief of Staff for Policy",
-      "party": "Republican",
-      "religion": "Jewish",
-      "aipac": "$0",
-      "image": "images/stephen_miller.jpg"
-    },
-    {
-      "name": "William McGinley",
-      "position": "White House Counsel",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/william_mcginley.jpg"
-    },
-    {
-      "name": "Taylor Budowich",
-      "position": "Deputy Chief of Staff for Communications and Public Liaison",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/taylor_budowich.jpg"
-    },
-    {
-      "name": "Karoline Leavitt",
-      "position": "White House Press Secretary",
-      "party": "Republican",
-      "religion": "Catholic",
-      "aipac": "$0",
-      "image": "images/karoline_leavitt.jpg"
-    },
-    {
-      "name": "Harrison Fields",
-      "position": "Principal Deputy Press Secretary",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/harrison_fields.jpg"
-    },
-    {
-      "name": "Matt Brasseaux",
-      "position": "Director of the Office of Political Affairs",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/matt_brasseaux.jpg"
-    },
-    {
-      "name": "Jim Goyer",
-      "position": "Director of the Office of Public Liaison",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/jim_goyer.jpg"
-    },
-    {
-      "name": "Vince Haley",
-      "position": "Director of the Domestic Policy Council",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/vince_haley.jpg"
-    },
-    {
-      "name": "Kevin Hassett",
-      "position": "Director of the National Economic Council",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/kevin_hassett.jpg"
-    },
-    {
-      "name": "William Scharf",
-      "position": "White House Staff Secretary",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/william_scharf.jpg"
     },
     {
       "name": "Marco Rubio",
       "position": "Secretary of State",
       "party": "Republican",
-      "religion": "Catholic",
+      "religion": "Unknown",
       "aipac": "$10,000 direct",
       "image": "images/marco_rubio.jpg"
-    },
-    {
-      "name": "Pam Bondi",
-      "position": "Attorney General",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/pam_bondi.jpg"
     },
     {
       "name": "Scott Bessent",
       "position": "Secretary of the Treasury",
       "party": "Republican",
-      "religion": "Christian",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/scott_bessent.jpg"
     },
@@ -133,47 +37,55 @@
       "name": "Pete Hegseth",
       "position": "Secretary of Defense",
       "party": "Republican",
-      "religion": "Reformed Evangelical",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/pete_hegseth.jpg"
     },
     {
-      "name": "Kristi Noem",
-      "position": "Secretary of Homeland Security",
+      "name": "Todd Blanche",
+      "position": "Attorney General",
       "party": "Republican",
-      "religion": "Evangelical Christian",
+      "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/kristi_noem.jpg"
+      "image": "images/todd_blanche.jpg"
+    },
+    {
+      "name": "Doug Burgum",
+      "position": "Secretary of the Interior",
+      "party": "Republican",
+      "religion": "Unknown",
+      "aipac": "$0",
+      "image": "images/doug_burgum.jpg"
+    },
+    {
+      "name": "Brooke Rollins",
+      "position": "Secretary of Agriculture",
+      "party": "Republican",
+      "religion": "Unknown",
+      "aipac": "$0",
+      "image": "images/brooke_rollins.jpg"
     },
     {
       "name": "Howard Lutnick",
       "position": "Secretary of Commerce",
       "party": "Republican",
-      "religion": "Jewish",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/howard_lutnick.jpg"
     },
     {
-      "name": "Sean Duffy",
-      "position": "Secretary of Transportation",
-      "party": "Republican",
-      "religion": "Catholic",
-      "aipac": "$0",
-      "image": "images/sean_duffy.jpg"
-    },
-    {
-      "name": "Lori Chavez-DeRemer",
+      "name": "Keith Sonderling",
       "position": "Secretary of Labor",
       "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$8,500 direct",
-      "image": "images/lori_chavez_deremer.jpg"
+      "religion": "Unknown",
+      "aipac": "$0",
+      "image": "images/keith_sonderling.jpg"
     },
     {
       "name": "Robert F. Kennedy Jr.",
       "position": "Secretary of Health and Human Services",
-      "party": "Republican",
-      "religion": "Catholic",
+      "party": "Independent",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/robert_f_kennedy_jr.jpg"
     },
@@ -181,23 +93,23 @@
       "name": "Scott Turner",
       "position": "Secretary of Housing and Urban Development",
       "party": "Republican",
-      "religion": "Baptist",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/scott_turner.jpg"
     },
     {
-      "name": "Doug Burgum",
-      "position": "Secretary of the Interior",
+      "name": "Sean Duffy",
+      "position": "Secretary of Transportation",
       "party": "Republican",
-      "religion": "Methodist",
+      "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/doug_burgum.jpg"
+      "image": "images/sean_duffy.jpg"
     },
     {
       "name": "Chris Wright",
       "position": "Secretary of Energy",
       "party": "Republican",
-      "religion": "Christian",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/chris_wright.jpg"
     },
@@ -205,39 +117,31 @@
       "name": "Linda McMahon",
       "position": "Secretary of Education",
       "party": "Republican",
-      "religion": "Christian",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/linda_mcmahon.jpg"
     },
     {
-      "name": "Mike Waltz",
-      "position": "National Security Advisor",
+      "name": "Doug Collins",
+      "position": "Secretary of Veterans Affairs",
       "party": "Republican",
-      "religion": "Protestant",
-      "aipac": "$14,200 direct",
-      "image": "images/mike_waltz.jpg"
-    },
-    {
-      "name": "Tulsi Gabbard",
-      "position": "Director of National Intelligence",
-      "party": "Republican",
-      "religion": "Hindu",
+      "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/tulsi_gabbard.jpg"
+      "image": "images/doug_collins.jpg"
     },
     {
-      "name": "Elise Stefanik",
-      "position": "U.S. Ambassador to the United Nations",
+      "name": "Markwayne Mullin",
+      "position": "Secretary of Homeland Security",
       "party": "Republican",
-      "religion": "Catholic",
-      "aipac": "$14,194 direct",
-      "image": "images/elise_stefanik.jpg"
+      "religion": "Unknown",
+      "aipac": "$4,994 direct",
+      "image": "images/markwayne_mullin.jpg"
     },
     {
       "name": "Lee Zeldin",
-      "position": "Administrator of the Environmental Protection Agency",
+      "position": "Administrator of the EPA",
       "party": "Republican",
-      "religion": "Jewish",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/lee_zeldin.jpg"
     },
@@ -245,81 +149,49 @@
       "name": "Russell Vought",
       "position": "Director of the Office of Management and Budget",
       "party": "Republican",
-      "religion": "Christian",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/russell_vought.jpg"
     },
     {
-      "name": "Jamieson Greer",
-      "position": "U.S. Trade Representative",
-      "party": "Republican",
-      "religion": "Mormon",
-      "aipac": "$0",
-      "image": "images/jamieson_greer.jpg"
-    },
-    {
-      "name": "Robert Lighthizer",
-      "position": "Trade Advisor",
+      "name": "Jay Clayton",
+      "position": "Director of National Intelligence",
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/robert_lighthizer.jpg"
-    },
-    {
-      "name": "Kelly Loeffler",
-      "position": "Administrator of the Small Business Administration",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/kelly_loeffler.jpg"
+      "image": "images/jay_clayton.jpg"
     },
     {
       "name": "John Ratcliffe",
       "position": "Director of the Central Intelligence Agency",
       "party": "Republican",
-      "religion": "Christian",
+      "religion": "Unknown",
       "aipac": "$0",
       "image": "images/john_ratcliffe.jpg"
     },
     {
-      "name": "Tom Homan",
-      "position": "Border Czar",
+      "name": "Jamieson Greer",
+      "position": "U.S. Trade Representative",
       "party": "Republican",
-      "religion": "Christian",
+      "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/tom_homan.jpg"
+      "image": "images/jamieson_greer.jpg"
     },
     {
-      "name": "Stephen Witkoff",
-      "position": "Special Envoy to the Middle East",
+      "name": "Kelly Loeffler",
+      "position": "Administrator of the Small Business Administration",
       "party": "Republican",
-      "religion": "Jewish",
+      "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/stephen_witkoff.jpg"
+      "image": "images/kelly_loeffler.jpg"
     },
     {
-      "name": "Keith Kellogg",
-      "position": "Special Envoy for Ukraine and Russia",
+      "name": "Susie Wiles",
+      "position": "White House Chief of Staff",
       "party": "Republican",
-      "religion": "Christian",
+      "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/keith_kellogg.jpg"
-    },
-    {
-      "name": "Kash Patel",
-      "position": "Director of the FBI",
-      "party": "Republican",
-      "religion": "Hindu",
-      "aipac": "$0",
-      "image": "images/kash_patel.jpg"
-    },
-    {
-      "name": "Chad Chronister",
-      "position": "Administrator of the Drug Enforcement Agency",
-      "party": "Republican",
-      "religion": "Christian",
-      "aipac": "$0",
-      "image": "images/chad_chronister.jpg"
+      "image": "images/susie_wiles.jpg"
     }
   ]
 }

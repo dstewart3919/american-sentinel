@@ -6,7 +6,7 @@
           "name": "Barry Moore",
           "position": "AL-1",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$12,900 direct",
           "image": "images/barry_moore.jpg"
         },
@@ -22,53 +22,53 @@
           "name": "Mike Rogers",
           "position": "AL-3",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$3,594 direct",
-          "image": "images/mike_rogers_al.jpg"
+          "image": "images/mike_rogers.jpg"
         },
         {
-          "name": "Robert Aderholt",
+          "name": "Robert B. Aderholt",
           "position": "AL-4",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Methodist",
           "aipac": "$2,794 direct",
-          "image": "images/robert_aderholt.jpg"
+          "image": "images/robert_b_aderholt.jpg"
         },
         {
-          "name": "Dale Strong",
+          "name": "Dale W. Strong",
           "position": "AL-5",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$19,994 direct",
-          "image": "images/dale_strong.jpg"
+          "image": "images/dale_w_strong.jpg"
         },
         {
-          "name": "Gary Palmer",
+          "name": "Gary J. Palmer",
           "position": "AL-6",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$12,094 direct",
-          "image": "images/gary_palmer.jpg"
+          "image": "images/gary_j_palmer.jpg"
         },
         {
-          "name": "Terri Sewell",
+          "name": "Terri A. Sewell",
           "position": "AL-7",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$25,450 direct",
-          "image": "images/terri_sewell.jpg"
+          "image": "images/terri_a_sewell.jpg"
         }
       ]
     },
     "Alaska": {
       "officials": [
         {
-          "name": "Nick Begich III",
-          "position": "AK-AL",
+          "name": "Nicholas J. Begich III",
+          "position": "AK-1",
           "party": "Republican",
-          "religion": "Protestant",
+          "religion": "Unknown",
           "aipac": "$9,994 direct",
-          "image": "images/nick_begich.jpg"
+          "image": "images/nicholas_j_begich_iii.jpg"
         }
       ]
     },
@@ -78,23 +78,23 @@
           "name": "David Schweikert",
           "position": "AZ-1",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$20,000 direct",
           "image": "images/david_schweikert.jpg"
         },
         {
-          "name": "Eli Crane",
+          "name": "Elijah Crane",
           "position": "AZ-2",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/eli_crane.jpg"
+          "image": "images/elijah_crane.jpg"
         },
         {
           "name": "Yassamin Ansari",
           "position": "AZ-3",
           "party": "Democrat",
-          "religion": "None",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/yassamin_ansari.jpg"
         },
@@ -110,7 +110,7 @@
           "name": "Andy Biggs",
           "position": "AZ-5",
           "party": "Republican",
-          "religion": "Mormon",
+          "religion": "Latter-day Saint",
           "aipac": "$4,000 direct",
           "image": "images/andy_biggs.jpg"
         },
@@ -118,59 +118,59 @@
           "name": "Juan Ciscomani",
           "position": "AZ-6",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$11,694 direct",
           "image": "images/juan_ciscomani.jpg"
         },
         {
-          "name": "Adelita Grijalva",
+          "name": "Adelita S. Grijalva",
           "position": "AZ-7",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/adelita_grijalva.jpg"
+          "image": "images/adelita_s_grijalva.jpg"
         },
         {
-          "name": "Abraham Hamadeh",
+          "name": "Abraham J. Hamadeh",
           "position": "AZ-8",
           "party": "Republican",
-          "religion": "None",
+          "religion": "Non-denominational Christian",
           "aipac": "$4,994 direct",
-          "image": "images/abraham_hamadeh.jpg"
+          "image": "images/abraham_j_hamadeh.jpg"
         },
         {
-          "name": "Paul Gosar",
+          "name": "Paul A. Gosar",
           "position": "AZ-9",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/paul_gosar.jpg"
+          "image": "images/paul_a_gosar.jpg"
         }
       ]
     },
     "Arkansas": {
       "officials": [
         {
-          "name": "Rick Crawford",
+          "name": "Eric A. \"Rick\" Crawford",
           "position": "AR-1",
           "party": "Republican",
           "religion": "Baptist",
           "aipac": "$18,144 direct",
-          "image": "images/rick_crawford.jpg"
+          "image": "images/eric_a_rick_crawford.jpg"
         },
         {
-          "name": "French Hill",
+          "name": "J. French Hill",
           "position": "AR-2",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Catholic",
           "aipac": "$22,894 direct",
-          "image": "images/french_hill.jpg"
+          "image": "images/j_french_hill.jpg"
         },
         {
           "name": "Steve Womack",
           "position": "AR-3",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$27,894 direct",
           "image": "images/steve_womack.jpg"
         },
@@ -178,7 +178,7 @@
           "name": "Bruce Westerman",
           "position": "AR-4",
           "party": "Republican",
-          "religion": "Methodist",
+          "religion": "Unknown",
           "aipac": "$27,894 direct",
           "image": "images/bruce_westerman.jpg"
         }
@@ -187,12 +187,12 @@
     "California": {
       "officials": [
         {
-          "name": "Doug LaMalfa",
+          "name": "James Gallagher",
           "position": "CA-1",
           "party": "Republican",
-          "religion": "Christian",
-          "aipac": "$17,894 direct",
-          "image": "images/doug_lamalfa.jpg"
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/james_gallagher.jpg"
         },
         {
           "name": "Jared Huffman",
@@ -205,7 +205,7 @@
         {
           "name": "Kevin Kiley",
           "position": "CA-3",
-          "party": "Republican",
+          "party": "Independent",
           "religion": "Unknown",
           "aipac": "$9,997 direct",
           "image": "images/kevin_kiley.jpg"
@@ -214,7 +214,7 @@
           "name": "Mike Thompson",
           "position": "CA-4",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$0",
           "image": "images/mike_thompson.jpg"
         },
@@ -230,23 +230,23 @@
           "name": "Ami Bera",
           "position": "CA-6",
           "party": "Democrat",
-          "religion": "Hindu",
+          "religion": "Unitarian Universalist",
           "aipac": "$900 direct",
           "image": "images/ami_bera.jpg"
         },
         {
-          "name": "Doris Matsui",
+          "name": "Doris O. Matsui",
           "position": "CA-7",
           "party": "Democrat",
-          "religion": "Buddhist",
+          "religion": "Methodist",
           "aipac": "$17,900 direct",
-          "image": "images/doris_matsui.jpg"
+          "image": "images/doris_o_matsui.jpg"
         },
         {
           "name": "John Garamendi",
           "position": "CA-8",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/john_garamendi.jpg"
         },
@@ -262,7 +262,7 @@
           "name": "Mark DeSaulnier",
           "position": "CA-10",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/mark_desaulnier.jpg"
         },
@@ -278,7 +278,7 @@
           "name": "Lateefah Simon",
           "position": "CA-12",
           "party": "Democrat",
-          "religion": "Muslim",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/lateefah_simon.jpg"
         },
@@ -291,28 +291,28 @@
           "image": "images/adam_gray.jpg"
         },
         {
-          "name": "Eric Swalwell",
+          "name": "Aisha Wahab",
           "position": "CA-14",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/eric_swalwell.jpg"
+          "aipac": "$1,642,138 UDP against",
+          "image": "images/aisha_wahab.jpg"
         },
         {
           "name": "Kevin Mullin",
           "position": "CA-15",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$12,900 direct · $588,681 UDP for",
           "image": "images/kevin_mullin.jpg"
         },
         {
-          "name": "Sam Liccardo",
+          "name": "Sam T. Liccardo",
           "position": "CA-16",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/sam_liccardo.jpg"
+          "image": "images/sam_t_liccardo.jpg"
         },
         {
           "name": "Ro Khanna",
@@ -326,7 +326,7 @@
           "name": "Zoe Lofgren",
           "position": "CA-18",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Lutheran",
           "aipac": "$0",
           "image": "images/zoe_lofgren.jpg"
         },
@@ -334,7 +334,7 @@
           "name": "Jimmy Panetta",
           "position": "CA-19",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$23,396 direct",
           "image": "images/jimmy_panetta.jpg"
         },
@@ -355,56 +355,48 @@
           "image": "images/jim_costa.jpg"
         },
         {
-          "name": "David Valadao",
+          "name": "David G. Valadao",
           "position": "CA-22",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$23,394 direct",
-          "image": "images/david_valadao.jpg"
-        },
-        {
-          "name": "Rudy Salas",
-          "position": "CA-23",
-          "party": "Democrat",
-          "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/rudy_salas.jpg"
+          "image": "images/david_g_valadao.jpg"
         },
         {
           "name": "Jay Obernolte",
-          "position": "CA-24",
+          "position": "CA-23",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$17,894 direct",
           "image": "images/jay_obernolte.jpg"
         },
         {
-          "name": "Salud Carbajal",
-          "position": "CA-25",
+          "name": "Salud O. Carbajal",
+          "position": "CA-24",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$2,900 direct",
-          "image": "images/salud_carbajal.jpg"
+          "image": "images/salud_o_carbajal.jpg"
         },
         {
           "name": "Raul Ruiz",
-          "position": "CA-26",
+          "position": "CA-25",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$22,894 direct",
           "image": "images/raul_ruiz.jpg"
         },
         {
           "name": "Julia Brownley",
-          "position": "CA-27",
+          "position": "CA-26",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$15,894 direct",
           "image": "images/julia_brownley.jpg"
         },
         {
-          "name": "George T. Whitesides",
-          "position": "CA-28",
+          "name": "George Whitesides",
+          "position": "CA-27",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
@@ -412,39 +404,39 @@
         },
         {
           "name": "Judy Chu",
-          "position": "CA-29",
+          "position": "CA-28",
           "party": "Democrat",
-          "religion": "Methodist",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/judy_chu.jpg"
         },
         {
-          "name": "Luz Rivas",
-          "position": "CA-30",
+          "name": "Luz M. Rivas",
+          "position": "CA-29",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$14,994 direct",
-          "image": "images/luz_rivas.jpg"
+          "image": "images/luz_m_rivas.jpg"
         },
         {
           "name": "Laura Friedman",
-          "position": "CA-31",
+          "position": "CA-30",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$9,994 direct",
           "image": "images/laura_friedman.jpg"
         },
         {
-          "name": "Gil Cisneros",
-          "position": "CA-32",
+          "name": "Gilbert Ray Cisneros, Jr.",
+          "position": "CA-31",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/gil_cisneros.jpg"
+          "image": "images/gilbert_ray_cisneros_jr.jpg"
         },
         {
           "name": "Brad Sherman",
-          "position": "CA-33",
+          "position": "CA-32",
           "party": "Democrat",
           "religion": "Jewish",
           "aipac": "$23,394 direct",
@@ -452,31 +444,31 @@
         },
         {
           "name": "Pete Aguilar",
-          "position": "CA-34",
+          "position": "CA-33",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$3,394 direct",
           "image": "images/pete_aguilar.jpg"
         },
         {
           "name": "Jimmy Gomez",
-          "position": "CA-35",
+          "position": "CA-34",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$22,894 direct · $1,695,829 UDP for",
           "image": "images/jimmy_gomez.jpg"
         },
         {
-          "name": "Norma Torres",
-          "position": "CA-36",
+          "name": "Norma J. Torres",
+          "position": "CA-35",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$22,894 direct",
-          "image": "images/norma_torres.jpg"
+          "image": "images/norma_j_torres.jpg"
         },
         {
           "name": "Ted Lieu",
-          "position": "CA-37",
+          "position": "CA-36",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$36,296 direct",
@@ -484,23 +476,23 @@
         },
         {
           "name": "Sydney Kamlager-Dove",
-          "position": "CA-38",
+          "position": "CA-37",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$5,000 direct",
           "image": "images/sydney_kamlager_dove.jpg"
         },
         {
-          "name": "Linda Sánchez",
-          "position": "CA-39",
+          "name": "Linda T. Sánchez",
+          "position": "CA-38",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$16,900 direct",
-          "image": "images/linda_sanchez.jpg"
+          "image": "images/linda_t_sanchez.jpg"
         },
         {
           "name": "Mark Takano",
-          "position": "CA-40",
+          "position": "CA-39",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
@@ -508,23 +500,23 @@
         },
         {
           "name": "Young Kim",
-          "position": "CA-41",
+          "position": "CA-40",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$22,894 direct",
           "image": "images/young_kim.jpg"
         },
         {
           "name": "Ken Calvert",
-          "position": "CA-42",
+          "position": "CA-41",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Protestant",
           "aipac": "$8,896 direct",
           "image": "images/ken_calvert.jpg"
         },
         {
           "name": "Robert Garcia",
-          "position": "CA-43",
+          "position": "CA-42",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$7,900 direct",
@@ -532,41 +524,49 @@
         },
         {
           "name": "Maxine Waters",
-          "position": "CA-44",
+          "position": "CA-43",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Christian",
           "aipac": "$0",
           "image": "images/maxine_waters.jpg"
         },
         {
-          "name": "Nanette Barragán",
-          "position": "CA-45",
+          "name": "Nanette Diaz Barragán",
+          "position": "CA-44",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "-$1,400 direct",
-          "image": "images/nanette_barragan.jpg"
+          "image": "images/nanette_diaz_barragan.jpg"
         },
         {
           "name": "Derek Tran",
-          "position": "CA-46",
+          "position": "CA-45",
           "party": "Democrat",
           "religion": "Buddhist",
           "aipac": "$0",
           "image": "images/derek_tran.jpg"
         },
         {
-          "name": "Lou Correa",
+          "name": "J. Luis Correa",
+          "position": "CA-46",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$7,894 direct",
+          "image": "images/j_luis_correa.jpg"
+        },
+        {
+          "name": "Dave Min",
           "position": "CA-47",
           "party": "Democrat",
-          "religion": "Catholic",
-          "aipac": "$7,894 direct",
-          "image": "images/lou_correa.jpg"
+          "religion": "Episcopal",
+          "aipac": "$4,615,281 UDP against",
+          "image": "images/dave_min.jpg"
         },
         {
           "name": "Darrell Issa",
           "position": "CA-48",
           "party": "Republican",
-          "religion": "Christian",
+          "religion": "Eastern Orthodox",
           "aipac": "$22,894 direct",
           "image": "images/darrell_issa.jpg"
         },
@@ -574,23 +574,23 @@
           "name": "Mike Levin",
           "position": "CA-49",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$22,894 direct",
           "image": "images/mike_levin.jpg"
         },
         {
-          "name": "Scott Peters",
+          "name": "Scott H. Peters",
           "position": "CA-50",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$7,894 direct",
-          "image": "images/scott_peters.jpg"
+          "image": "images/scott_h_peters.jpg"
         },
         {
           "name": "Sara Jacobs",
           "position": "CA-51",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/sara_jacobs.jpg"
         },
@@ -610,7 +610,7 @@
           "name": "Diana DeGette",
           "position": "CO-1",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Presbyterian",
           "aipac": "$2,900 direct",
           "image": "images/diana_degette.jpg"
         },
@@ -634,7 +634,7 @@
           "name": "Lauren Boebert",
           "position": "CO-4",
           "party": "Republican",
-          "religion": "Christian",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/lauren_boebert.jpg"
         },
@@ -678,9 +678,9 @@
           "name": "John B. Larson",
           "position": "CT-1",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$20,594 direct",
-          "image": "images/john_larson.jpg"
+          "image": "images/john_b_larson.jpg"
         },
         {
           "name": "Joe Courtney",
@@ -691,26 +691,26 @@
           "image": "images/joe_courtney.jpg"
         },
         {
-          "name": "Rosa DeLauro",
+          "name": "Rosa L. DeLauro",
           "position": "CT-3",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$10,394 direct",
-          "image": "images/rosa_delauro.jpg"
+          "image": "images/rosa_l_delauro.jpg"
         },
         {
-          "name": "Jim Himes",
+          "name": "James A. Himes",
           "position": "CT-4",
           "party": "Democrat",
-          "religion": "Episcopal",
+          "religion": "Presbyterian",
           "aipac": "$8,400 direct",
-          "image": "images/jim_himes.jpg"
+          "image": "images/james_a_himes.jpg"
         },
         {
           "name": "Jahana Hayes",
           "position": "CT-5",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$2,900 direct",
           "image": "images/jahana_hayes.jpg"
         }
@@ -720,9 +720,9 @@
       "officials": [
         {
           "name": "Sarah McBride",
-          "position": "DE-AL",
+          "position": "DE-1",
           "party": "Democrat",
-          "religion": "Episcopal",
+          "religion": "Unknown",
           "aipac": "$10,000 direct",
           "image": "images/sarah_mcbride.jpg"
         }
@@ -734,23 +734,23 @@
           "name": "Jimmy Patronis",
           "position": "FL-1",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Eastern Orthodox",
           "aipac": "$14,994 direct",
           "image": "images/jimmy_patronis.jpg"
         },
         {
-          "name": "Neal Dunn",
+          "name": "Neal P. Dunn",
           "position": "FL-2",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$17,894 direct",
-          "image": "images/neal_dunn.jpg"
+          "image": "images/neal_p_dunn.jpg"
         },
         {
           "name": "Kat Cammack",
           "position": "FL-3",
           "party": "Republican",
-          "religion": "Christian",
+          "religion": "Unknown",
           "aipac": "$3,994 direct",
           "image": "images/kat_cammack.jpg"
         },
@@ -758,23 +758,23 @@
           "name": "Aaron Bean",
           "position": "FL-4",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$29,994 direct",
           "image": "images/aaron_bean.jpg"
         },
         {
-          "name": "John Rutherford",
+          "name": "John H. Rutherford",
           "position": "FL-5",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$25,994 direct",
-          "image": "images/john_rutherford.jpg"
+          "image": "images/john_h_rutherford.jpg"
         },
         {
           "name": "Randy Fine",
           "position": "FL-6",
           "party": "Republican",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$9,994 direct",
           "image": "images/randy_fine.jpg"
         },
@@ -798,7 +798,7 @@
           "name": "Darren Soto",
           "position": "FL-9",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$29,194 direct",
           "image": "images/darren_soto.jpg"
         },
@@ -814,23 +814,23 @@
           "name": "Daniel Webster",
           "position": "FL-11",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Baptist",
           "aipac": "$24,994 direct",
           "image": "images/daniel_webster.jpg"
         },
         {
-          "name": "Gus Bilirakis",
+          "name": "Gus M. Bilirakis",
           "position": "FL-12",
           "party": "Republican",
-          "religion": "Greek Orthodox",
+          "religion": "Eastern Orthodox",
           "aipac": "$24,494 direct",
-          "image": "images/gus_bilirakis.jpg"
+          "image": "images/gus_m_bilirakis.jpg"
         },
         {
           "name": "Anna Paulina Luna",
           "position": "FL-13",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$9,994 direct",
           "image": "images/anna_paulina_luna.jpg"
         },
@@ -843,28 +843,28 @@
           "image": "images/kathy_castor.jpg"
         },
         {
-          "name": "Laurel Lee",
+          "name": "Laurel M. Lee",
           "position": "FL-15",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Protestant",
           "aipac": "$19,994 direct",
-          "image": "images/laurel_lee.jpg"
+          "image": "images/laurel_m_lee.jpg"
         },
         {
           "name": "Vern Buchanan",
           "position": "FL-16",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Christian",
           "aipac": "$18,494 direct",
           "image": "images/vern_buchanan.jpg"
         },
         {
-          "name": "Greg Steube",
+          "name": "W. Gregory Steube",
           "position": "FL-17",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Baptist",
           "aipac": "$24,994 direct",
-          "image": "images/greg_steube.jpg"
+          "image": "images/w_gregory_steube.jpg"
         },
         {
           "name": "Scott Franklin",
@@ -883,26 +883,26 @@
           "image": "images/byron_donalds.jpg"
         },
         {
-          "name": "Sheila Cherfilus-McCormick",
+          "name": "Vacant",
           "position": "FL-20",
-          "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$13,994 direct",
-          "image": "images/sheila_cherfilus_mccormick.jpg"
+          "party": "Unknown",
+          "religion": "—",
+          "aipac": "$0",
+          "image": "images/vacant.jpg"
         },
         {
-          "name": "Brian Mast",
+          "name": "Brian J. Mast",
           "position": "FL-21",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$24,994 direct",
-          "image": "images/brian_mast.jpg"
+          "image": "images/brian_j_mast.jpg"
         },
         {
           "name": "Lois Frankel",
           "position": "FL-22",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$25,244 direct",
           "image": "images/lois_frankel.jpg"
         },
@@ -910,17 +910,17 @@
           "name": "Jared Moskowitz",
           "position": "FL-23",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$29,994 direct",
           "image": "images/jared_moskowitz.jpg"
         },
         {
-          "name": "Frederica Wilson",
+          "name": "Frederica S. Wilson",
           "position": "FL-24",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$14,994 direct",
-          "image": "images/frederica_wilson.jpg"
+          "image": "images/frederica_s_wilson.jpg"
         },
         {
           "name": "Debbie Wasserman Schultz",
@@ -931,7 +931,7 @@
           "image": "images/debbie_wasserman_schultz.jpg"
         },
         {
-          "name": "Mario Díaz-Balart",
+          "name": "Mario Diaz-Balart",
           "position": "FL-26",
           "party": "Republican",
           "religion": "Catholic",
@@ -939,40 +939,40 @@
           "image": "images/mario_diaz_balart.jpg"
         },
         {
-          "name": "María Elvira Salazar",
+          "name": "Maria Elvira Salazar",
           "position": "FL-27",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
           "image": "images/maria_elvira_salazar.jpg"
         },
         {
-          "name": "Carlos Giménez",
+          "name": "Carlos A. Gimenez",
           "position": "FL-28",
           "party": "Republican",
           "religion": "Catholic",
           "aipac": "$24,994 direct",
-          "image": "images/carlos_gimenez.jpg"
+          "image": "images/carlos_a_gimenez.jpg"
         }
       ]
     },
     "Georgia": {
       "officials": [
         {
-          "name": "Buddy Carter",
+          "name": "Earl L. \"Buddy\" Carter",
           "position": "GA-1",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$4,900 direct",
-          "image": "images/buddy_carter.jpg"
+          "image": "images/earl_l_buddy_carter.jpg"
         },
         {
-          "name": "Sanford Bishop",
+          "name": "Sanford D. Bishop, Jr.",
           "position": "GA-2",
           "party": "Democrat",
-          "religion": "Methodist",
+          "religion": "Baptist",
           "aipac": "$12,900 direct",
-          "image": "images/sanford_bishop.jpg"
+          "image": "images/sanford_d_bishop_jr.jpg"
         },
         {
           "name": "Brian Jack",
@@ -983,12 +983,12 @@
           "image": "images/brian_jack.jpg"
         },
         {
-          "name": "Hank Johnson",
+          "name": "Henry C. \"Hank\" Johnson, Jr.",
           "position": "GA-4",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Buddhist",
           "aipac": "$0",
-          "image": "images/hank_johnson.jpg"
+          "image": "images/henry_c_hank_johnson_jr.jpg"
         },
         {
           "name": "Nikema Williams",
@@ -1007,28 +1007,28 @@
           "image": "images/lucy_mcbath.jpg"
         },
         {
-          "name": "Rich McCormick",
+          "name": "Richard McCormick",
           "position": "GA-7",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$19,994 direct",
-          "image": "images/rich_mccormick.jpg"
+          "image": "images/richard_mccormick.jpg"
         },
         {
           "name": "Austin Scott",
           "position": "GA-8",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$21,894 direct",
           "image": "images/austin_scott.jpg"
         },
         {
-          "name": "Andrew Clyde",
+          "name": "Andrew S. Clyde",
           "position": "GA-9",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/andrew_clyde.jpg"
+          "image": "images/andrew_s_clyde.jpg"
         },
         {
           "name": "Mike Collins",
@@ -1047,28 +1047,28 @@
           "image": "images/barry_loudermilk.jpg"
         },
         {
-          "name": "Rick Allen",
+          "name": "Rick W. Allen",
           "position": "GA-12",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Methodist",
           "aipac": "$10,994 direct",
-          "image": "images/rick_allen.jpg"
+          "image": "images/rick_w_allen.jpg"
         },
         {
-          "name": "David Scott",
+          "name": "Everton Blair Jr.",
           "position": "GA-13",
           "party": "Democrat",
-          "religion": "Baptist",
-          "aipac": "$17,894 direct",
-          "image": "images/david_scott.jpg"
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/everton_blair_jr.jpg"
         },
         {
-          "name": "Marjorie Taylor Greene",
+          "name": "Clay Fuller",
           "position": "GA-14",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/marjorie_taylor_greene.jpg"
+          "aipac": "$10,000 direct",
+          "image": "images/clay_fuller.jpg"
         }
       ]
     },
@@ -1078,17 +1078,17 @@
           "name": "Ed Case",
           "position": "HI-1",
           "party": "Democrat",
-          "religion": "Episcopal",
+          "religion": "Protestant",
           "aipac": "$7,494 direct",
           "image": "images/ed_case.jpg"
         },
         {
-          "name": "Jill Tokuda",
+          "name": "Jill N. Tokuda",
           "position": "HI-2",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$5,000 direct",
-          "image": "images/jill_tokuda.jpg"
+          "image": "images/jill_n_tokuda.jpg"
         }
       ]
     },
@@ -1098,59 +1098,59 @@
           "name": "Russ Fulcher",
           "position": "ID-1",
           "party": "Republican",
-          "religion": "Mormon",
+          "religion": "Unknown",
           "aipac": "$22,894 direct",
           "image": "images/russ_fulcher.jpg"
         },
         {
-          "name": "Mike Simpson",
+          "name": "Michael K. Simpson",
           "position": "ID-2",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Latter-day Saint",
           "aipac": "$22,894 direct",
-          "image": "images/mike_simpson.jpg"
+          "image": "images/michael_k_simpson.jpg"
         }
       ]
     },
     "Illinois": {
       "officials": [
         {
-          "name": "Jonathan Jackson",
+          "name": "Jonathan L. Jackson",
           "position": "IL-1",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$12,900 direct",
-          "image": "images/jonathan_jackson.jpg"
+          "image": "images/jonathan_l_jackson.jpg"
         },
         {
-          "name": "Robin Kelly",
+          "name": "Robin L. Kelly",
           "position": "IL-2",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/robin_kelly.jpg"
+          "image": "images/robin_l_kelly.jpg"
         },
         {
-          "name": "Delia Ramirez",
+          "name": "Delia C. Ramirez",
           "position": "IL-3",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Methodist",
           "aipac": "$0",
-          "image": "images/delia_ramirez.jpg"
+          "image": "images/delia_c_ramirez.jpg"
         },
         {
-          "name": "Chuy García",
+          "name": "Jesús G. \"Chuy\" García",
           "position": "IL-4",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/chuy_garcia.jpg"
+          "image": "images/jesus_g_chuy_garcia.jpg"
         },
         {
           "name": "Mike Quigley",
           "position": "IL-5",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$10,000 direct",
           "image": "images/mike_quigley.jpg"
         },
@@ -1163,12 +1163,12 @@
           "image": "images/sean_casten.jpg"
         },
         {
-          "name": "Danny Davis",
+          "name": "Danny K. Davis",
           "position": "IL-7",
           "party": "Democrat",
           "religion": "Baptist",
           "aipac": "$0",
-          "image": "images/danny_davis.jpg"
+          "image": "images/danny_k_davis.jpg"
         },
         {
           "name": "Raja Krishnamoorthi",
@@ -1179,20 +1179,20 @@
           "image": "images/raja_krishnamoorthi.jpg"
         },
         {
-          "name": "Jan Schakowsky",
+          "name": "Janice D. Schakowsky",
           "position": "IL-9",
           "party": "Democrat",
           "religion": "Jewish",
           "aipac": "$0",
-          "image": "images/jan_schakowsky.jpg"
+          "image": "images/janice_d_schakowsky.jpg"
         },
         {
-          "name": "Brad Schneider",
+          "name": "Bradley Scott Schneider",
           "position": "IL-10",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$19,194 direct",
-          "image": "images/brad_schneider.jpg"
+          "image": "images/bradley_scott_schneider.jpg"
         },
         {
           "name": "Bill Foster",
@@ -1214,7 +1214,7 @@
           "name": "Nikki Budzinski",
           "position": "IL-13",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$4,994 direct",
           "image": "images/nikki_budzinski.jpg"
         },
@@ -1227,18 +1227,18 @@
           "image": "images/lauren_underwood.jpg"
         },
         {
-          "name": "Mary Miller",
+          "name": "Mary E. Miller",
           "position": "IL-15",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "-$6 direct",
-          "image": "images/mary_miller.jpg"
+          "image": "images/mary_e_miller.jpg"
         },
         {
           "name": "Darin LaHood",
           "position": "IL-16",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
           "image": "images/darin_lahood.jpg"
         },
@@ -1255,42 +1255,42 @@
     "Indiana": {
       "officials": [
         {
-          "name": "Eric Holcomb",
+          "name": "Frank J. Mrvan",
           "position": "IN-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/eric_holcomb.jpg"
+          "aipac": "$27,894 direct",
+          "image": "images/frank_j_mrvan.jpg"
         },
         {
-          "name": "Rudy Yakym",
+          "name": "Rudy Yakym III",
           "position": "IN-2",
           "party": "Republican",
-          "religion": "Mormon",
+          "religion": "Baptist",
           "aipac": "$29,994 direct",
-          "image": "images/rudy_yakym.jpg"
+          "image": "images/rudy_yakym_iii.jpg"
         },
         {
-          "name": "Marlin Stutzman",
+          "name": "Marlin A. Stutzman",
           "position": "IN-3",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/marlin_stutzman.jpg"
+          "image": "images/marlin_a_stutzman.jpg"
         },
         {
-          "name": "Jim Baird",
+          "name": "James R. Baird",
           "position": "IN-4",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$9,494 direct",
-          "image": "images/jim_baird.jpg"
+          "image": "images/james_r_baird.jpg"
         },
         {
           "name": "Victoria Spartz",
           "position": "IN-5",
           "party": "Republican",
-          "religion": "Orthodox",
+          "religion": "Unknown",
           "aipac": "$19,994 direct",
           "image": "images/victoria_spartz.jpg"
         },
@@ -1311,18 +1311,18 @@
           "image": "images/andre_carson.jpg"
         },
         {
-          "name": "Mark Messmer",
+          "name": "Mark B. Messmer",
           "position": "IN-8",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$9,994 direct",
-          "image": "images/mark_messmer.jpg"
+          "image": "images/mark_b_messmer.jpg"
         },
         {
           "name": "Erin Houchin",
           "position": "IN-9",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Restorationism",
           "aipac": "$4,994 direct",
           "image": "images/erin_houchin.jpg"
         }
@@ -1334,7 +1334,7 @@
           "name": "Mariannette Miller-Meeks",
           "position": "IA-1",
           "party": "Republican",
-          "religion": "Methodist",
+          "religion": "Unknown",
           "aipac": "$23,894 direct",
           "image": "images/mariannette_miller_meeks.jpg"
         },
@@ -1342,17 +1342,17 @@
           "name": "Ashley Hinson",
           "position": "IA-2",
           "party": "Republican",
-          "religion": "Lutheran",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/ashley_hinson.jpg"
         },
         {
-          "name": "Zach Nunn",
+          "name": "Zachary Nunn",
           "position": "IA-3",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$14,994 direct",
-          "image": "images/zach_nunn.jpg"
+          "image": "images/zachary_nunn.jpg"
         },
         {
           "name": "Randy Feenstra",
@@ -1370,7 +1370,7 @@
           "name": "Tracey Mann",
           "position": "KS-1",
           "party": "Republican",
-          "religion": "Methodist",
+          "religion": "Unknown",
           "aipac": "$29,994 direct",
           "image": "images/tracey_mann.jpg"
         },
@@ -1394,7 +1394,7 @@
           "name": "Ron Estes",
           "position": "KS-4",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
           "image": "images/ron_estes.jpg"
         }
@@ -1406,7 +1406,7 @@
           "name": "James Comer",
           "position": "KY-1",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$10,894 direct",
           "image": "images/james_comer.jpg"
         },
@@ -1414,7 +1414,7 @@
           "name": "Brett Guthrie",
           "position": "KY-2",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$14,994 direct",
           "image": "images/brett_guthrie.jpg"
         },
@@ -1422,7 +1422,7 @@
           "name": "Morgan McGarvey",
           "position": "KY-3",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$12,900 direct",
           "image": "images/morgan_mcgarvey.jpg"
         },
@@ -1435,18 +1435,18 @@
           "image": "images/thomas_massie.jpg"
         },
         {
-          "name": "Hal Rogers",
+          "name": "Harold Rogers",
           "position": "KY-5",
           "party": "Republican",
           "religion": "Baptist",
           "aipac": "$17,094 direct",
-          "image": "images/hal_rogers.jpg"
+          "image": "images/harold_rogers.jpg"
         },
         {
           "name": "Andy Barr",
           "position": "KY-6",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "-$1,900 direct",
           "image": "images/andy_barr.jpg"
         }
@@ -1458,23 +1458,23 @@
           "name": "Steve Scalise",
           "position": "LA-1",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$22,594 direct",
           "image": "images/steve_scalise.jpg"
         },
         {
-          "name": "Troy Carter",
+          "name": "Troy A. Carter",
           "position": "LA-2",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$19,400 direct",
-          "image": "images/troy_carter.jpg"
+          "image": "images/troy_a_carter.jpg"
         },
         {
           "name": "Clay Higgins",
           "position": "LA-3",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$15,000 direct",
           "image": "images/clay_higgins.jpg"
         },
@@ -1490,7 +1490,7 @@
           "name": "Julia Letlow",
           "position": "LA-5",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$19,994 direct",
           "image": "images/julia_letlow.jpg"
         },
@@ -1498,7 +1498,7 @@
           "name": "Cleo Fields",
           "position": "LA-6",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/cleo_fields.jpg"
         }
@@ -1510,17 +1510,17 @@
           "name": "Chellie Pingree",
           "position": "ME-1",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Lutheran",
           "aipac": "$0",
           "image": "images/chellie_pingree.jpg"
         },
         {
-          "name": "Jared Golden",
+          "name": "Jared F. Golden",
           "position": "ME-2",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$17,894 direct",
-          "image": "images/jared_golden.jpg"
+          "image": "images/jared_f_golden.jpg"
         }
       ]
     },
@@ -1535,12 +1535,12 @@
           "image": "images/andy_harris.jpg"
         },
         {
-          "name": "Johnny Olszewski",
+          "name": "Johnny Olszewski, Jr.",
           "position": "MD-2",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$14,994 direct",
-          "image": "images/johnny_olszewski.jpg"
+          "image": "images/johnny_olszewski_jr.jpg"
         },
         {
           "name": "Sarah Elfreth",
@@ -1559,12 +1559,12 @@
           "image": "images/glenn_ivey.jpg"
         },
         {
-          "name": "Steny Hoyer",
+          "name": "Steny H. Hoyer",
           "position": "MD-5",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Baptist",
           "aipac": "$14,194 direct",
-          "image": "images/steny_hoyer.jpg"
+          "image": "images/steny_h_hoyer.jpg"
         },
         {
           "name": "April McClain Delaney",
@@ -1586,7 +1586,7 @@
           "name": "Jamie Raskin",
           "position": "MD-8",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/jamie_raskin.jpg"
         }
@@ -1595,20 +1595,20 @@
     "Massachusetts": {
       "officials": [
         {
-          "name": "Richard Neal",
+          "name": "Richard E. Neal",
           "position": "MA-1",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$19,994 direct",
-          "image": "images/richard_neal.jpg"
+          "image": "images/richard_e_neal.jpg"
         },
         {
-          "name": "Jim McGovern",
+          "name": "James P. McGovern",
           "position": "MA-2",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$0",
-          "image": "images/jim_mcgovern.jpg"
+          "image": "images/james_p_mcgovern.jpg"
         },
         {
           "name": "Lori Trahan",
@@ -1622,17 +1622,17 @@
           "name": "Jake Auchincloss",
           "position": "MA-4",
           "party": "Democrat",
-          "religion": "Episcopal",
+          "religion": "Unknown",
           "aipac": "$17,994 direct",
           "image": "images/jake_auchincloss.jpg"
         },
         {
-          "name": "Katherine Clark",
+          "name": "Katherine M. Clark",
           "position": "MA-5",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$14,494 direct",
-          "image": "images/katherine_clark.jpg"
+          "image": "images/katherine_m_clark.jpg"
         },
         {
           "name": "Seth Moulton",
@@ -1651,20 +1651,20 @@
           "image": "images/ayanna_pressley.jpg"
         },
         {
-          "name": "Stephen Lynch",
+          "name": "Stephen F. Lynch",
           "position": "MA-8",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/stephen_lynch.jpg"
+          "image": "images/stephen_f_lynch.jpg"
         },
         {
-          "name": "Bill Keating",
+          "name": "William R. Keating",
           "position": "MA-9",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$19,994 direct",
-          "image": "images/bill_keating.jpg"
+          "image": "images/william_r_keating.jpg"
         }
       ]
     },
@@ -1679,20 +1679,20 @@
           "image": "images/jack_bergman.jpg"
         },
         {
-          "name": "John Moolenaar",
+          "name": "John R. Moolenaar",
           "position": "MI-2",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$25,994 direct",
-          "image": "images/john_moolenaar.jpg"
+          "image": "images/john_r_moolenaar.jpg"
         },
         {
-          "name": "Hillary Scholten",
+          "name": "Hillary J. Scholten",
           "position": "MI-3",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$31,884 direct",
-          "image": "images/hillary_scholten.jpg"
+          "image": "images/hillary_j_scholten.jpg"
         },
         {
           "name": "Bill Huizenga",
@@ -1706,7 +1706,7 @@
           "name": "Tim Walberg",
           "position": "MI-5",
           "party": "Republican",
-          "religion": "Lutheran",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
           "image": "images/tim_walberg.jpg"
         },
@@ -1714,7 +1714,7 @@
           "name": "Debbie Dingell",
           "position": "MI-6",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/debbie_dingell.jpg"
         },
@@ -1722,7 +1722,7 @@
           "name": "Tom Barrett",
           "position": "MI-7",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$4,994 direct",
           "image": "images/tom_barrett.jpg"
         },
@@ -1730,33 +1730,33 @@
           "name": "Kristen McDonald Rivet",
           "position": "MI-8",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/kristen_mcdonald_rivet.jpg"
         },
         {
-          "name": "Lisa McClain",
+          "name": "Lisa C. McClain",
           "position": "MI-9",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$24,994 direct",
-          "image": "images/lisa_mcclain.jpg"
+          "image": "images/lisa_c_mcclain.jpg"
         },
         {
           "name": "John James",
           "position": "MI-10",
           "party": "Republican",
-          "religion": "Christian",
+          "religion": "Unknown",
           "aipac": "$10,000 direct",
           "image": "images/john_james.jpg"
         },
         {
-          "name": "Haley Stevens",
+          "name": "Haley M. Stevens",
           "position": "MI-11",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$22,100 direct · $3,869,083 UDP for",
-          "image": "images/haley_stevens.jpg"
+          "image": "images/haley_m_stevens.jpg"
         },
         {
           "name": "Rashida Tlaib",
@@ -1770,7 +1770,7 @@
           "name": "Shri Thanedar",
           "position": "MI-13",
           "party": "Democrat",
-          "religion": "Hindu",
+          "religion": "Unknown",
           "aipac": "$14,994 direct · $1,428,678 UDP against",
           "image": "images/shri_thanedar.jpg"
         }
@@ -1782,7 +1782,7 @@
           "name": "Brad Finstad",
           "position": "MN-1",
           "party": "Republican",
-          "religion": "Lutheran",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
           "image": "images/brad_finstad.jpg"
         },
@@ -1790,7 +1790,7 @@
           "name": "Angie Craig",
           "position": "MN-2",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Lutheran",
           "aipac": "$0",
           "image": "images/angie_craig.jpg"
         },
@@ -1806,7 +1806,7 @@
           "name": "Betty McCollum",
           "position": "MN-4",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$0",
           "image": "images/betty_mccollum.jpg"
         },
@@ -1822,7 +1822,7 @@
           "name": "Tom Emmer",
           "position": "MN-6",
           "party": "Republican",
-          "religion": "Lutheran",
+          "religion": "Unknown",
           "aipac": "$30,494 direct",
           "image": "images/tom_emmer.jpg"
         },
@@ -1830,7 +1830,7 @@
           "name": "Michelle Fischbach",
           "position": "MN-7",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
           "image": "images/michelle_fischbach.jpg"
         },
@@ -1838,7 +1838,7 @@
           "name": "Pete Stauber",
           "position": "MN-8",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$19,994 direct",
           "image": "images/pete_stauber.jpg"
         }
@@ -1850,23 +1850,23 @@
           "name": "Trent Kelly",
           "position": "MS-1",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$17,894 direct",
           "image": "images/trent_kelly.jpg"
         },
         {
-          "name": "Bennie Thompson",
+          "name": "Bennie G. Thompson",
           "position": "MS-2",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Methodist",
           "aipac": "$0",
-          "image": "images/bennie_thompson.jpg"
+          "image": "images/bennie_g_thompson.jpg"
         },
         {
           "name": "Michael Guest",
           "position": "MS-3",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$22,894 direct",
           "image": "images/michael_guest.jpg"
         },
@@ -1874,7 +1874,7 @@
           "name": "Mike Ezell",
           "position": "MS-4",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$14,994 direct",
           "image": "images/mike_ezell.jpg"
         }
@@ -1894,17 +1894,17 @@
           "name": "Ann Wagner",
           "position": "MO-2",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$19,194 direct",
           "image": "images/ann_wagner.jpg"
         },
         {
-          "name": "Bob Onder",
+          "name": "Robert F. Onder, Jr.",
           "position": "MO-3",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$9,994 direct",
-          "image": "images/bob_onder.jpg"
+          "image": "images/robert_f_onder_jr.jpg"
         },
         {
           "name": "Mark Alford",
@@ -1918,7 +1918,7 @@
           "name": "Emanuel Cleaver",
           "position": "MO-5",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Methodist",
           "aipac": "$10,500 direct",
           "image": "images/emanuel_cleaver.jpg"
         },
@@ -1926,7 +1926,7 @@
           "name": "Sam Graves",
           "position": "MO-6",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Baptist",
           "aipac": "$27,094 direct",
           "image": "images/sam_graves.jpg"
         },
@@ -1942,7 +1942,7 @@
           "name": "Jason Smith",
           "position": "MO-8",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
           "image": "images/jason_smith.jpg"
         }
@@ -1951,12 +1951,12 @@
     "Montana": {
       "officials": [
         {
-          "name": "Ryan Zinke",
+          "name": "Ryan K. Zinke",
           "position": "MT-1",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$0",
-          "image": "images/ryan_zinke.jpg"
+          "image": "images/ryan_k_zinke.jpg"
         },
         {
           "name": "Troy Downing",
@@ -1974,7 +1974,7 @@
           "name": "Mike Flood",
           "position": "NE-1",
           "party": "Republican",
-          "religion": "Methodist",
+          "religion": "Unknown",
           "aipac": "$29,994 direct",
           "image": "images/mike_flood.jpg"
         },
@@ -1982,7 +1982,7 @@
           "name": "Don Bacon",
           "position": "NE-2",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$1,100 direct",
           "image": "images/don_bacon.jpg"
         },
@@ -2007,18 +2007,18 @@
           "image": "images/dina_titus.jpg"
         },
         {
-          "name": "Mark Amodei",
+          "name": "Mark E. Amodei",
           "position": "NV-2",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$4,394 direct",
-          "image": "images/mark_amodei.jpg"
+          "image": "images/mark_e_amodei.jpg"
         },
         {
           "name": "Susie Lee",
           "position": "NV-3",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$17,853 direct",
           "image": "images/susie_lee.jpg"
         },
@@ -2026,7 +2026,7 @@
           "name": "Steven Horsford",
           "position": "NV-4",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$22,894 direct",
           "image": "images/steven_horsford.jpg"
         }
@@ -2038,7 +2038,7 @@
           "name": "Chris Pappas",
           "position": "NH-1",
           "party": "Democrat",
-          "religion": "Greek Orthodox",
+          "religion": "Eastern Orthodox",
           "aipac": "$18,159 direct",
           "image": "images/chris_pappas.jpg"
         },
@@ -2046,7 +2046,7 @@
           "name": "Maggie Goodlander",
           "position": "NH-2",
           "party": "Democrat",
-          "religion": "Episcopal",
+          "religion": "Unknown",
           "aipac": "$14,994 direct",
           "image": "images/maggie_goodlander.jpg"
         }
@@ -2058,71 +2058,71 @@
           "name": "Donald Norcross",
           "position": "NJ-1",
           "party": "Democrat",
-          "religion": "Episcopal",
+          "religion": "Unknown",
           "aipac": "$16,894 direct",
           "image": "images/donald_norcross.jpg"
         },
         {
-          "name": "Jeff Van Drew",
+          "name": "Jefferson Van Drew",
           "position": "NJ-2",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$27,894 direct",
-          "image": "images/jeff_van_drew.jpg"
+          "image": "images/jefferson_van_drew.jpg"
         },
         {
-          "name": "Herb Conaway",
+          "name": "Herbert C. Conaway, Jr.",
           "position": "NJ-3",
           "party": "Democrat",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$5,000 direct",
-          "image": "images/herb_conaway.jpg"
+          "image": "images/herbert_c_conaway_jr.jpg"
         },
         {
-          "name": "Chris Smith",
+          "name": "Christopher H. Smith",
           "position": "NJ-4",
           "party": "Republican",
           "religion": "Catholic",
           "aipac": "$27,894 direct",
-          "image": "images/chris_smith.jpg"
+          "image": "images/christopher_h_smith.jpg"
         },
         {
           "name": "Josh Gottheimer",
           "position": "NJ-5",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$88,624 direct",
           "image": "images/josh_gottheimer.jpg"
         },
         {
-          "name": "Frank Pallone",
+          "name": "Frank Pallone, Jr.",
           "position": "NJ-6",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$22,894 direct",
-          "image": "images/frank_pallone.jpg"
+          "image": "images/frank_pallone_jr.jpg"
         },
         {
-          "name": "Thomas Kean Jr.",
+          "name": "Thomas H. Kean, Jr.",
           "position": "NJ-7",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Episcopal",
           "aipac": "$17,494 direct",
-          "image": "images/thomas_kean.jpg"
+          "image": "images/thomas_h_kean_jr.jpg"
         },
         {
-          "name": "Rob Menendez",
+          "name": "Robert Menendez",
           "position": "NJ-8",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$17,894 direct",
-          "image": "images/rob_menendez.jpg"
+          "image": "images/robert_menendez.jpg"
         },
         {
           "name": "Nellie Pou",
           "position": "NJ-9",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$5,000 direct",
           "image": "images/nellie_pou.jpg"
         },
@@ -2146,7 +2146,7 @@
           "name": "Bonnie Watson Coleman",
           "position": "NJ-12",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/bonnie_watson_coleman.jpg"
         }
@@ -2155,18 +2155,18 @@
     "New Mexico": {
       "officials": [
         {
-          "name": "Melanie Stansbury",
+          "name": "Melanie A. Stansbury",
           "position": "NM-1",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/melanie_stansbury.jpg"
+          "image": "images/melanie_a_stansbury.jpg"
         },
         {
           "name": "Gabe Vasquez",
           "position": "NM-2",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/gabe_vasquez.jpg"
         },
@@ -2174,7 +2174,7 @@
           "name": "Teresa Leger Fernandez",
           "position": "NM-3",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$7,900 direct",
           "image": "images/teresa_leger_fernandez.jpg"
         }
@@ -2186,185 +2186,185 @@
           "name": "Nick LaLota",
           "position": "NY-1",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/nick_lalota.jpg"
         },
         {
-          "name": "Andrew Garbarino",
+          "name": "Andrew R. Garbarino",
           "position": "NY-2",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$29,994 direct",
-          "image": "images/andrew_garbarino.jpg"
+          "image": "images/andrew_r_garbarino.jpg"
         },
         {
-          "name": "Tom Suozzi",
+          "name": "Thomas R. Suozzi",
           "position": "NY-3",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$19,994 direct",
-          "image": "images/tom_suozzi.jpg"
+          "image": "images/thomas_r_suozzi.jpg"
         },
         {
           "name": "Laura Gillen",
           "position": "NY-4",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/laura_gillen.jpg"
         },
         {
-          "name": "Gregory Meeks",
+          "name": "Gregory W. Meeks",
           "position": "NY-5",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "AME",
           "aipac": "$29,994 direct",
-          "image": "images/gregory_meeks.jpg"
+          "image": "images/gregory_w_meeks.jpg"
         },
         {
           "name": "Grace Meng",
           "position": "NY-6",
           "party": "Democrat",
-          "religion": "Buddhist",
+          "religion": "Unknown",
           "aipac": "$18,694 direct",
           "image": "images/grace_meng.jpg"
         },
         {
-          "name": "Nydia Velázquez",
+          "name": "Nydia M. Velázquez",
           "position": "NY-7",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$0",
-          "image": "images/nydia_velazquez.jpg"
+          "image": "images/nydia_m_velazquez.jpg"
         },
         {
-          "name": "Dan Goldman",
+          "name": "Hakeem S. Jeffries",
           "position": "NY-8",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Baptist",
+          "aipac": "$11,694 direct",
+          "image": "images/hakeem_s_jeffries.jpg"
+        },
+        {
+          "name": "Yvette D. Clarke",
+          "position": "NY-9",
+          "party": "Democrat",
+          "religion": "Episcopal",
+          "aipac": "$4,994 direct",
+          "image": "images/yvette_d_clarke.jpg"
+        },
+        {
+          "name": "Daniel S. Goldman",
+          "position": "NY-10",
+          "party": "Democrat",
+          "religion": "Unknown",
           "aipac": "$9,994 direct",
-          "image": "images/dan_goldman.jpg"
+          "image": "images/daniel_s_goldman.jpg"
+        },
+        {
+          "name": "Nicole Malliotakis",
+          "position": "NY-11",
+          "party": "Republican",
+          "religion": "Eastern Orthodox",
+          "aipac": "$19,194 direct",
+          "image": "images/nicole_malliotakis.jpg"
+        },
+        {
+          "name": "Jerrold Nadler",
+          "position": "NY-12",
+          "party": "Democrat",
+          "religion": "Jewish",
+          "aipac": "$7,900 direct",
+          "image": "images/jerrold_nadler.jpg"
         },
         {
           "name": "Adriano Espaillat",
-          "position": "NY-9",
+          "position": "NY-13",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$19,194 direct",
           "image": "images/adriano_espaillat.jpg"
         },
         {
           "name": "Alexandria Ocasio-Cortez",
-          "position": "NY-10",
+          "position": "NY-14",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$0",
           "image": "images/alexandria_ocasio_cortez.jpg"
         },
         {
-          "name": "Hakeem Jeffries",
-          "position": "NY-11",
-          "party": "Democrat",
-          "religion": "Baptist",
-          "aipac": "$11,694 direct",
-          "image": "images/hakeem_jeffries.jpg"
-        },
-        {
-          "name": "Nicole Malliotakis",
-          "position": "NY-12",
-          "party": "Republican",
-          "religion": "Greek Orthodox",
-          "aipac": "$19,194 direct",
-          "image": "images/nicole_malliotakis.jpg"
-        },
-        {
-          "name": "Mike Lawler",
-          "position": "NY-13",
-          "party": "Republican",
-          "religion": "Catholic",
-          "aipac": "$19,494 direct",
-          "image": "images/mike_lawler.jpg"
-        },
-        {
-          "name": "Elise Stefanik",
-          "position": "NY-14",
-          "party": "Republican",
-          "religion": "Catholic",
-          "aipac": "$14,194 direct",
-          "image": "images/elise_stefanik.jpg"
-        },
-        {
-          "name": "Paul Tonko",
+          "name": "Ritchie Torres",
           "position": "NY-15",
           "party": "Democrat",
-          "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/paul_tonko.jpg"
+          "religion": "Unknown",
+          "aipac": "$30,494 direct",
+          "image": "images/ritchie_torres.jpg"
         },
         {
-          "name": "Brian Higgins",
+          "name": "George Latimer",
           "position": "NY-16",
           "party": "Democrat",
-          "religion": "Catholic",
-          "aipac": "$10,000 direct",
-          "image": "images/brian_higgins.jpg"
+          "religion": "Unknown",
+          "aipac": "$11,994 direct · $4,643,833 UDP for · $84,325 UDP against",
+          "image": "images/george_latimer.jpg"
+        },
+        {
+          "name": "Michael Lawler",
+          "position": "NY-17",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$19,494 direct",
+          "image": "images/michael_lawler.jpg"
+        },
+        {
+          "name": "Patrick Ryan",
+          "position": "NY-18",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "-$10,006 direct",
+          "image": "images/patrick_ryan.jpg"
         },
         {
           "name": "Josh Riley",
-          "position": "NY-17",
+          "position": "NY-19",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$40,175 direct",
           "image": "images/josh_riley.jpg"
         },
         {
-          "name": "Anthony D'Esposito",
-          "position": "NY-18",
-          "party": "Republican",
-          "religion": "Catholic",
-          "aipac": "$15,000 direct",
-          "image": "images/anthony_desposito.jpg"
-        },
-        {
-          "name": "Pat Ryan",
-          "position": "NY-19",
-          "party": "Democrat",
-          "religion": "Catholic",
-          "aipac": "-$10,006 direct",
-          "image": "images/pat_ryan.jpg"
-        },
-        {
-          "name": "Brandon Williams",
+          "name": "Paul Tonko",
           "position": "NY-20",
-          "party": "Republican",
+          "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/brandon_williams.jpg"
+          "aipac": "$0",
+          "image": "images/paul_tonko.jpg"
         },
         {
-          "name": "Elise Stefanik",
+          "name": "Elise M. Stefanik",
           "position": "NY-21",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$14,194 direct",
-          "image": "images/elise_stefanik.jpg"
+          "image": "images/elise_m_stefanik.jpg"
         },
         {
-          "name": "Darrin Camilleri",
+          "name": "John W. Mannion",
           "position": "NY-22",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/darrin_camilleri.jpg"
+          "image": "images/john_w_mannion.jpg"
         },
         {
-          "name": "Nick Langworthy",
+          "name": "Nicholas A. Langworthy",
           "position": "NY-23",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
-          "image": "images/nick_langworthy.jpg"
+          "image": "images/nicholas_a_langworthy.jpg"
         },
         {
           "name": "Claudia Tenney",
@@ -2375,72 +2375,72 @@
           "image": "images/claudia_tenney.jpg"
         },
         {
-          "name": "John Mannion",
+          "name": "Joseph D. Morelle",
           "position": "NY-25",
           "party": "Democrat",
-          "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/john_mannion.jpg"
+          "religion": "Unknown",
+          "aipac": "$24,994 direct",
+          "image": "images/joseph_d_morelle.jpg"
         },
         {
-          "name": "Brian Higgins",
+          "name": "Timothy M. Kennedy",
           "position": "NY-26",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$10,000 direct",
-          "image": "images/brian_higgins_ny.jpg"
+          "aipac": "$14,994 direct",
+          "image": "images/timothy_m_kennedy.jpg"
         }
       ]
     },
     "North Carolina": {
       "officials": [
         {
-          "name": "Don Davis",
+          "name": "Donald G. Davis",
           "position": "NC-1",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$27,894 direct · $2,102,636 UDP for",
-          "image": "images/don_davis.jpg"
+          "image": "images/donald_g_davis.jpg"
         },
         {
-          "name": "Valerie Foushee",
+          "name": "Deborah K. Ross",
           "position": "NC-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$7,900 direct · $2,105,214 UDP for",
-          "image": "images/valerie_foushee.jpg"
+          "aipac": "$12,900 direct",
+          "image": "images/deborah_k_ross.jpg"
         },
         {
-          "name": "Greg Murphy",
+          "name": "Gregory F. Murphy",
           "position": "NC-3",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$22,894 direct",
-          "image": "images/greg_murphy.jpg"
+          "image": "images/gregory_f_murphy.jpg"
         },
         {
-          "name": "Virginia Foxx",
+          "name": "Valerie P. Foushee",
           "position": "NC-4",
-          "party": "Republican",
-          "religion": "Presbyterian",
-          "aipac": "$22,894 direct",
-          "image": "images/virginia_foxx.jpg"
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$7,900 direct · $2,105,214 UDP for",
+          "image": "images/valerie_p_foushee.jpg"
         },
         {
           "name": "Virginia Foxx",
           "position": "NC-5",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Catholic",
           "aipac": "$22,894 direct",
-          "image": "images/virginia_foxx_nc5.jpg"
+          "image": "images/virginia_foxx.jpg"
         },
         {
-          "name": "Kathy Manning",
+          "name": "Addison P. McDowell",
           "position": "NC-6",
-          "party": "Democrat",
-          "religion": "Jewish",
-          "aipac": "$4,159 direct",
-          "image": "images/kathy_manning.jpg"
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$19,994 direct",
+          "image": "images/addison_p_mcdowell.jpg"
         },
         {
           "name": "David Rouzer",
@@ -2451,72 +2451,72 @@
           "image": "images/david_rouzer.jpg"
         },
         {
-          "name": "Dan Bishop",
+          "name": "Mark Harris",
           "position": "NC-8",
           "party": "Republican",
-          "religion": "Unknown",
-          "aipac": "$7,900 direct",
-          "image": "images/dan_bishop.jpg"
+          "religion": "Baptist",
+          "aipac": "$14,994 direct",
+          "image": "images/mark_harris.jpg"
         },
         {
           "name": "Richard Hudson",
           "position": "NC-9",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$19,994 direct",
           "image": "images/richard_hudson.jpg"
         },
         {
-          "name": "Patrick McHenry",
+          "name": "Pat Harrigan",
           "position": "NC-10",
           "party": "Republican",
-          "religion": "Baptist",
-          "aipac": "$8,900 direct",
-          "image": "images/patrick_mchenry.jpg"
-        },
-        {
-          "name": "Wiley Nickel",
-          "position": "NC-11",
-          "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/wiley_nickel.jpg"
+          "aipac": "$14,994 direct",
+          "image": "images/pat_harrigan.jpg"
         },
         {
-          "name": "Deborah Ross",
+          "name": "Chuck Edwards",
+          "position": "NC-11",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$29,994 direct",
+          "image": "images/chuck_edwards.jpg"
+        },
+        {
+          "name": "Alma S. Adams",
           "position": "NC-12",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$12,900 direct",
-          "image": "images/deborah_ross.jpg"
+          "aipac": "$7,900 direct",
+          "image": "images/alma_s_adams.jpg"
         },
         {
-          "name": "Larry Bucshon",
+          "name": "Brad Knott",
           "position": "NC-13",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$7,400 direct",
-          "image": "images/larry_bucshon.jpg"
+          "aipac": "$15,000 direct",
+          "image": "images/brad_knott.jpg"
         },
         {
-          "name": "Jeff Jackson",
+          "name": "Tim Moore",
           "position": "NC-14",
-          "party": "Democrat",
+          "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$7,900 direct",
-          "image": "images/jeff_jackson.jpg"
+          "aipac": "$9,994 direct",
+          "image": "images/tim_moore.jpg"
         }
       ]
     },
     "North Dakota": {
       "officials": [
         {
-          "name": "Rick Becker",
-          "position": "ND-AL",
+          "name": "Julie Fedorchak",
+          "position": "ND-1",
           "party": "Republican",
-          "religion": "Lutheran",
-          "aipac": "$0",
-          "image": "images/rick_becker.jpg"
+          "religion": "Unknown",
+          "aipac": "$15,000 direct",
+          "image": "images/julie_fedorchak.jpg"
         }
       ]
     },
@@ -2526,57 +2526,57 @@
           "name": "Greg Landsman",
           "position": "OH-1",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$19,994 direct",
           "image": "images/greg_landsman.jpg"
         },
         {
-          "name": "Jane Mitakides",
+          "name": "David J. Taylor",
           "position": "OH-2",
-          "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/jane_mitakides.jpg"
-        },
-        {
-          "name": "Warren Davidson",
-          "position": "OH-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/warren_davidson.jpg"
+          "aipac": "$14,994 direct",
+          "image": "images/david_j_taylor.jpg"
         },
         {
-          "name": "Marcia Fudge",
-          "position": "OH-4",
+          "name": "Joyce Beatty",
+          "position": "OH-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/marcia_fudge.jpg"
+          "aipac": "$4,594 direct",
+          "image": "images/joyce_beatty.jpg"
         },
         {
-          "name": "Bob Latta",
+          "name": "Jim Jordan",
+          "position": "OH-4",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$27,894 direct",
+          "image": "images/jim_jordan.jpg"
+        },
+        {
+          "name": "Robert E. Latta",
           "position": "OH-5",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$17,894 direct",
-          "image": "images/bob_latta.jpg"
+          "image": "images/robert_e_latta.jpg"
         },
         {
-          "name": "Bill Johnson",
+          "name": "Michael A. Rulli",
           "position": "OH-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$7,900 direct",
-          "image": "images/bill_johnson_oh.jpg"
+          "aipac": "$19,994 direct",
+          "image": "images/michael_a_rulli.jpg"
         },
         {
-          "name": "Bob Gibbs",
+          "name": "Max L. Miller",
           "position": "OH-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/bob_gibbs.jpg"
+          "aipac": "$14,994 direct",
+          "image": "images/max_l_miller.jpg"
         },
         {
           "name": "Warren Davidson",
@@ -2584,31 +2584,31 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/warren_davidson_oh8.jpg"
+          "image": "images/warren_davidson.jpg"
         },
         {
           "name": "Marcy Kaptur",
           "position": "OH-9",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$0",
           "image": "images/marcy_kaptur.jpg"
         },
         {
-          "name": "Michael Rulli",
+          "name": "Michael R. Turner",
           "position": "OH-10",
           "party": "Republican",
-          "religion": "Catholic",
-          "aipac": "$19,994 direct",
-          "image": "images/michael_rulli.jpg"
+          "religion": "Presbyterian",
+          "aipac": "$17,894 direct",
+          "image": "images/michael_r_turner.jpg"
         },
         {
-          "name": "Shontel Brown",
+          "name": "Shontel M. Brown",
           "position": "OH-11",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$20,394 direct · $80,539 UDP for",
-          "image": "images/shontel_brown.jpg"
+          "image": "images/shontel_m_brown.jpg"
         },
         {
           "name": "Troy Balderson",
@@ -2619,28 +2619,28 @@
           "image": "images/troy_balderson.jpg"
         },
         {
-          "name": "Emilia Sykes",
+          "name": "Emilia Strong Sykes",
           "position": "OH-13",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$24,994 direct",
-          "image": "images/emilia_sykes.jpg"
+          "image": "images/emilia_strong_sykes.jpg"
         },
         {
-          "name": "Max Miller",
+          "name": "David P. Joyce",
           "position": "OH-14",
           "party": "Republican",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$14,994 direct",
-          "image": "images/max_miller.jpg"
+          "image": "images/david_p_joyce.jpg"
         },
         {
-          "name": "Dave Joyce",
+          "name": "Mike Carey",
           "position": "OH-15",
           "party": "Republican",
-          "religion": "Catholic",
-          "aipac": "$14,994 direct",
-          "image": "images/dave_joyce.jpg"
+          "religion": "Unknown",
+          "aipac": "$9,994 direct",
+          "image": "images/mike_carey.jpg"
         }
       ]
     },
@@ -2650,7 +2650,7 @@
           "name": "Kevin Hern",
           "position": "OK-1",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$29,994 direct",
           "image": "images/kevin_hern.jpg"
         },
@@ -2663,12 +2663,12 @@
           "image": "images/josh_brecheen.jpg"
         },
         {
-          "name": "Frank Lucas",
+          "name": "Frank D. Lucas",
           "position": "OK-3",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Baptist",
           "aipac": "$14,994 direct",
-          "image": "images/frank_lucas.jpg"
+          "image": "images/frank_d_lucas.jpg"
         },
         {
           "name": "Tom Cole",
@@ -2679,12 +2679,12 @@
           "image": "images/tom_cole.jpg"
         },
         {
-          "name": "Stephanie Bice",
+          "name": "Stephanie I. Bice",
           "position": "OK-5",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$18,994 direct",
-          "image": "images/stephanie_bice.jpg"
+          "image": "images/stephanie_i_bice.jpg"
         }
       ]
     },
@@ -2694,7 +2694,7 @@
           "name": "Suzanne Bonamici",
           "position": "OR-1",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$2,000 direct",
           "image": "images/suzanne_bonamici.jpg"
         },
@@ -2702,67 +2702,75 @@
           "name": "Cliff Bentz",
           "position": "OR-2",
           "party": "Republican",
-          "religion": "Methodist",
+          "religion": "Unknown",
           "aipac": "$5,000 direct",
           "image": "images/cliff_bentz.jpg"
         },
         {
-          "name": "Earl Blumenauer",
+          "name": "Maxine Dexter",
           "position": "OR-3",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/earl_blumenauer.jpg"
+          "image": "images/maxine_dexter.jpg"
         },
         {
-          "name": "Val Hoyle",
+          "name": "Val T. Hoyle",
           "position": "OR-4",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/val_hoyle.jpg"
+          "image": "images/val_t_hoyle.jpg"
         },
         {
-          "name": "Lori Chavez-DeRemer",
+          "name": "Janelle S. Bynum",
           "position": "OR-5",
-          "party": "Republican",
-          "religion": "Catholic",
-          "aipac": "$8,500 direct",
-          "image": "images/lori_chavez_deremer.jpg"
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/janelle_s_bynum.jpg"
+        },
+        {
+          "name": "Andrea Salinas",
+          "position": "OR-6",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$5,000 direct",
+          "image": "images/andrea_salinas.jpg"
         }
       ]
     },
     "Pennsylvania": {
       "officials": [
         {
-          "name": "Matt Cartwright",
+          "name": "Brian K. Fitzpatrick",
           "position": "PA-1",
-          "party": "Democrat",
-          "religion": "Catholic",
-          "aipac": "$2,000 direct",
-          "image": "images/matt_cartwright.jpg"
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$17,594 direct",
+          "image": "images/brian_k_fitzpatrick.jpg"
         },
         {
-          "name": "Ryan Mackenzie",
+          "name": "Brendan F. Boyle",
           "position": "PA-2",
-          "party": "Republican",
-          "religion": "Presbyterian",
-          "aipac": "$9,994 direct",
-          "image": "images/ryan_mackenzie.jpg"
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$19,094 direct",
+          "image": "images/brendan_f_boyle.jpg"
         },
         {
-          "name": "Scott Perry",
+          "name": "Dwight Evans",
           "position": "PA-3",
-          "party": "Republican",
-          "religion": "Christian",
-          "aipac": "$4,494 direct",
-          "image": "images/scott_perry.jpg"
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/dwight_evans.jpg"
         },
         {
           "name": "Madeleine Dean",
           "position": "PA-4",
           "party": "Democrat",
-          "religion": "Episcopal",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/madeleine_dean.jpg"
         },
@@ -2770,7 +2778,7 @@
           "name": "Mary Gay Scanlon",
           "position": "PA-5",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/mary_gay_scanlon.jpg"
         },
@@ -2783,36 +2791,36 @@
           "image": "images/chrissy_houlahan.jpg"
         },
         {
-          "name": "Susan Wild",
+          "name": "Ryan Mackenzie",
           "position": "PA-7",
-          "party": "Democrat",
+          "party": "Republican",
           "religion": "Unknown",
-          "aipac": "-$2,900 direct",
-          "image": "images/susan_wild.jpg"
+          "aipac": "$9,994 direct",
+          "image": "images/ryan_mackenzie.jpg"
         },
         {
-          "name": "Dan Meuser",
+          "name": "Robert P. Bresnahan, Jr.",
           "position": "PA-8",
           "party": "Republican",
-          "religion": "Catholic",
-          "aipac": "$19,994 direct",
-          "image": "images/dan_meuser.jpg"
+          "religion": "Unknown",
+          "aipac": "$9,994 direct",
+          "image": "images/robert_p_bresnahan_jr.jpg"
         },
         {
-          "name": "Guy Reschenthaler",
+          "name": "Daniel Meuser",
           "position": "PA-9",
           "party": "Republican",
-          "religion": "Presbyterian",
-          "aipac": "$22,094 direct",
-          "image": "images/guy_reschenthaler.jpg"
+          "religion": "Unknown",
+          "aipac": "$19,994 direct",
+          "image": "images/daniel_meuser.jpg"
         },
         {
           "name": "Scott Perry",
           "position": "PA-10",
           "party": "Republican",
-          "religion": "Christian",
+          "religion": "Unknown",
           "aipac": "$4,494 direct",
-          "image": "images/scott_perry_pa10.jpg"
+          "image": "images/scott_perry.jpg"
         },
         {
           "name": "Lloyd Smucker",
@@ -2823,28 +2831,28 @@
           "image": "images/lloyd_smucker.jpg"
         },
         {
-          "name": "John Joyce",
+          "name": "Summer L. Lee",
           "position": "PA-12",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$3,273,947 UDP against",
+          "image": "images/summer_l_lee.jpg"
+        },
+        {
+          "name": "John Joyce",
+          "position": "PA-13",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/john_joyce.jpg"
         },
         {
           "name": "Guy Reschenthaler",
-          "position": "PA-13",
-          "party": "Republican",
-          "religion": "Presbyterian",
-          "aipac": "$22,094 direct",
-          "image": "images/guy_reschenthaler_pa13.jpg"
-        },
-        {
-          "name": "Scott Perry",
           "position": "PA-14",
           "party": "Republican",
-          "religion": "Christian",
-          "aipac": "$4,494 direct",
-          "image": "images/scott_perry_pa14.jpg"
+          "religion": "Unknown",
+          "aipac": "$22,094 direct",
+          "image": "images/guy_reschenthaler.jpg"
         },
         {
           "name": "Glenn Thompson",
@@ -2858,9 +2866,17 @@
           "name": "Mike Kelly",
           "position": "PA-16",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$17,894 direct",
           "image": "images/mike_kelly.jpg"
+        },
+        {
+          "name": "Christopher R. Deluzio",
+          "position": "PA-17",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$1,000 direct",
+          "image": "images/christopher_r_deluzio.jpg"
         }
       ]
     },
@@ -2870,7 +2886,7 @@
           "name": "Gabe Amo",
           "position": "RI-1",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$15,994 direct",
           "image": "images/gabe_amo.jpg"
         },
@@ -2878,7 +2894,7 @@
           "name": "Seth Magaziner",
           "position": "RI-2",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$14,994 direct",
           "image": "images/seth_magaziner.jpg"
         }
@@ -2890,7 +2906,7 @@
           "name": "Nancy Mace",
           "position": "SC-1",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$17,800 direct",
           "image": "images/nancy_mace.jpg"
         },
@@ -2903,20 +2919,20 @@
           "image": "images/joe_wilson.jpg"
         },
         {
-          "name": "William Timmons",
+          "name": "Sheri Biggs",
           "position": "SC-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/william_timmons.jpg"
+          "aipac": "$14,994 direct",
+          "image": "images/sheri_biggs.jpg"
         },
         {
-          "name": "James Clyburn",
+          "name": "William R. Timmons IV",
           "position": "SC-4",
-          "party": "Democrat",
-          "religion": "Baptist",
-          "aipac": "$4,900 direct",
-          "image": "images/james_clyburn.jpg"
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$24,994 direct",
+          "image": "images/william_r_timmons_iv.jpg"
         },
         {
           "name": "Ralph Norman",
@@ -2927,20 +2943,20 @@
           "image": "images/ralph_norman.jpg"
         },
         {
-          "name": "Jim Clyburn",
+          "name": "James E. Clyburn",
           "position": "SC-6",
           "party": "Democrat",
-          "religion": "Baptist",
+          "religion": "AME",
           "aipac": "$4,900 direct",
-          "image": "images/jim_clyburn.jpg"
+          "image": "images/james_e_clyburn.jpg"
         },
         {
-          "name": "Tom Rice",
+          "name": "Russell Fry",
           "position": "SC-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$2,900 direct",
-          "image": "images/tom_rice.jpg"
+          "aipac": "$19,994 direct",
+          "image": "images/russell_fry.jpg"
         }
       ]
     },
@@ -2948,9 +2964,9 @@
       "officials": [
         {
           "name": "Dusty Johnson",
-          "position": "SD-AL",
+          "position": "SD-1",
           "party": "Republican",
-          "religion": "Episcopal",
+          "religion": "Unknown",
           "aipac": "$17,900 direct",
           "image": "images/dusty_johnson.jpg"
         }
@@ -2962,7 +2978,7 @@
           "name": "Diana Harshbarger",
           "position": "TN-1",
           "party": "Republican",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
           "image": "images/diana_harshbarger.jpg"
         },
@@ -2970,17 +2986,17 @@
           "name": "Tim Burchett",
           "position": "TN-2",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Presbyterian",
           "aipac": "$2,494 direct",
           "image": "images/tim_burchett.jpg"
         },
         {
-          "name": "Chuck Fleischmann",
+          "name": "Charles J. \"Chuck\" Fleischmann",
           "position": "TN-3",
           "party": "Republican",
-          "religion": "Jewish",
+          "religion": "Catholic",
           "aipac": "$24,994 direct",
-          "image": "images/chuck_fleischmann.jpg"
+          "image": "images/charles_j_chuck_fleischmann.jpg"
         },
         {
           "name": "Scott DesJarlais",
@@ -2991,28 +3007,28 @@
           "image": "images/scott_desjarlais.jpg"
         },
         {
-          "name": "Andy Ogles",
+          "name": "Andrew Ogles",
           "position": "TN-5",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$24,994 direct",
-          "image": "images/andy_ogles.jpg"
+          "image": "images/andrew_ogles.jpg"
         },
         {
-          "name": "John Rose",
+          "name": "John W. Rose",
           "position": "TN-6",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$20,000 direct",
-          "image": "images/john_rose.jpg"
+          "image": "images/john_w_rose.jpg"
         },
         {
-          "name": "Mark Green",
+          "name": "Matt Van Epps",
           "position": "TN-7",
           "party": "Republican",
-          "religion": "Episcopal",
-          "aipac": "$20,000 direct",
-          "image": "images/mark_green.jpg"
+          "religion": "Unknown",
+          "aipac": "$13,494 direct",
+          "image": "images/matt_van_epps.jpg"
         },
         {
           "name": "David Kustoff",
@@ -3023,24 +3039,24 @@
           "image": "images/david_kustoff.jpg"
         },
         {
-          "name": "Tim Burchett",
+          "name": "Steve Cohen",
           "position": "TN-9",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$2,494 direct",
-          "image": "images/tim_burchett_tn9.jpg"
+          "aipac": "$0",
+          "image": "images/steve_cohen.jpg"
         }
       ]
     },
     "Texas": {
       "officials": [
         {
-          "name": "Craig Goldman",
+          "name": "Nathaniel Moran",
           "position": "TX-1",
           "party": "Republican",
-          "religion": "Jewish",
-          "aipac": "$9,994 direct",
-          "image": "images/craig_goldman.jpg"
+          "religion": "Baptist",
+          "aipac": "$19,994 direct",
+          "image": "images/nathaniel_moran.jpg"
         },
         {
           "name": "Dan Crenshaw",
@@ -3059,12 +3075,12 @@
           "image": "images/keith_self.jpg"
         },
         {
-          "name": "Patrick Fallon",
+          "name": "Pat Fallon",
           "position": "TX-4",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$21,994 direct",
-          "image": "images/patrick_fallon.jpg"
+          "image": "images/pat_fallon.jpg"
         },
         {
           "name": "Lance Gooden",
@@ -3083,36 +3099,36 @@
           "image": "images/jake_ellzey.jpg"
         },
         {
-          "name": "Morgan Luttrell",
+          "name": "Lizzie Fletcher",
           "position": "TX-7",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$19,994 direct",
+          "image": "images/lizzie_fletcher.jpg"
+        },
+        {
+          "name": "Morgan Luttrell",
+          "position": "TX-8",
           "party": "Republican",
-          "religion": "Christian",
+          "religion": "Unknown",
           "aipac": "$15,000 direct",
           "image": "images/morgan_luttrell.jpg"
         },
         {
-          "name": "Michael Burgess",
-          "position": "TX-8",
-          "party": "Republican",
-          "religion": "Unknown",
-          "aipac": "-$12,000 direct",
-          "image": "images/michael_burgess.jpg"
-        },
-        {
-          "name": "Marc Veasey",
+          "name": "Al Green",
           "position": "TX-9",
           "party": "Democrat",
           "religion": "Baptist",
-          "aipac": "$14,994 direct",
-          "image": "images/marc_veasey.jpg"
+          "aipac": "$0",
+          "image": "images/al_green.jpg"
         },
         {
-          "name": "Michael McCaul",
+          "name": "Michael T. McCaul",
           "position": "TX-10",
           "party": "Republican",
           "religion": "Catholic",
           "aipac": "$22,900 direct",
-          "image": "images/michael_mccaul.jpg"
+          "image": "images/michael_t_mccaul.jpg"
         },
         {
           "name": "August Pfluger",
@@ -3123,12 +3139,12 @@
           "image": "images/august_pfluger.jpg"
         },
         {
-          "name": "Kay Granger",
+          "name": "Craig A. Goldman",
           "position": "TX-12",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$7,100 direct",
-          "image": "images/kay_granger.jpg"
+          "aipac": "$9,994 direct",
+          "image": "images/craig_a_goldman.jpg"
         },
         {
           "name": "Ronny Jackson",
@@ -3139,172 +3155,172 @@
           "image": "images/ronny_jackson.jpg"
         },
         {
-          "name": "Randy Weber",
+          "name": "Randy K. Weber, Sr.",
           "position": "TX-14",
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$25,494 direct",
-          "image": "images/randy_weber.jpg"
+          "image": "images/randy_k_weber_sr.jpg"
         },
         {
-          "name": "Mónica De La Cruz",
+          "name": "Monica De La Cruz",
           "position": "TX-15",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$19,994 direct",
           "image": "images/monica_de_la_cruz.jpg"
         },
         {
-          "name": "Jodey Arrington",
+          "name": "Veronica Escobar",
           "position": "TX-16",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/veronica_escobar.jpg"
+        },
+        {
+          "name": "Pete Sessions",
+          "position": "TX-17",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Methodist",
+          "aipac": "$22,894 direct",
+          "image": "images/pete_sessions.jpg"
+        },
+        {
+          "name": "Christian D. Menefee",
+          "position": "TX-18",
+          "party": "Democrat",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/christian_d_menefee.jpg"
+        },
+        {
+          "name": "Jodey C. Arrington",
+          "position": "TX-19",
+          "party": "Republican",
+          "religion": "Unknown",
           "aipac": "$5,394 direct",
-          "image": "images/jodey_arrington.jpg"
+          "image": "images/jodey_c_arrington.jpg"
         },
         {
           "name": "Joaquin Castro",
-          "position": "TX-17",
+          "position": "TX-20",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$0",
           "image": "images/joaquin_castro.jpg"
         },
         {
-          "name": "Sylvester Turner",
-          "position": "TX-18",
-          "party": "Democrat",
-          "religion": "Baptist",
-          "aipac": "$5,000 direct",
-          "image": "images/sylvester_turner.jpg"
+          "name": "Chip Roy",
+          "position": "TX-21",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/chip_roy.jpg"
         },
         {
-          "name": "Jodey Arrington",
-          "position": "TX-19",
+          "name": "Troy E. Nehls",
+          "position": "TX-22",
           "party": "Republican",
-          "religion": "Catholic",
-          "aipac": "$5,394 direct",
-          "image": "images/jodey_arrington.jpg"
+          "religion": "Unknown",
+          "aipac": "$7,100 direct",
+          "image": "images/troy_e_nehls.jpg"
         },
         {
-          "name": "Tony Gonzales",
-          "position": "TX-20",
+          "name": "Vacant",
+          "position": "TX-23",
+          "party": "Unknown",
+          "religion": "—",
+          "aipac": "$0",
+          "image": "images/vacant.jpg"
+        },
+        {
+          "name": "Beth Van Duyne",
+          "position": "TX-24",
           "party": "Republican",
-          "religion": "Catholic",
+          "religion": "Episcopal",
+          "aipac": "$19,994 direct",
+          "image": "images/beth_van_duyne.jpg"
+        },
+        {
+          "name": "Roger Williams",
+          "position": "TX-25",
+          "party": "Republican",
+          "religion": "Unknown",
           "aipac": "$22,094 direct",
-          "image": "images/tony_gonzales.jpg"
+          "image": "images/roger_williams.jpg"
+        },
+        {
+          "name": "Brandon Gill",
+          "position": "TX-26",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$14,994 direct",
+          "image": "images/brandon_gill.jpg"
+        },
+        {
+          "name": "Michael Cloud",
+          "position": "TX-27",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$6,500 direct",
+          "image": "images/michael_cloud.jpg"
         },
         {
           "name": "Henry Cuellar",
-          "position": "TX-21",
+          "position": "TX-28",
           "party": "Democrat",
           "religion": "Catholic",
           "aipac": "$30,700 direct · $407,430 UDP for",
           "image": "images/henry_cuellar.jpg"
         },
         {
-          "name": "Troy Nehls",
-          "position": "TX-22",
-          "party": "Republican",
+          "name": "Sylvia R. Garcia",
+          "position": "TX-29",
+          "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$7,100 direct",
-          "image": "images/troy_nehls.jpg"
+          "aipac": "$10,000 direct",
+          "image": "images/sylvia_r_garcia.jpg"
         },
         {
-          "name": "Beth Van Duyne",
-          "position": "TX-23",
-          "party": "Republican",
-          "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/beth_van_duyne.jpg"
+          "name": "Jasmine Crockett",
+          "position": "TX-30",
+          "party": "Democrat",
+          "religion": "Baptist",
+          "aipac": "$0",
+          "image": "images/jasmine_crockett.jpg"
         },
         {
-          "name": "Colin Allred",
-          "position": "TX-24",
+          "name": "John R. Carter",
+          "position": "TX-31",
+          "party": "Republican",
+          "religion": "Christian",
+          "aipac": "$1,267 direct",
+          "image": "images/john_r_carter.jpg"
+        },
+        {
+          "name": "Julie Johnson",
+          "position": "TX-32",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$5,000 direct",
-          "image": "images/colin_allred.jpg"
+          "image": "images/julie_johnson.jpg"
         },
         {
-          "name": "Lance Gooden",
-          "position": "TX-25",
-          "party": "Republican",
-          "religion": "Unknown",
-          "aipac": "$19,767 direct",
-          "image": "images/lance_gooden_tx25.jpg"
-        },
-        {
-          "name": "Michael Burgess",
-          "position": "TX-26",
-          "party": "Republican",
-          "religion": "Unknown",
-          "aipac": "-$12,000 direct",
-          "image": "images/michael_burgess_tx26.jpg"
-        },
-        {
-          "name": "Jasmin Crockett",
-          "position": "TX-27",
+          "name": "Marc A. Veasey",
+          "position": "TX-33",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/jasmin_crockett.jpg"
-        },
-        {
-          "name": "Marc Veasey",
-          "position": "TX-28",
-          "party": "Democrat",
-          "religion": "Baptist",
           "aipac": "$14,994 direct",
-          "image": "images/marc_veasey_tx28.jpg"
-        },
-        {
-          "name": "Mayra Flores",
-          "position": "TX-29",
-          "party": "Republican",
-          "religion": "Christian",
-          "aipac": "$0",
-          "image": "images/mayra_flores.jpg"
+          "image": "images/marc_a_veasey.jpg"
         },
         {
           "name": "Vicente Gonzalez",
-          "position": "TX-30",
+          "position": "TX-34",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$29,953 direct",
           "image": "images/vicente_gonzalez.jpg"
-        },
-        {
-          "name": "John Carter",
-          "position": "TX-31",
-          "party": "Republican",
-          "religion": "Unknown",
-          "aipac": "$1,267 direct",
-          "image": "images/john_carter.jpg"
-        },
-        {
-          "name": "Pete Sessions",
-          "position": "TX-32",
-          "party": "Republican",
-          "religion": "Presbyterian",
-          "aipac": "$22,894 direct",
-          "image": "images/pete_sessions.jpg"
-        },
-        {
-          "name": "Marc Veasey",
-          "position": "TX-33",
-          "party": "Democrat",
-          "religion": "Baptist",
-          "aipac": "$14,994 direct",
-          "image": "images/marc_veasey_tx33.jpg"
-        },
-        {
-          "name": "Chip Roy",
-          "position": "TX-34",
-          "party": "Republican",
-          "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/chip_roy.jpg"
         },
         {
           "name": "Greg Casar",
@@ -3315,62 +3331,62 @@
           "image": "images/greg_casar.jpg"
         },
         {
-          "name": "Michael Cloud",
+          "name": "Brian Babin",
           "position": "TX-36",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$6,500 direct",
-          "image": "images/michael_cloud.jpg"
+          "aipac": "$11,894 direct",
+          "image": "images/brian_babin.jpg"
         },
         {
-          "name": "Van Taylor",
+          "name": "Lloyd Doggett",
           "position": "TX-37",
-          "party": "Republican",
-          "religion": "Unknown",
+          "party": "Democrat",
+          "religion": "Methodist",
           "aipac": "$0",
-          "image": "images/van_taylor.jpg"
+          "image": "images/lloyd_doggett.jpg"
         },
         {
-          "name": "Dan Crenshaw",
+          "name": "Wesley Hunt",
           "position": "TX-38",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$23,394 direct",
-          "image": "images/dan_crenshaw_tx38.jpg"
+          "aipac": "$10,000 direct",
+          "image": "images/wesley_hunt.jpg"
         }
       ]
     },
     "Utah": {
       "officials": [
         {
-          "name": "Blake Moore",
+          "name": "Blake D. Moore",
           "position": "UT-1",
           "party": "Republican",
-          "religion": "Mormon",
+          "religion": "Unknown",
           "aipac": "$19,994 direct",
-          "image": "images/blake_moore.jpg"
+          "image": "images/blake_d_moore.jpg"
         },
         {
-          "name": "Chris Stewart",
+          "name": "Celeste Maloy",
           "position": "UT-2",
           "party": "Republican",
-          "religion": "Mormon",
-          "aipac": "$10,000 direct",
-          "image": "images/chris_stewart.jpg"
+          "religion": "Unknown",
+          "aipac": "$19,994 direct",
+          "image": "images/celeste_maloy.jpg"
         },
         {
-          "name": "John Curtis",
+          "name": "Mike Kennedy",
           "position": "UT-3",
           "party": "Republican",
-          "religion": "Mormon",
-          "aipac": "$14,900 direct",
-          "image": "images/john_curtis.jpg"
+          "religion": "Unknown",
+          "aipac": "$10,000 direct",
+          "image": "images/mike_kennedy.jpg"
         },
         {
           "name": "Burgess Owens",
           "position": "UT-4",
           "party": "Republican",
-          "religion": "Mormon",
+          "religion": "Unknown",
           "aipac": "$14,994 direct",
           "image": "images/burgess_owens.jpg"
         }
@@ -3380,9 +3396,9 @@
       "officials": [
         {
           "name": "Becca Balint",
-          "position": "VT-AL",
+          "position": "VT-1",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$0",
           "image": "images/becca_balint.jpg"
         }
@@ -3391,44 +3407,44 @@
     "Virginia": {
       "officials": [
         {
-          "name": "Suhas Subramanyam",
+          "name": "Robert J. Wittman",
           "position": "VA-1",
-          "party": "Democrat",
-          "religion": "Hindu",
-          "aipac": "$0",
-          "image": "images/suhas_subramanyam.jpg"
-        },
-        {
-          "name": "Rob Wittman",
-          "position": "VA-2",
           "party": "Republican",
           "religion": "Episcopal",
           "aipac": "$25,994 direct",
-          "image": "images/rob_wittman.jpg"
+          "image": "images/robert_j_wittman.jpg"
         },
         {
-          "name": "Robert Wittman",
+          "name": "Jennifer A. Kiggans",
+          "position": "VA-2",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$10,994 direct",
+          "image": "images/jennifer_a_kiggans.jpg"
+        },
+        {
+          "name": "Robert C. \"Bobby\" Scott",
           "position": "VA-3",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$25,994 direct",
-          "image": "images/robert_wittman_va3.jpg"
+          "religion": "Episcopal",
+          "aipac": "$0",
+          "image": "images/robert_c_bobby_scott.jpg"
         },
         {
-          "name": "Jennifer McClellan",
+          "name": "Jennifer L. McClellan",
           "position": "VA-4",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Presbyterian",
           "aipac": "$15,000 direct",
-          "image": "images/jennifer_mcclellan.jpg"
+          "image": "images/jennifer_l_mcclellan.jpg"
         },
         {
-          "name": "Bob Good",
+          "name": "John J. McGuire III",
           "position": "VA-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$132,227 UDP against",
-          "image": "images/bob_good.jpg"
+          "aipac": "$0",
+          "image": "images/john_j_mcguire_iii.jpg"
         },
         {
           "name": "Ben Cline",
@@ -3439,62 +3455,62 @@
           "image": "images/ben_cline.jpg"
         },
         {
-          "name": "Abigail Spanberger",
+          "name": "Eugene Simon Vindman",
           "position": "VA-7",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$9,200 direct",
-          "image": "images/abigail_spanberger.jpg"
+          "aipac": "$0",
+          "image": "images/eugene_simon_vindman.jpg"
         },
         {
-          "name": "Rob Wittman",
+          "name": "Donald S. Beyer, Jr.",
           "position": "VA-8",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$25,994 direct",
-          "image": "images/rob_wittman_va8.jpg"
+          "aipac": "$0",
+          "image": "images/donald_s_beyer_jr.jpg"
         },
         {
-          "name": "Morgan Griffith",
+          "name": "H. Morgan Griffith",
           "position": "VA-9",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Episcopal",
           "aipac": "$24,994 direct",
-          "image": "images/morgan_griffith.jpg"
+          "image": "images/h_morgan_griffith.jpg"
         },
         {
-          "name": "Mark Warner",
+          "name": "Suhas Subramanyam",
           "position": "VA-10",
           "party": "Democrat",
-          "religion": "Episcopal",
-          "aipac": "$4,494 direct",
-          "image": "images/mark_warner_va10.jpg"
+          "religion": "Unknown",
+          "aipac": "$0",
+          "image": "images/suhas_subramanyam.jpg"
         },
         {
-          "name": "Tim Kaine",
+          "name": "James R. Walkinshaw",
           "position": "VA-11",
           "party": "Democrat",
-          "religion": "Catholic",
+          "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/tim_kaine_va11.jpg"
+          "image": "images/james_r_walkinshaw.jpg"
         }
       ]
     },
     "Washington": {
       "officials": [
         {
-          "name": "Marilyn Strickland",
+          "name": "Suzan K. DelBene",
           "position": "WA-1",
           "party": "Democrat",
-          "religion": "Presbyterian",
-          "aipac": "$24,194 direct",
-          "image": "images/marilyn_strickland.jpg"
+          "religion": "Unknown",
+          "aipac": "$15,894 direct",
+          "image": "images/suzan_k_delbene.jpg"
         },
         {
           "name": "Rick Larsen",
           "position": "WA-2",
           "party": "Democrat",
-          "religion": "Lutheran",
+          "religion": "Methodist",
           "aipac": "$25,000 direct",
           "image": "images/rick_larsen.jpg"
         },
@@ -3502,7 +3518,7 @@
           "name": "Marie Gluesenkamp Perez",
           "position": "WA-3",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "nondenominational Christianity",
           "aipac": "$19,994 direct",
           "image": "images/marie_gluesenkamp_perez.jpg"
         },
@@ -3515,20 +3531,20 @@
           "image": "images/dan_newhouse.jpg"
         },
         {
-          "name": "Cathy McMorris Rodgers",
+          "name": "Michael Baumgartner",
           "position": "WA-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,999 direct",
-          "image": "images/cathy_mcmorris_rodgers.jpg"
+          "aipac": "$19,494 direct",
+          "image": "images/michael_baumgartner.jpg"
         },
         {
-          "name": "Derek Kilmer",
+          "name": "Emily Randall",
           "position": "WA-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$2,100 direct",
-          "image": "images/derek_kilmer.jpg"
+          "aipac": "$0",
+          "image": "images/emily_randall.jpg"
         },
         {
           "name": "Pramila Jayapal",
@@ -3542,7 +3558,7 @@
           "name": "Kim Schrier",
           "position": "WA-8",
           "party": "Democrat",
-          "religion": "Jewish",
+          "religion": "Unknown",
           "aipac": "$22,894 direct",
           "image": "images/kim_schrier.jpg"
         },
@@ -3550,7 +3566,7 @@
           "name": "Adam Smith",
           "position": "WA-9",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Episcopal",
           "aipac": "$17,089 direct",
           "image": "images/adam_smith.jpg"
         },
@@ -3558,29 +3574,29 @@
           "name": "Marilyn Strickland",
           "position": "WA-10",
           "party": "Democrat",
-          "religion": "Presbyterian",
+          "religion": "Unknown",
           "aipac": "$24,194 direct",
-          "image": "images/marilyn_strickland_wa10.jpg"
+          "image": "images/marilyn_strickland.jpg"
         }
       ]
     },
     "West Virginia": {
       "officials": [
         {
-          "name": "Carol Miller",
+          "name": "Carol D. Miller",
           "position": "WV-1",
           "party": "Republican",
-          "religion": "Baptist",
+          "religion": "Unknown",
           "aipac": "$22,094 direct",
-          "image": "images/carol_miller.jpg"
+          "image": "images/carol_d_miller.jpg"
         },
         {
-          "name": "Alex Mooney",
+          "name": "Riley M. Moore",
           "position": "WV-2",
           "party": "Republican",
-          "religion": "Methodist",
-          "aipac": "$5,000 direct",
-          "image": "images/alex_mooney.jpg"
+          "religion": "Unknown",
+          "aipac": "$10,000 direct",
+          "image": "images/riley_m_moore.jpg"
         }
       ]
     },
@@ -3590,17 +3606,17 @@
           "name": "Bryan Steil",
           "position": "WI-1",
           "party": "Republican",
-          "religion": "Unknown",
+          "religion": "Catholic",
           "aipac": "$24,994 direct",
           "image": "images/bryan_steil.jpg"
         },
         {
-          "name": "Rebecca Kleefisch",
+          "name": "Mark Pocan",
           "position": "WI-2",
-          "party": "Republican",
+          "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/rebecca_kleefisch.jpg"
+          "image": "images/mark_pocan.jpg"
         },
         {
           "name": "Derrick Van Orden",
@@ -3611,56 +3627,56 @@
           "image": "images/derrick_van_orden.jpg"
         },
         {
-          "name": "Tammy Baldwin",
+          "name": "Gwen Moore",
           "position": "WI-4",
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/tammy_baldwin.jpg"
+          "image": "images/gwen_moore.jpg"
+        },
+        {
+          "name": "Scott Fitzgerald",
+          "position": "WI-5",
+          "party": "Republican",
+          "religion": "Unknown",
+          "aipac": "$24,994 direct",
+          "image": "images/scott_fitzgerald.jpg"
         },
         {
           "name": "Glenn Grothman",
-          "position": "WI-5",
+          "position": "WI-6",
           "party": "Republican",
-          "religion": "Lutheran",
+          "religion": "Unknown",
           "aipac": "$24,994 direct",
           "image": "images/glenn_grothman.jpg"
         },
         {
-          "name": "Tom Tiffany",
-          "position": "WI-6",
-          "party": "Republican",
-          "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/tom_tiffany.jpg"
-        },
-        {
-          "name": "Sean Duffy",
+          "name": "Thomas P. Tiffany",
           "position": "WI-7",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/sean_duffy.jpg"
+          "aipac": "$10,000 direct",
+          "image": "images/thomas_p_tiffany.jpg"
         },
         {
-          "name": "Mike Gallagher",
+          "name": "Tony Wied",
           "position": "WI-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$4,200 direct",
-          "image": "images/mike_gallagher.jpg"
+          "aipac": "$10,000 direct",
+          "image": "images/tony_wied.jpg"
         }
       ]
     },
     "Wyoming": {
       "officials": [
         {
-          "name": "Harriet Hageman",
-          "position": "WY-AL",
+          "name": "Harriet M. Hageman",
+          "position": "WY-1",
           "party": "Republican",
-          "religion": "Episcopal",
+          "religion": "Unknown",
           "aipac": "$13,994 direct",
-          "image": "images/harriet_hageman.jpg"
+          "image": "images/harriet_m_hageman.jpg"
         }
       ]
     }
