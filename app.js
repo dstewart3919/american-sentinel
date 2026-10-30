@@ -48,7 +48,7 @@ function createShapeFromCoordinates(coordinates, stateName) {
 
 async function init() {
   try {
-    const response = await fetch("data/gov_sen_data.json");
+    const response = await fetch("data/gov_sen_data.json?v=20261029e");
     data = await response.json();
   } catch (e) {
     console.error("Failed to load state data", e);
@@ -142,7 +142,7 @@ async function init() {
   });
 
   try {
-    const houseResponse = await fetch("data/house_data.json");
+    const houseResponse = await fetch("data/house_data.json?v=20261029e");
     const houseData = await houseResponse.json();
     for (let state in houseData.states) {
       if (data.states[state]) {
@@ -265,7 +265,7 @@ function personFacts(o) {
 
 async function loadPresidentTeam() {
   try {
-    const response = await fetch("data/president_team_data.json");
+    const response = await fetch("data/president_team_data.json?v=20261029e");
     const teamData = await response.json();
     const teamContainer = document.querySelector(".team");
     if (!teamContainer) return;
@@ -390,7 +390,7 @@ function hideOfficials() {
 
 async function loadCandidates() {
   try {
-    const response = await fetch("data/candidates_2026.json");
+    const response = await fetch("data/candidates_2026.json?v=20261029e");
     const payload = await response.json();
     candidates2026 = payload.candidates || [];
     const box = document.getElementById("candidate-list");

@@ -1,6 +1,6 @@
 {
-  "as_of": "September 5, 2026",
-  "note": "2026 candidates with a career pro-Israel PAC total on file. AIPAC stopped endorsements and direct PAC checks after the 2026 midterms; its super PAC, United Democracy Project, is still active. Totals are career money from the tracked pro-Israel committees, not a single AIPAC check.",
+  "as_of": "October 29, 2026",
+  "note": "Career totals are pro-Israel PAC money through September 5, 2026. After October 21, 2026 AIPAC stopped endorsements, direct PAC checks, and earmarks. What still counts is United Democracy Project spending, plus pop-up committees UDP funded this cycle. Those 2026 amounts are shown separately and are not added on top of the career total.",
   "candidates": [
     {
       "name": "Mary Peltola",
@@ -9,7 +9,7 @@
       "position": "U.S. Senate",
       "aipac": "$263,091 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/mary_peltola_ak.jpg"
     },
     {
       "name": "Amish Shah",
@@ -18,7 +18,7 @@
       "position": "AZ-1",
       "aipac": "$53,383 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/amish_shah_az.jpg"
     },
     {
       "name": "Elizabeth Lee",
@@ -36,7 +36,7 @@
       "position": "AZ-5",
       "aipac": "$2,000 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/mark_lamb_az.jpg"
     },
     {
       "name": "Joanna Mendoza",
@@ -63,7 +63,7 @@
       "position": "CA-1",
       "aipac": "$11,700 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/mike_mcguire_ca.jpg"
     },
     {
       "name": "Connie Chan",
@@ -72,7 +72,7 @@
       "position": "CA-11",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/connie_chan_ca.jpg"
     },
     {
       "name": "Scott Wiener",
@@ -81,14 +81,14 @@
       "position": "CA-11",
       "aipac": "$108,146 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/scott_wiener_ca.jpg"
     },
     {
       "name": "Melissa Hernandez",
       "party": "Democrat",
       "state": "California",
       "position": "CA-14",
-      "aipac": "$213,600 career",
+      "aipac": "$213,600 career · UDP 2026 $825,291 for",
       "ties": "",
       "image": "images/portrait-fallback.svg"
     },
@@ -135,7 +135,7 @@
       "position": "CA-38",
       "aipac": "$12,515 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/hilda_solis_ca.jpg"
     },
     {
       "name": "Marni von Wilpert",
@@ -144,7 +144,7 @@
       "position": "CA-48",
       "aipac": "$2,046,842 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/marni_von_wilpert_ca.jpg"
     },
     {
       "name": "Mai Vang",
@@ -153,7 +153,7 @@
       "position": "CA-7",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/mai_vang_ca.jpg"
     },
     {
       "name": "Melat Kiros",
@@ -162,7 +162,7 @@
       "position": "CO-1",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/melat_kiros_co.jpg"
     },
     {
       "name": "Andrew Rice",
@@ -198,7 +198,7 @@
       "position": "U.S. Senate",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/angie_nixon_fl.jpg"
     },
     {
       "name": "Houston Gaines",
@@ -207,7 +207,7 @@
       "position": "GA-10",
       "aipac": "$70,930 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/houston_gaines_ga.jpg"
     },
     {
       "name": "James Marter",
@@ -234,7 +234,7 @@
       "position": "IL-2",
       "aipac": "$4,708,227 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/donna_miller_il.jpg"
     },
     {
       "name": "Melissa Bean",
@@ -243,7 +243,7 @@
       "position": "IL-8",
       "aipac": "$4,963,917 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/melissa_bean_il.jpg"
     },
     {
       "name": "Daniel Biss",
@@ -252,7 +252,7 @@
       "position": "IL-9",
       "aipac": "$364,699 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/daniel_biss_il.jpg"
     },
     {
       "name": "Julianna Stratton",
@@ -261,7 +261,7 @@
       "position": "U.S. Senate",
       "aipac": "$93,475 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/julianna_stratton_il.jpg"
     },
     {
       "name": "Drew Cox",
@@ -279,7 +279,7 @@
       "position": "IA-1",
       "aipac": "$462,765 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/christina_bohannan_ia.jpg"
     },
     {
       "name": "Joe Mitchell",
@@ -288,16 +288,16 @@
       "position": "IA-2",
       "aipac": "$5,750 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/joe_mitchell_ia.jpg"
     },
     {
       "name": "Ed Gallrein",
       "party": "Republican",
       "state": "Kentucky",
       "position": "KY-4",
-      "aipac": "$15,982,406 career",
+      "aipac": "$15,982,406 career · UDP 2026 $579,316 for",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/ed_gallrein_ky.jpg"
     },
     {
       "name": "Ralph Alvarado",
@@ -306,7 +306,7 @@
       "position": "KY-6",
       "aipac": "$92,760 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/ralph_alvarado_ky.jpg"
     },
     {
       "name": "Charles Booker",
@@ -315,7 +315,7 @@
       "position": "U.S. Senate",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/charles_booker_ky.jpg"
     },
     {
       "name": "John Fleming",
@@ -324,7 +324,7 @@
       "position": "U.S. Senate",
       "aipac": "$40,150 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/john_fleming_la.jpg"
     },
     {
       "name": "Matt Dunlap",
@@ -333,16 +333,16 @@
       "position": "ME-2",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/matt_dunlap_me.jpg"
     },
     {
       "name": "Adrian Boafo",
       "party": "Democrat",
       "state": "Maryland",
       "position": "MD-5",
-      "aipac": "$5,991,285 career",
+      "aipac": "$5,991,285 career · UDP 2026 $5.7M for",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/adrian_boafo_md.jpg"
     },
     {
       "name": "Jeromie Whalen",
@@ -387,7 +387,7 @@
       "position": "MI-11",
       "aipac": "$131,632 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/jeremy_moss_mi.jpg"
     },
     {
       "name": "Donavan McKinney",
@@ -396,7 +396,7 @@
       "position": "MI-13",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/donavan_mckinney_mi.jpg"
     },
     {
       "name": "William Lawrence",
@@ -405,16 +405,16 @@
       "position": "MI-7",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/william_lawrence_mi.jpg"
     },
     {
       "name": "Abdul El-Sayed",
       "party": "Democrat",
       "state": "Michigan",
       "position": "U.S. Senate",
-      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "aipac": "$0 career · no pro-Israel PAC money on file · UDP 2026 $20.1M against",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/abdul_el_sayed_mi.jpg"
     },
     {
       "name": "Mike Rogers",
@@ -423,7 +423,7 @@
       "position": "U.S. Senate",
       "aipac": "$569,861 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/mike_rogers_mi.jpg"
     },
     {
       "name": "Denise Powell",
@@ -450,7 +450,7 @@
       "position": "NH-1",
       "aipac": "$159,879 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/maura_sullivan_nh.jpg"
     },
     {
       "name": "Stefany Shaheen",
@@ -477,7 +477,7 @@
       "position": "U.S. Senate",
       "aipac": "$75,750 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/john_sununu_nh.jpg"
     },
     {
       "name": "Karishma Manzur",
@@ -495,7 +495,7 @@
       "position": "U.S. Senate",
       "aipac": "$108,273 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/scott_brown_nh.jpg"
     },
     {
       "name": "Adam Hamawy",
@@ -504,7 +504,7 @@
       "position": "NJ-12",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/adam_hamawy_nj.jpg"
     },
     {
       "name": "Karen Ortiz",
@@ -522,7 +522,7 @@
       "position": "NY-12",
       "aipac": "$35,958 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/micah_lasher_ny.jpg"
     },
     {
       "name": "Darializa Avila Chevalier",
@@ -531,7 +531,7 @@
       "position": "NY-13",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/darializa_avila_chevalier_ny.jpg"
     },
     {
       "name": "Cait Conley",
@@ -540,7 +540,7 @@
       "position": "NY-17",
       "aipac": "$124,826 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/cait_conley_ny.jpg"
     },
     {
       "name": "Claire Valdez",
@@ -549,7 +549,7 @@
       "position": "NY-7",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/claire_valdez_ny.jpg"
     },
     {
       "name": "Laurie Buckhout",
@@ -558,7 +558,7 @@
       "position": "NC-1",
       "aipac": "$79,019 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/laurie_buckhout_nc.jpg"
     },
     {
       "name": "Ashley Bell",
@@ -585,7 +585,7 @@
       "position": "U.S. Senate",
       "aipac": "$309,749 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/michael_whatley_nc.jpg"
     },
     {
       "name": "Roy Cooper",
@@ -594,7 +594,7 @@
       "position": "U.S. Senate",
       "aipac": "$448,985 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/roy_cooper_nc.jpg"
     },
     {
       "name": "Amy Acton",
@@ -603,7 +603,7 @@
       "position": "Governor",
       "aipac": "$0 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/amy_acton_oh.jpg"
     },
     {
       "name": "Vivek Ramaswamy",
@@ -612,7 +612,7 @@
       "position": "Governor",
       "aipac": "$8,872,227 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/vivek_ramaswamy_oh.jpg"
     },
     {
       "name": "Jerrad Christian",
@@ -630,7 +630,7 @@
       "position": "U.S. Senate",
       "aipac": "$1,577,933 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/sherrod_brown_oh.jpg"
     },
     {
       "name": "Janelle Stelson",
@@ -639,7 +639,7 @@
       "position": "PA-10",
       "aipac": "$111,652 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/janelle_stelson_pa.jpg"
     },
     {
       "name": "Justin Wagner",
@@ -657,7 +657,7 @@
       "position": "PA-8",
       "aipac": "$130,405 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/paige_cognetti_pa.jpg"
     },
     {
       "name": "Raymond McKay",
@@ -675,7 +675,7 @@
       "position": "U.S. Senate",
       "aipac": "$5,330 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/annie_andrews_sc.jpg"
     },
     {
       "name": "Brent Taylor",
@@ -684,7 +684,7 @@
       "position": "TN-9",
       "aipac": "$6,500 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/brent_taylor_tn.jpg"
     },
     {
       "name": "Justin J. Pearson",
@@ -693,7 +693,7 @@
       "position": "TN-9",
       "aipac": "$0 career · no pro-Israel PAC money on file",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/justin_pearson_tn.jpg"
     },
     {
       "name": "Kyle Rable",
@@ -711,7 +711,7 @@
       "position": "TX-2",
       "aipac": "$0 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/steve_toth_tx.jpg"
     },
     {
       "name": "Mark Teixeira",
@@ -720,7 +720,7 @@
       "position": "TX-21",
       "aipac": "$42,830 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/mark_teixeira_tx.jpg"
     },
     {
       "name": "Steven Shook",
@@ -747,7 +747,7 @@
       "position": "TX-30",
       "aipac": "$250 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/frederick_haynes_tx.jpg"
     },
     {
       "name": "Colin Allred",
@@ -756,7 +756,7 @@
       "position": "TX-33",
       "aipac": "$811,909 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/colin_allred_tx.jpg"
     },
     {
       "name": "Eric Flores",
@@ -792,7 +792,7 @@
       "position": "U.S. Senate",
       "aipac": "$13,983 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/james_talarico_tx.jpg"
     },
     {
       "name": "Ken Paxton",
@@ -801,7 +801,7 @@
       "position": "U.S. Senate",
       "aipac": "$15,500 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/ken_paxton_tx.jpg"
     },
     {
       "name": "Ben McAdams",
@@ -810,7 +810,7 @@
       "position": "UT-1",
       "aipac": "$85,252 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/ben_mcadams_ut.jpg"
     },
     {
       "name": "Elaine Luria",
@@ -819,7 +819,7 @@
       "position": "VA-2",
       "aipac": "$1,893,025 career",
       "ties": "Jewish",
-      "image": "images/portrait-fallback.svg",
+      "image": "images/elaine_luria_va.jpg",
       "religion": "Jewish"
     },
     {
@@ -838,7 +838,7 @@
       "position": "WI-3",
       "aipac": "$272,359 career",
       "ties": "",
-      "image": "images/portrait-fallback.svg"
+      "image": "images/rebecca_cooke_wi.jpg"
     }
   ]
 }

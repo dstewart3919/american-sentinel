@@ -329,7 +329,7 @@
           "position": "CA-14",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$2,300 career",
+          "aipac": "$2,300 career · UDP 2026 $1.6M against",
           "image": "images/aisha_wahab.jpg",
           "ties": ""
         },
@@ -995,7 +995,8 @@
           "religion": "—",
           "aipac": "$0",
           "image": "images/vacant.jpg",
-          "ties": ""
+          "ties": "",
+          "_state": "Florida"
         },
         {
           "name": "Brian J. Mast",
@@ -1601,7 +1602,7 @@
           "position": "KY-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0 career",
+          "aipac": "$0 career · UDP 2026 $3.6M against",
           "image": "images/thomas_massie.jpg",
           "ties": ""
         },
@@ -2110,7 +2111,7 @@
           "position": "MO-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$15,358,370 career",
+          "aipac": "$15,358,370 career · UDP 2026 $685,625 for",
           "image": "images/wesley_bell.jpg",
           "ties": ""
         },
@@ -3615,7 +3616,8 @@
           "religion": "—",
           "aipac": "$0",
           "image": "images/vacant.jpg",
-          "ties": ""
+          "ties": "",
+          "_state": "Texas"
         },
         {
           "name": "Beth Van Duyne",

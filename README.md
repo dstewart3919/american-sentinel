@@ -27,4 +27,4 @@ python3 -m http.server 8080
 
 Officials data is in the JSON files under `data/`. Images are referenced by path in the JSON. Missing portraits use `images/portrait-fallback.svg`.
 
-AIPAC career totals are the tracked pro-Israel PAC money through September 5, 2026 (AIPAC PAC, United Democracy Project, and the other committees in the AIP career file), across every federal race that person has run. AIPAC did not shut down. On October 21, 2026 it stopped endorsements and direct PAC contributions. Its super PAC is still spending. A Jewish or Muslim tie is shown only when Wikidata or the person's public biography states that faith.
+AIPAC career totals are tracked pro-Israel PAC money through September 5, 2026. On October 21, 2026 AIPAC stopped endorsements, direct PAC checks, and earmarks. The channel that still spends is its super PAC, United Democracy Project. Cards show that 2026 for-or-against spending on its own line. It is not added on top of the career total. A Jewish or Muslim tie is shown only when a public biography states that faith.
