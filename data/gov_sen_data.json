@@ -9,23 +9,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/kay_ivey.jpg"
+          "image": "images/kay_ivey.jpg",
+          "ties": ""
         },
         {
           "name": "Tommy Tuberville",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/tommy_tuberville.jpg"
+          "aipac": "$105,134 career",
+          "image": "images/tommy_tuberville.jpg",
+          "ties": ""
         },
         {
           "name": "Katie Boyd Britt",
           "position": "Senator",
           "party": "Republican",
           "religion": "Methodist",
-          "aipac": "$5,000 direct",
-          "image": "images/katie_boyd_britt.jpg"
+          "aipac": "$162,711 career",
+          "image": "images/katie_boyd_britt.jpg",
+          "ties": ""
         }
       ]
     },
@@ -38,23 +41,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/mike_dunleavy.jpg"
+          "image": "images/mike_dunleavy.jpg",
+          "ties": ""
         },
         {
           "name": "Lisa Murkowski",
           "position": "Senator",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$10,000 direct",
-          "image": "images/lisa_murkowski.jpg"
+          "aipac": "$498,796 career",
+          "image": "images/lisa_murkowski.jpg",
+          "ties": ""
         },
         {
           "name": "Dan Sullivan",
           "position": "Senator",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$4,994 direct",
-          "image": "images/dan_sullivan.jpg"
+          "aipac": "$1,366,943 career",
+          "image": "images/dan_sullivan.jpg",
+          "ties": ""
         }
       ]
     },
@@ -67,23 +73,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/katie_hobbs.jpg"
+          "image": "images/katie_hobbs.jpg",
+          "ties": ""
         },
         {
           "name": "Mark Kelly",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$5,000 direct",
-          "image": "images/mark_kelly.jpg"
+          "aipac": "$734,203 career",
+          "image": "images/mark_kelly.jpg",
+          "ties": ""
         },
         {
           "name": "Ruben Gallego",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/ruben_gallego.jpg"
+          "aipac": "$89,827 career",
+          "image": "images/ruben_gallego.jpg",
+          "ties": ""
         }
       ]
     },
@@ -96,23 +105,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/sarah_huckabee_sanders.jpg"
+          "image": "images/sarah_huckabee_sanders.jpg",
+          "ties": ""
         },
         {
           "name": "John Boozman",
           "position": "Senator",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$7,900 direct",
-          "image": "images/john_boozman.jpg"
+          "aipac": "$317,068 career",
+          "image": "images/john_boozman.jpg",
+          "ties": ""
         },
         {
           "name": "Tom Cotton",
           "position": "Senator",
           "party": "Republican",
           "religion": "Methodist",
-          "aipac": "$9,994 direct",
-          "image": "images/tom_cotton.jpg"
+          "aipac": "$1,237,246 career",
+          "image": "images/tom_cotton.jpg",
+          "ties": ""
         }
       ]
     },
@@ -125,23 +137,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/gavin_newsom.jpg"
+          "image": "images/gavin_newsom.jpg",
+          "ties": ""
         },
         {
           "name": "Alex Padilla",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$5,000 direct",
-          "image": "images/alex_padilla.jpg"
+          "aipac": "$219,705 career",
+          "image": "images/alex_padilla.jpg",
+          "ties": ""
         },
         {
           "name": "Adam B. Schiff",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$0",
-          "image": "images/adam_b_schiff.jpg"
+          "aipac": "$603,864 career",
+          "image": "images/adam_b_schiff.jpg",
+          "ties": "Jewish"
         }
       ]
     },
@@ -152,25 +167,28 @@
           "name": "Jared Polis",
           "position": "Governor",
           "party": "Democrat",
-          "religion": "Unknown",
+          "religion": "Jewish",
           "aipac": "$0",
-          "image": "images/jared_polis.jpg"
+          "image": "images/jared_polis.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Michael F. Bennet",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/michael_f_bennet.jpg"
+          "aipac": "$642,901 career",
+          "image": "images/michael_f_bennet.jpg",
+          "ties": ""
         },
         {
           "name": "John W. Hickenlooper",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Quakers",
-          "aipac": "-$6 direct",
-          "image": "images/john_w_hickenlooper.jpg"
+          "aipac": "$814,675 career",
+          "image": "images/john_w_hickenlooper.jpg",
+          "ties": ""
         }
       ]
     },
@@ -183,23 +201,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/ned_lamont.jpg"
+          "image": "images/ned_lamont.jpg",
+          "ties": ""
         },
         {
           "name": "Richard Blumenthal",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$6,500 direct",
-          "image": "images/richard_blumenthal.jpg"
+          "aipac": "$327,757 career",
+          "image": "images/richard_blumenthal.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Christopher Murphy",
           "position": "Senator",
           "party": "Democrat",
           "religion": "heresy",
-          "aipac": "$0",
-          "image": "images/christopher_murphy.jpg"
+          "aipac": "$135,685 career",
+          "image": "images/christopher_murphy.jpg",
+          "ties": ""
         }
       ]
     },
@@ -212,23 +233,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/matt_meyer.jpg"
+          "image": "images/matt_meyer.jpg",
+          "ties": ""
         },
         {
           "name": "Christopher A. Coons",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Presbyterian",
-          "aipac": "$9,994 direct",
-          "image": "images/christopher_a_coons.jpg"
+          "aipac": "$938,222 career",
+          "image": "images/christopher_a_coons.jpg",
+          "ties": ""
         },
         {
           "name": "Lisa Blunt Rochester",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Christian",
-          "aipac": "$0",
-          "image": "images/lisa_blunt_rochester.jpg"
+          "aipac": "$64,626 career",
+          "image": "images/lisa_blunt_rochester.jpg",
+          "ties": ""
         }
       ]
     },
@@ -241,23 +265,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/ron_desantis.jpg"
+          "image": "images/ron_desantis.jpg",
+          "ties": ""
         },
         {
           "name": "Rick Scott",
           "position": "Senator",
           "party": "Republican",
           "religion": "Methodist",
-          "aipac": "$15,000 direct",
-          "image": "images/rick_scott.jpg"
+          "aipac": "$869,883 career",
+          "image": "images/rick_scott.jpg",
+          "ties": ""
         },
         {
           "name": "Ashley Moody",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$4,994 direct",
-          "image": "images/ashley_moody.jpg"
+          "aipac": "$603,350 career",
+          "image": "images/ashley_moody.jpg",
+          "ties": ""
         }
       ]
     },
@@ -270,23 +297,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/brian_kemp.jpg"
+          "image": "images/brian_kemp.jpg",
+          "ties": ""
         },
         {
           "name": "Jon Ossoff",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$0",
-          "image": "images/jon_ossoff.jpg"
+          "aipac": "$1,432,101 career",
+          "image": "images/jon_ossoff.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Raphael G. Warnock",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Baptist",
-          "aipac": "$0",
-          "image": "images/raphael_g_warnock.jpg"
+          "aipac": "$1,062,914 career",
+          "image": "images/raphael_g_warnock.jpg",
+          "ties": ""
         }
       ]
     },
@@ -299,23 +329,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/josh_green.jpg"
+          "image": "images/josh_green.jpg",
+          "ties": ""
         },
         {
           "name": "Brian Schatz",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$0",
-          "image": "images/brian_schatz.jpg"
+          "aipac": "$256,249 career",
+          "image": "images/brian_schatz.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Mazie K. Hirono",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Buddhist",
-          "aipac": "$0",
-          "image": "images/mazie_k_hirono.jpg"
+          "aipac": "$30,848 career",
+          "image": "images/mazie_k_hirono.jpg",
+          "ties": ""
         }
       ]
     },
@@ -328,23 +361,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/brad_little.jpg"
+          "image": "images/brad_little.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Crapo",
           "position": "Senator",
           "party": "Republican",
           "religion": "Latter-day Saint",
-          "aipac": "$7,900 direct",
-          "image": "images/mike_crapo.jpg"
+          "aipac": "$353,194 career",
+          "image": "images/mike_crapo.jpg",
+          "ties": ""
         },
         {
           "name": "James E. Risch",
           "position": "Senator",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$4,994 direct",
-          "image": "images/james_e_risch.jpg"
+          "aipac": "$1,051,786 career",
+          "image": "images/james_e_risch.jpg",
+          "ties": ""
         }
       ]
     },
@@ -357,23 +393,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/jb_pritzker.jpg"
+          "image": "images/jb_pritzker.jpg",
+          "ties": ""
         },
         {
           "name": "Richard J. Durbin",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/richard_j_durbin.jpg"
+          "aipac": "$683,221 career",
+          "image": "images/richard_j_durbin.jpg",
+          "ties": ""
         },
         {
           "name": "Tammy Duckworth",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/tammy_duckworth.jpg"
+          "aipac": "$688,448 career",
+          "image": "images/tammy_duckworth.jpg",
+          "ties": ""
         }
       ]
     },
@@ -386,23 +425,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/mike_braun.jpg"
+          "image": "images/mike_braun.jpg",
+          "ties": ""
         },
         {
           "name": "Todd Young",
           "position": "Senator",
           "party": "Republican",
           "religion": "Protestant",
-          "aipac": "$2,100 direct",
-          "image": "images/todd_young.jpg"
+          "aipac": "$233,749 career",
+          "image": "images/todd_young.jpg",
+          "ties": ""
         },
         {
           "name": "Jim Banks",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/jim_banks.jpg"
+          "aipac": "$357,451 career",
+          "image": "images/jim_banks.jpg",
+          "ties": ""
         }
       ]
     },
@@ -415,23 +457,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/kim_reynolds.jpg"
+          "image": "images/kim_reynolds.jpg",
+          "ties": ""
         },
         {
           "name": "Chuck Grassley",
           "position": "Senator",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$7,900 direct",
-          "image": "images/chuck_grassley.jpg"
+          "aipac": "$576,924 career",
+          "image": "images/chuck_grassley.jpg",
+          "ties": ""
         },
         {
           "name": "Joni Ernst",
           "position": "Senator",
           "party": "Republican",
           "religion": "Lutheran",
-          "aipac": "$0",
-          "image": "images/joni_ernst.jpg"
+          "aipac": "$1,057,241 career",
+          "image": "images/joni_ernst.jpg",
+          "ties": ""
         }
       ]
     },
@@ -444,23 +489,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/laura_kelly.jpg"
+          "image": "images/laura_kelly.jpg",
+          "ties": ""
         },
         {
           "name": "Jerry Moran",
           "position": "Senator",
           "party": "Republican",
           "religion": "Methodist",
-          "aipac": "$7,500 direct",
-          "image": "images/jerry_moran.jpg"
+          "aipac": "$296,666 career",
+          "image": "images/jerry_moran.jpg",
+          "ties": ""
         },
         {
           "name": "Roger Marshall",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$3,994 direct",
-          "image": "images/roger_marshall.jpg"
+          "aipac": "$439,975 career",
+          "image": "images/roger_marshall.jpg",
+          "ties": ""
         }
       ]
     },
@@ -473,23 +521,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/andy_beshear.jpg"
+          "image": "images/andy_beshear.jpg",
+          "ties": ""
         },
         {
           "name": "Mitch McConnell",
           "position": "Senator",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$0",
-          "image": "images/mitch_mcconnell.jpg"
+          "aipac": "$1,046,476 career",
+          "image": "images/mitch_mcconnell.jpg",
+          "ties": ""
         },
         {
           "name": "Rand Paul",
           "position": "Senator",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "$0",
-          "image": "images/rand_paul.jpg"
+          "aipac": "$2,000 career",
+          "image": "images/rand_paul.jpg",
+          "ties": ""
         }
       ]
     },
@@ -502,23 +553,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/jeff_landry.jpg"
+          "image": "images/jeff_landry.jpg",
+          "ties": ""
         },
         {
           "name": "Bill Cassidy",
           "position": "Senator",
           "party": "Republican",
           "religion": "Protestant",
-          "aipac": "$2,994 direct",
-          "image": "images/bill_cassidy.jpg"
+          "aipac": "$653,091 career",
+          "image": "images/bill_cassidy.jpg",
+          "ties": ""
         },
         {
           "name": "John Kennedy",
           "position": "Senator",
           "party": "Republican",
           "religion": "Methodist",
-          "aipac": "$2,100 direct",
-          "image": "images/john_kennedy.jpg"
+          "aipac": "$113,680 career",
+          "image": "images/john_kennedy.jpg",
+          "ties": ""
         }
       ]
     },
@@ -531,23 +585,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/janet_mills.jpg"
+          "image": "images/janet_mills.jpg",
+          "ties": ""
         },
         {
           "name": "Susan M. Collins",
           "position": "Senator",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$9,994 direct",
-          "image": "images/susan_m_collins.jpg"
+          "aipac": "$5,196,655 career",
+          "image": "images/susan_m_collins.jpg",
+          "ties": ""
         },
         {
           "name": "Angus S. King, Jr.",
           "position": "Senator",
           "party": "Independent",
           "religion": "Episcopal",
-          "aipac": "$5,000 direct",
-          "image": "images/angus_s_king_jr.jpg"
+          "aipac": "$270,755 career",
+          "image": "images/angus_s_king_jr.jpg",
+          "ties": ""
         }
       ]
     },
@@ -560,23 +617,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/wes_moore.jpg"
+          "image": "images/wes_moore.jpg",
+          "ties": ""
         },
         {
           "name": "Chris Van Hollen",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Episcopal",
-          "aipac": "$0",
-          "image": "images/chris_van_hollen.jpg"
+          "aipac": "$229,465 career",
+          "image": "images/chris_van_hollen.jpg",
+          "ties": ""
         },
         {
           "name": "Angela D. Alsobrooks",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/angela_d_alsobrooks.jpg"
+          "aipac": "$368,798 career",
+          "image": "images/angela_d_alsobrooks.jpg",
+          "ties": ""
         }
       ]
     },
@@ -589,23 +649,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/maura_healey.jpg"
+          "image": "images/maura_healey.jpg",
+          "ties": ""
         },
         {
           "name": "Elizabeth Warren",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Methodist",
-          "aipac": "$0",
-          "image": "images/elizabeth_warren.jpg"
+          "aipac": "$81,414 career",
+          "image": "images/elizabeth_warren.jpg",
+          "ties": ""
         },
         {
           "name": "Edward J. Markey",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/edward_j_markey.jpg"
+          "aipac": "$68,309 career",
+          "image": "images/edward_j_markey.jpg",
+          "ties": ""
         }
       ]
     },
@@ -618,23 +681,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/gretchen_whitmer.jpg"
+          "image": "images/gretchen_whitmer.jpg",
+          "ties": ""
         },
         {
           "name": "Gary C. Peters",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Episcopal",
-          "aipac": "$0",
-          "image": "images/gary_c_peters.jpg"
+          "aipac": "$412,847 career",
+          "image": "images/gary_c_peters.jpg",
+          "ties": ""
         },
         {
           "name": "Elissa Slotkin",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$0",
-          "image": "images/elissa_slotkin.jpg"
+          "aipac": "$488,320 career",
+          "image": "images/elissa_slotkin.jpg",
+          "ties": "Jewish"
         }
       ]
     },
@@ -647,23 +713,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/tim_walz.jpg"
+          "image": "images/tim_walz.jpg",
+          "ties": ""
         },
         {
           "name": "Amy Klobuchar",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Congregational churches",
-          "aipac": "$10,500 direct",
-          "image": "images/amy_klobuchar.jpg"
+          "aipac": "$740,310 career",
+          "image": "images/amy_klobuchar.jpg",
+          "ties": ""
         },
         {
           "name": "Tina Smith",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/tina_smith.jpg"
+          "aipac": "$203,652 career",
+          "image": "images/tina_smith.jpg",
+          "ties": ""
         }
       ]
     },
@@ -676,23 +745,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/tate_reeves.jpg"
+          "image": "images/tate_reeves.jpg",
+          "ties": ""
         },
         {
           "name": "Roger F. Wicker",
           "position": "Senator",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$5,000 direct",
-          "image": "images/roger_f_wicker.jpg"
+          "aipac": "$825,688 career",
+          "image": "images/roger_f_wicker.jpg",
+          "ties": ""
         },
         {
           "name": "Cindy Hyde-Smith",
           "position": "Senator",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$10,994 direct",
-          "image": "images/cindy_hyde_smith.jpg"
+          "aipac": "$397,745 career",
+          "image": "images/cindy_hyde_smith.jpg",
+          "ties": ""
         }
       ]
     },
@@ -705,23 +777,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/mike_kehoe.jpg"
+          "image": "images/mike_kehoe.jpg",
+          "ties": ""
         },
         {
           "name": "Josh Hawley",
           "position": "Senator",
           "party": "Republican",
           "religion": "Evangelical",
-          "aipac": "$5,938 direct",
-          "image": "images/josh_hawley.jpg"
+          "aipac": "$273,535 career",
+          "image": "images/josh_hawley.jpg",
+          "ties": ""
         },
         {
           "name": "Eric Schmitt",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/eric_schmitt.jpg"
+          "aipac": "$38,079 career",
+          "image": "images/eric_schmitt.jpg",
+          "ties": ""
         }
       ]
     },
@@ -734,23 +809,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/greg_gianforte.jpg"
+          "image": "images/greg_gianforte.jpg",
+          "ties": ""
         },
         {
           "name": "Steve Daines",
           "position": "Senator",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "$9,994 direct",
-          "image": "images/steve_daines.jpg"
+          "aipac": "$717,245 career",
+          "image": "images/steve_daines.jpg",
+          "ties": ""
         },
         {
           "name": "Tim Sheehy",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/tim_sheehy.jpg"
+          "aipac": "$282,267 career",
+          "image": "images/tim_sheehy.jpg",
+          "ties": ""
         }
       ]
     },
@@ -763,23 +841,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/jim_pillen.jpg"
+          "image": "images/jim_pillen.jpg",
+          "ties": ""
         },
         {
           "name": "Deb Fischer",
           "position": "Senator",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "$9,000 direct",
-          "image": "images/deb_fischer.jpg"
+          "aipac": "$909,999 career",
+          "image": "images/deb_fischer.jpg",
+          "ties": ""
         },
         {
           "name": "Pete Ricketts",
           "position": "Senator",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/pete_ricketts.jpg"
+          "aipac": "$612,814 career",
+          "image": "images/pete_ricketts.jpg",
+          "ties": ""
         }
       ]
     },
@@ -792,23 +873,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/joe_lombardo.jpg"
+          "image": "images/joe_lombardo.jpg",
+          "ties": ""
         },
         {
           "name": "Catherine Cortez Masto",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$7,900 direct",
-          "image": "images/catherine_cortez_masto.jpg"
+          "aipac": "$704,529 career",
+          "image": "images/catherine_cortez_masto.jpg",
+          "ties": ""
         },
         {
           "name": "Jacky Rosen",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$4,000 direct",
-          "image": "images/jacky_rosen.jpg"
+          "aipac": "$2,304,742 career",
+          "image": "images/jacky_rosen.jpg",
+          "ties": "Jewish"
         }
       ]
     },
@@ -821,23 +905,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/kelly_ayotte.jpg"
+          "image": "images/kelly_ayotte.jpg",
+          "ties": ""
         },
         {
           "name": "Jeanne Shaheen",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Protestant",
-          "aipac": "$0",
-          "image": "images/jeanne_shaheen.jpg"
+          "aipac": "$717,906 career",
+          "image": "images/jeanne_shaheen.jpg",
+          "ties": ""
         },
         {
           "name": "Margaret Wood Hassan",
           "position": "Senator",
           "party": "Democrat",
           "religion": "United Church of Christ",
-          "aipac": "$10,000 direct",
-          "image": "images/margaret_wood_hassan.jpg"
+          "aipac": "$0",
+          "image": "images/margaret_wood_hassan.jpg",
+          "ties": ""
         }
       ]
     },
@@ -849,24 +936,27 @@
           "position": "Governor",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$7,900 direct",
-          "image": "images/mikie_sherrill.jpg"
+          "aipac": "$0",
+          "image": "images/mikie_sherrill.jpg",
+          "ties": ""
         },
         {
           "name": "Cory A. Booker",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Baptist",
-          "aipac": "$4,994 direct",
-          "image": "images/cory_a_booker.jpg"
+          "aipac": "$1,518,272 career",
+          "image": "images/cory_a_booker.jpg",
+          "ties": ""
         },
         {
           "name": "Andy Kim",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Presbyterian",
-          "aipac": "$0",
-          "image": "images/andy_kim.jpg"
+          "aipac": "$524,319 career",
+          "image": "images/andy_kim.jpg",
+          "ties": ""
         }
       ]
     },
@@ -879,23 +969,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/michelle_lujan_grisham.jpg"
+          "image": "images/michelle_lujan_grisham.jpg",
+          "ties": ""
         },
         {
           "name": "Martin Heinrich",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Lutheran",
-          "aipac": "$0",
-          "image": "images/martin_heinrich.jpg"
+          "aipac": "$293,182 career",
+          "image": "images/martin_heinrich.jpg",
+          "ties": ""
         },
         {
           "name": "Ben Ray Luján",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/ben_ray_lujan.jpg"
+          "aipac": "$102,267 career",
+          "image": "images/ben_ray_lujan.jpg",
+          "ties": ""
         }
       ]
     },
@@ -908,23 +1001,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/kathy_hochul.jpg"
+          "image": "images/kathy_hochul.jpg",
+          "ties": ""
         },
         {
           "name": "Charles E. Schumer",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$2,100 direct",
-          "image": "images/charles_e_schumer.jpg"
+          "aipac": "$1,330,454 career",
+          "image": "images/charles_e_schumer.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Kirsten E. Gillibrand",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$9,500 direct",
-          "image": "images/kirsten_e_gillibrand.jpg"
+          "aipac": "$629,807 career",
+          "image": "images/kirsten_e_gillibrand.jpg",
+          "ties": ""
         }
       ]
     },
@@ -937,23 +1033,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/josh_stein.jpg"
+          "image": "images/josh_stein.jpg",
+          "ties": ""
         },
         {
           "name": "Thom Tillis",
           "position": "Senator",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/thom_tillis.jpg"
+          "aipac": "$627,428 career",
+          "image": "images/thom_tillis.jpg",
+          "ties": ""
         },
         {
           "name": "Ted Budd",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/ted_budd.jpg"
+          "aipac": "$82,036 career",
+          "image": "images/ted_budd.jpg",
+          "ties": ""
         }
       ]
     },
@@ -965,24 +1064,27 @@
           "position": "Governor",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "-$5,100 direct",
-          "image": "images/kelly_armstrong.jpg"
+          "aipac": "$0",
+          "image": "images/kelly_armstrong.jpg",
+          "ties": ""
         },
         {
           "name": "John Hoeven",
           "position": "Senator",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$7,400 direct",
-          "image": "images/john_hoeven.jpg"
+          "aipac": "$440,606 career",
+          "image": "images/john_hoeven.jpg",
+          "ties": ""
         },
         {
           "name": "Kevin Cramer",
           "position": "Senator",
           "party": "Republican",
           "religion": "Pentecostal",
-          "aipac": "$4,500 direct",
-          "image": "images/kevin_cramer.jpg"
+          "aipac": "$1,230,507 career",
+          "image": "images/kevin_cramer.jpg",
+          "ties": ""
         }
       ]
     },
@@ -995,23 +1097,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/mike_dewine.jpg"
+          "image": "images/mike_dewine.jpg",
+          "ties": ""
         },
         {
           "name": "Bernie Moreno",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/bernie_moreno.jpg"
+          "aipac": "$349,716 career",
+          "image": "images/bernie_moreno.jpg",
+          "ties": ""
         },
         {
           "name": "Jon Husted",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$4,994 direct",
-          "image": "images/jon_husted.jpg"
+          "aipac": "$824,709 career",
+          "image": "images/jon_husted.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1024,23 +1129,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/kevin_stitt.jpg"
+          "image": "images/kevin_stitt.jpg",
+          "ties": ""
         },
         {
           "name": "James Lankford",
           "position": "Senator",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "$4,200 direct",
-          "image": "images/james_lankford.jpg"
+          "aipac": "$310,155 career",
+          "image": "images/james_lankford.jpg",
+          "ties": ""
         },
         {
           "name": "Alan Armstrong",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/alan_armstrong.jpg"
+          "aipac": "$0 career",
+          "image": "images/alan_armstrong.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1053,23 +1161,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/tina_kotek.jpg"
+          "image": "images/tina_kotek.jpg",
+          "ties": ""
         },
         {
           "name": "Ron Wyden",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$2,100 direct",
-          "image": "images/ron_wyden.jpg"
+          "aipac": "$572,398 career",
+          "image": "images/ron_wyden.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Jeff Merkley",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Lutheran",
-          "aipac": "$0",
-          "image": "images/jeff_merkley.jpg"
+          "aipac": "$246,442 career",
+          "image": "images/jeff_merkley.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1082,23 +1193,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/josh_shapiro.jpg"
+          "image": "images/josh_shapiro.jpg",
+          "ties": ""
         },
         {
           "name": "John Fetterman",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/john_fetterman.jpg"
+          "aipac": "$656,018 career",
+          "image": "images/john_fetterman.jpg",
+          "ties": ""
         },
         {
           "name": "David McCormick",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/david_mccormick.jpg"
+          "aipac": "$667,214 career",
+          "image": "images/david_mccormick.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1111,23 +1225,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/dan_mckee.jpg"
+          "image": "images/dan_mckee.jpg",
+          "ties": ""
         },
         {
           "name": "Jack Reed",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$4,994 direct",
-          "image": "images/jack_reed.jpg"
+          "aipac": "$552,859 career",
+          "image": "images/jack_reed.jpg",
+          "ties": ""
         },
         {
           "name": "Sheldon Whitehouse",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Episcopal",
-          "aipac": "$11,700 direct",
-          "image": "images/sheldon_whitehouse.jpg"
+          "aipac": "$564,274 career",
+          "image": "images/sheldon_whitehouse.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1140,23 +1257,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/henry_mcmaster.jpg"
+          "image": "images/henry_mcmaster.jpg",
+          "ties": ""
         },
         {
           "name": "Tim Scott",
           "position": "Senator",
           "party": "Republican",
           "religion": "Evangelical",
-          "aipac": "$6,900 direct",
-          "image": "images/tim_scott.jpg"
+          "aipac": "$249,459 career",
+          "image": "images/tim_scott.jpg",
+          "ties": ""
         },
         {
           "name": "Darline Graham",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/darline_graham.jpg"
+          "aipac": "$2,604,268 career",
+          "image": "images/darline_graham.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1169,23 +1289,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/larry_rhoden.jpg"
+          "image": "images/larry_rhoden.jpg",
+          "ties": ""
         },
         {
           "name": "John Thune",
           "position": "Senator",
           "party": "Republican",
           "religion": "Evangelical",
-          "aipac": "$2,100 direct",
-          "image": "images/john_thune.jpg"
+          "aipac": "$508,436 career",
+          "image": "images/john_thune.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Rounds",
           "position": "Senator",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$4,994 direct",
-          "image": "images/mike_rounds.jpg"
+          "aipac": "$532,221 career",
+          "image": "images/mike_rounds.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1198,23 +1321,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/bill_lee.jpg"
+          "image": "images/bill_lee.jpg",
+          "ties": ""
         },
         {
           "name": "Marsha Blackburn",
           "position": "Senator",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "$5,500 direct",
-          "image": "images/marsha_blackburn.jpg"
+          "aipac": "$452,082 career",
+          "image": "images/marsha_blackburn.jpg",
+          "ties": ""
         },
         {
           "name": "Bill Hagerty",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$4,994 direct",
-          "image": "images/bill_hagerty.jpg"
+          "aipac": "$299,972 career",
+          "image": "images/bill_hagerty.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1227,23 +1353,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/greg_abbott.jpg"
+          "image": "images/greg_abbott.jpg",
+          "ties": ""
         },
         {
           "name": "John Cornyn",
           "position": "Senator",
           "party": "Republican",
           "religion": "Church of Christ",
-          "aipac": "$6,994 direct",
-          "image": "images/john_cornyn.jpg"
+          "aipac": "$1,908,189 career",
+          "image": "images/john_cornyn.jpg",
+          "ties": ""
         },
         {
           "name": "Ted Cruz",
           "position": "Senator",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$8,500 direct",
-          "image": "images/ted_cruz.jpg"
+          "aipac": "$2,301,245 career",
+          "image": "images/ted_cruz.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1256,23 +1385,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/spencer_cox.jpg"
+          "image": "images/spencer_cox.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Lee",
           "position": "Senator",
           "party": "Republican",
           "religion": "Latter-day Saint",
-          "aipac": "$10,000 direct",
-          "image": "images/mike_lee.jpg"
+          "aipac": "$488,207 career",
+          "image": "images/mike_lee.jpg",
+          "ties": ""
         },
         {
           "name": "John R. Curtis",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/john_r_curtis.jpg"
+          "aipac": "$67,900 career",
+          "image": "images/john_r_curtis.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1285,23 +1417,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/phil_scott.jpg"
+          "image": "images/phil_scott.jpg",
+          "ties": ""
         },
         {
           "name": "Bernard Sanders",
           "position": "Senator",
           "party": "Independent",
           "religion": "Jewish",
-          "aipac": "$0",
-          "image": "images/bernard_sanders.jpg"
+          "aipac": "$17,263 career",
+          "image": "images/bernard_sanders.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Peter Welch",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/peter_welch.jpg"
+          "aipac": "$146,589 career",
+          "image": "images/peter_welch.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1313,24 +1448,27 @@
           "position": "Governor",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$9,200 direct",
-          "image": "images/abigail_spanberger.jpg"
+          "aipac": "$0",
+          "image": "images/abigail_spanberger.jpg",
+          "ties": ""
         },
         {
           "name": "Mark R. Warner",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Presbyterian",
-          "aipac": "$4,494 direct",
-          "image": "images/mark_r_warner.jpg"
+          "aipac": "$1,264,279 career",
+          "image": "images/mark_r_warner.jpg",
+          "ties": ""
         },
         {
           "name": "Tim Kaine",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/tim_kaine.jpg"
+          "aipac": "$614,800 career",
+          "image": "images/tim_kaine.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1343,23 +1481,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/bob_ferguson.jpg"
+          "image": "images/bob_ferguson.jpg",
+          "ties": ""
         },
         {
           "name": "Patty Murray",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$4,200 direct",
-          "image": "images/patty_murray.jpg"
+          "aipac": "$683,265 career",
+          "image": "images/patty_murray.jpg",
+          "ties": ""
         },
         {
           "name": "Maria Cantwell",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "-$15,500 direct",
-          "image": "images/maria_cantwell.jpg"
+          "aipac": "$601,342 career",
+          "image": "images/maria_cantwell.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1372,23 +1513,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/patrick_morrisey.jpg"
+          "image": "images/patrick_morrisey.jpg",
+          "ties": ""
         },
         {
           "name": "Shelley Moore Capito",
           "position": "Senator",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "$4,994 direct",
-          "image": "images/shelley_moore_capito.jpg"
+          "aipac": "$812,952 career",
+          "image": "images/shelley_moore_capito.jpg",
+          "ties": ""
         },
         {
           "name": "James C. Justice",
           "position": "Senator",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/james_c_justice.jpg"
+          "aipac": "$73,323 career",
+          "image": "images/james_c_justice.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1401,23 +1545,26 @@
           "party": "Democrat",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/tony_evers.jpg"
+          "image": "images/tony_evers.jpg",
+          "ties": ""
         },
         {
           "name": "Ron Johnson",
           "position": "Senator",
           "party": "Republican",
           "religion": "Lutheran",
-          "aipac": "$10,000 direct",
-          "image": "images/ron_johnson.jpg"
+          "aipac": "$699,874 career",
+          "image": "images/ron_johnson.jpg",
+          "ties": ""
         },
         {
           "name": "Tammy Baldwin",
           "position": "Senator",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/tammy_baldwin.jpg"
+          "aipac": "$827,748 career",
+          "image": "images/tammy_baldwin.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1430,23 +1577,26 @@
           "party": "Republican",
           "religion": "Unknown",
           "aipac": "$0",
-          "image": "images/mark_gordon.jpg"
+          "image": "images/mark_gordon.jpg",
+          "ties": ""
         },
         {
           "name": "John Barrasso",
           "position": "Senator",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "-$3,000 direct",
-          "image": "images/john_barrasso.jpg"
+          "aipac": "$1,051,321 career",
+          "image": "images/john_barrasso.jpg",
+          "ties": ""
         },
         {
           "name": "Cynthia M. Lummis",
           "position": "Senator",
           "party": "Republican",
           "religion": "Lutheran",
-          "aipac": "-$6 direct",
-          "image": "images/cynthia_m_lummis.jpg"
+          "aipac": "$14,817 career",
+          "image": "images/cynthia_m_lummis.jpg",
+          "ties": ""
         }
       ]
     }

@@ -7,56 +7,63 @@
           "position": "AL-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$12,900 direct",
-          "image": "images/barry_moore.jpg"
+          "aipac": "$56,173 career",
+          "image": "images/barry_moore.jpg",
+          "ties": ""
         },
         {
           "name": "Shomari Figures",
           "position": "AL-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/shomari_figures.jpg"
+          "aipac": "$77,835 career",
+          "image": "images/shomari_figures.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Rogers",
           "position": "AL-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$3,594 direct",
-          "image": "images/mike_rogers.jpg"
+          "aipac": "$1,275,144 career",
+          "image": "images/mike_rogers.jpg",
+          "ties": ""
         },
         {
           "name": "Robert B. Aderholt",
           "position": "AL-4",
           "party": "Republican",
           "religion": "Methodist",
-          "aipac": "$2,794 direct",
-          "image": "images/robert_b_aderholt.jpg"
+          "aipac": "$128,930 career",
+          "image": "images/robert_b_aderholt.jpg",
+          "ties": ""
         },
         {
           "name": "Dale W. Strong",
           "position": "AL-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/dale_w_strong.jpg"
+          "aipac": "$53,719 career",
+          "image": "images/dale_w_strong.jpg",
+          "ties": ""
         },
         {
           "name": "Gary J. Palmer",
           "position": "AL-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$12,094 direct",
-          "image": "images/gary_j_palmer.jpg"
+          "aipac": "$101,685 career",
+          "image": "images/gary_j_palmer.jpg",
+          "ties": ""
         },
         {
           "name": "Terri A. Sewell",
           "position": "AL-7",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$25,450 direct",
-          "image": "images/terri_a_sewell.jpg"
+          "aipac": "$90,352 career",
+          "image": "images/terri_a_sewell.jpg",
+          "ties": ""
         }
       ]
     },
@@ -67,8 +74,9 @@
           "position": "AK-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/nicholas_j_begich_iii.jpg"
+          "aipac": "$92,395 career",
+          "image": "images/nicholas_j_begich_iii.jpg",
+          "ties": ""
         }
       ]
     },
@@ -79,72 +87,81 @@
           "position": "AZ-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$20,000 direct",
-          "image": "images/david_schweikert.jpg"
+          "aipac": "$615,860 career",
+          "image": "images/david_schweikert.jpg",
+          "ties": ""
         },
         {
           "name": "Elijah Crane",
           "position": "AZ-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/elijah_crane.jpg"
+          "aipac": "$44,412 career",
+          "image": "images/elijah_crane.jpg",
+          "ties": ""
         },
         {
           "name": "Yassamin Ansari",
           "position": "AZ-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/yassamin_ansari.jpg"
+          "aipac": "$666,734 career",
+          "image": "images/yassamin_ansari.jpg",
+          "ties": ""
         },
         {
           "name": "Greg Stanton",
           "position": "AZ-4",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/greg_stanton.jpg"
+          "aipac": "$361,188 career",
+          "image": "images/greg_stanton.jpg",
+          "ties": ""
         },
         {
           "name": "Andy Biggs",
           "position": "AZ-5",
           "party": "Republican",
           "religion": "Latter-day Saint",
-          "aipac": "$4,000 direct",
-          "image": "images/andy_biggs.jpg"
+          "aipac": "$38,684 career",
+          "image": "images/andy_biggs.jpg",
+          "ties": ""
         },
         {
           "name": "Juan Ciscomani",
           "position": "AZ-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$11,694 direct",
-          "image": "images/juan_ciscomani.jpg"
+          "aipac": "$1,713,520 career",
+          "image": "images/juan_ciscomani.jpg",
+          "ties": ""
         },
         {
           "name": "Adelita S. Grijalva",
           "position": "AZ-7",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/adelita_s_grijalva.jpg"
+          "aipac": "$14,786 career",
+          "image": "images/adelita_s_grijalva.jpg",
+          "ties": ""
         },
         {
           "name": "Abraham J. Hamadeh",
           "position": "AZ-8",
           "party": "Republican",
           "religion": "Non-denominational Christian",
-          "aipac": "$4,994 direct",
-          "image": "images/abraham_j_hamadeh.jpg"
+          "aipac": "$61,882 career",
+          "image": "images/abraham_j_hamadeh.jpg",
+          "ties": ""
         },
         {
           "name": "Paul A. Gosar",
           "position": "AZ-9",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/paul_a_gosar.jpg"
+          "aipac": "$19,000 career",
+          "image": "images/paul_a_gosar.jpg",
+          "ties": ""
         }
       ]
     },
@@ -155,32 +172,36 @@
           "position": "AR-1",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$18,144 direct",
-          "image": "images/eric_a_rick_crawford.jpg"
+          "aipac": "$29,123 career",
+          "image": "images/eric_a_rick_crawford.jpg",
+          "ties": ""
         },
         {
           "name": "J. French Hill",
           "position": "AR-2",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$22,894 direct",
-          "image": "images/j_french_hill.jpg"
+          "aipac": "$139,997 career",
+          "image": "images/j_french_hill.jpg",
+          "ties": ""
         },
         {
           "name": "Steve Womack",
           "position": "AR-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$27,894 direct",
-          "image": "images/steve_womack.jpg"
+          "aipac": "$163,343 career",
+          "image": "images/steve_womack.jpg",
+          "ties": ""
         },
         {
           "name": "Bruce Westerman",
           "position": "AR-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$27,894 direct",
-          "image": "images/bruce_westerman.jpg"
+          "aipac": "$87,364 career",
+          "image": "images/bruce_westerman.jpg",
+          "ties": ""
         }
       ]
     },
@@ -191,416 +212,468 @@
           "position": "CA-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/james_gallagher.jpg"
+          "aipac": "$0 career",
+          "image": "images/james_gallagher.jpg",
+          "ties": ""
         },
         {
           "name": "Jared Huffman",
           "position": "CA-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/jared_huffman.jpg"
+          "aipac": "$64,652 career",
+          "image": "images/jared_huffman.jpg",
+          "ties": ""
         },
         {
           "name": "Kevin Kiley",
           "position": "CA-3",
           "party": "Independent",
           "religion": "Unknown",
-          "aipac": "$9,997 direct",
-          "image": "images/kevin_kiley.jpg"
+          "aipac": "$90,538 career",
+          "image": "images/kevin_kiley.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Thompson",
           "position": "CA-4",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/mike_thompson.jpg"
+          "aipac": "$55,905 career",
+          "image": "images/mike_thompson.jpg",
+          "ties": ""
         },
         {
           "name": "Tom McClintock",
           "position": "CA-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/tom_mcclintock.jpg"
+          "aipac": "$115,552 career",
+          "image": "images/tom_mcclintock.jpg",
+          "ties": ""
         },
         {
           "name": "Ami Bera",
           "position": "CA-6",
           "party": "Democrat",
           "religion": "Unitarian Universalist",
-          "aipac": "$900 direct",
-          "image": "images/ami_bera.jpg"
+          "aipac": "$272,153 career",
+          "image": "images/ami_bera.jpg",
+          "ties": ""
         },
         {
           "name": "Doris O. Matsui",
           "position": "CA-7",
           "party": "Democrat",
           "religion": "Methodist",
-          "aipac": "$17,900 direct",
-          "image": "images/doris_o_matsui.jpg"
+          "aipac": "$70,305 career",
+          "image": "images/doris_o_matsui.jpg",
+          "ties": ""
         },
         {
           "name": "John Garamendi",
           "position": "CA-8",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/john_garamendi.jpg"
+          "aipac": "$107,257 career",
+          "image": "images/john_garamendi.jpg",
+          "ties": ""
         },
         {
           "name": "Josh Harder",
           "position": "CA-9",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/josh_harder.jpg"
+          "aipac": "$599,603 career",
+          "image": "images/josh_harder.jpg",
+          "ties": ""
         },
         {
           "name": "Mark DeSaulnier",
           "position": "CA-10",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/mark_desaulnier.jpg"
+          "aipac": "$39,835 career",
+          "image": "images/mark_desaulnier.jpg",
+          "ties": ""
         },
         {
           "name": "Nancy Pelosi",
           "position": "CA-11",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$11,712 direct",
-          "image": "images/nancy_pelosi.jpg"
+          "aipac": "$409,671 career",
+          "image": "images/nancy_pelosi.jpg",
+          "ties": ""
         },
         {
           "name": "Lateefah Simon",
           "position": "CA-12",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/lateefah_simon.jpg"
+          "aipac": "$26,900 career",
+          "image": "images/lateefah_simon.jpg",
+          "ties": ""
         },
         {
           "name": "Adam Gray",
           "position": "CA-13",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$4,994 direct",
-          "image": "images/adam_gray.jpg"
+          "aipac": "$109,574 career",
+          "image": "images/adam_gray.jpg",
+          "ties": ""
         },
         {
           "name": "Aisha Wahab",
           "position": "CA-14",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$1,642,138 UDP against",
-          "image": "images/aisha_wahab.jpg"
+          "aipac": "$2,300 career",
+          "image": "images/aisha_wahab.jpg",
+          "ties": ""
         },
         {
           "name": "Kevin Mullin",
           "position": "CA-15",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$12,900 direct · $588,681 UDP for",
-          "image": "images/kevin_mullin.jpg"
+          "aipac": "$767,583 career",
+          "image": "images/kevin_mullin.jpg",
+          "ties": ""
         },
         {
           "name": "Sam T. Liccardo",
           "position": "CA-16",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/sam_t_liccardo.jpg"
+          "aipac": "$88,480 career",
+          "image": "images/sam_t_liccardo.jpg",
+          "ties": ""
         },
         {
           "name": "Ro Khanna",
           "position": "CA-17",
           "party": "Democrat",
           "religion": "Hindu",
-          "aipac": "$0",
-          "image": "images/ro_khanna.jpg"
+          "aipac": "$282,403 career",
+          "image": "images/ro_khanna.jpg",
+          "ties": ""
         },
         {
           "name": "Zoe Lofgren",
           "position": "CA-18",
           "party": "Democrat",
           "religion": "Lutheran",
-          "aipac": "$0",
-          "image": "images/zoe_lofgren.jpg"
+          "aipac": "$78,353 career",
+          "image": "images/zoe_lofgren.jpg",
+          "ties": ""
         },
         {
           "name": "Jimmy Panetta",
           "position": "CA-19",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$23,396 direct",
-          "image": "images/jimmy_panetta.jpg"
+          "aipac": "$741,991 career",
+          "image": "images/jimmy_panetta.jpg",
+          "ties": ""
         },
         {
           "name": "Vince Fong",
           "position": "CA-20",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/vince_fong.jpg"
+          "aipac": "$47,891 career",
+          "image": "images/vince_fong.jpg",
+          "ties": ""
         },
         {
           "name": "Jim Costa",
           "position": "CA-21",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$24,897 direct",
-          "image": "images/jim_costa.jpg"
+          "aipac": "$561,192 career",
+          "image": "images/jim_costa.jpg",
+          "ties": ""
         },
         {
           "name": "David G. Valadao",
           "position": "CA-22",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$23,394 direct",
-          "image": "images/david_g_valadao.jpg"
+          "aipac": "$441,071 career",
+          "image": "images/david_g_valadao.jpg",
+          "ties": ""
         },
         {
           "name": "Jay Obernolte",
           "position": "CA-23",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/jay_obernolte.jpg"
+          "aipac": "$47,435 career",
+          "image": "images/jay_obernolte.jpg",
+          "ties": ""
         },
         {
           "name": "Salud O. Carbajal",
           "position": "CA-24",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$2,900 direct",
-          "image": "images/salud_o_carbajal.jpg"
+          "aipac": "$118,286 career",
+          "image": "images/salud_o_carbajal.jpg",
+          "ties": ""
         },
         {
           "name": "Raul Ruiz",
           "position": "CA-25",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/raul_ruiz.jpg"
+          "aipac": "$287,676 career",
+          "image": "images/raul_ruiz.jpg",
+          "ties": ""
         },
         {
           "name": "Julia Brownley",
           "position": "CA-26",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$15,894 direct",
-          "image": "images/julia_brownley.jpg"
+          "aipac": "$250,230 career",
+          "image": "images/julia_brownley.jpg",
+          "ties": ""
         },
         {
           "name": "George Whitesides",
           "position": "CA-27",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/george_whitesides.jpg"
+          "aipac": "$114,768 career",
+          "image": "images/george_whitesides.jpg",
+          "ties": ""
         },
         {
           "name": "Judy Chu",
           "position": "CA-28",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/judy_chu.jpg"
+          "aipac": "$36,385 career",
+          "image": "images/judy_chu.jpg",
+          "ties": ""
         },
         {
           "name": "Luz M. Rivas",
           "position": "CA-29",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/luz_m_rivas.jpg"
+          "aipac": "$111,161 career",
+          "image": "images/luz_m_rivas.jpg",
+          "ties": ""
         },
         {
           "name": "Laura Friedman",
           "position": "CA-30",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/laura_friedman.jpg"
+          "religion": "Jewish",
+          "aipac": "$50,223 career",
+          "image": "images/laura_friedman.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Gilbert Ray Cisneros, Jr.",
           "position": "CA-31",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/gilbert_ray_cisneros_jr.jpg"
+          "aipac": "$246,265 career",
+          "image": "images/gilbert_ray_cisneros_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Brad Sherman",
           "position": "CA-32",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$23,394 direct",
-          "image": "images/brad_sherman.jpg"
+          "aipac": "$1,681,885 career",
+          "image": "images/brad_sherman.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Pete Aguilar",
           "position": "CA-33",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$3,394 direct",
-          "image": "images/pete_aguilar.jpg"
+          "aipac": "$1,817,335 career",
+          "image": "images/pete_aguilar.jpg",
+          "ties": ""
         },
         {
           "name": "Jimmy Gomez",
           "position": "CA-34",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$22,894 direct · $1,695,829 UDP for",
-          "image": "images/jimmy_gomez.jpg"
+          "aipac": "$2,869,351 career",
+          "image": "images/jimmy_gomez.jpg",
+          "ties": ""
         },
         {
           "name": "Norma J. Torres",
           "position": "CA-35",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/norma_j_torres.jpg"
+          "aipac": "$562,880 career",
+          "image": "images/norma_j_torres.jpg",
+          "ties": ""
         },
         {
           "name": "Ted Lieu",
           "position": "CA-36",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$36,296 direct",
-          "image": "images/ted_lieu.jpg"
+          "aipac": "$1,202,297 career",
+          "image": "images/ted_lieu.jpg",
+          "ties": ""
         },
         {
           "name": "Sydney Kamlager-Dove",
           "position": "CA-37",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/sydney_kamlager_dove.jpg"
+          "aipac": "$313,672 career",
+          "image": "images/sydney_kamlager_dove.jpg",
+          "ties": ""
         },
         {
           "name": "Linda T. Sánchez",
           "position": "CA-38",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$16,900 direct",
-          "image": "images/linda_t_sanchez.jpg"
+          "aipac": "$138,071 career",
+          "image": "images/linda_t_sanchez.jpg",
+          "ties": ""
         },
         {
           "name": "Mark Takano",
           "position": "CA-39",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/mark_takano.jpg"
+          "aipac": "$108,138 career",
+          "image": "images/mark_takano.jpg",
+          "ties": ""
         },
         {
           "name": "Young Kim",
           "position": "CA-40",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/young_kim.jpg"
+          "aipac": "$817,324 career",
+          "image": "images/young_kim.jpg",
+          "ties": ""
         },
         {
           "name": "Ken Calvert",
           "position": "CA-41",
           "party": "Republican",
           "religion": "Protestant",
-          "aipac": "$8,896 direct",
-          "image": "images/ken_calvert.jpg"
+          "aipac": "$1,121,960 career",
+          "image": "images/ken_calvert.jpg",
+          "ties": ""
         },
         {
           "name": "Robert Garcia",
           "position": "CA-42",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$7,900 direct",
-          "image": "images/robert_garcia.jpg"
+          "aipac": "$703,925 career",
+          "image": "images/robert_garcia.jpg",
+          "ties": ""
         },
         {
           "name": "Maxine Waters",
           "position": "CA-43",
           "party": "Democrat",
           "religion": "Christian",
-          "aipac": "$0",
-          "image": "images/maxine_waters.jpg"
+          "aipac": "$4,500 career",
+          "image": "images/maxine_waters.jpg",
+          "ties": ""
         },
         {
           "name": "Nanette Diaz Barragán",
           "position": "CA-44",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "-$1,400 direct",
-          "image": "images/nanette_diaz_barragan.jpg"
+          "aipac": "$166,354 career",
+          "image": "images/nanette_diaz_barragan.jpg",
+          "ties": ""
         },
         {
           "name": "Derek Tran",
           "position": "CA-45",
           "party": "Democrat",
           "religion": "Buddhist",
-          "aipac": "$0",
-          "image": "images/derek_tran.jpg"
+          "aipac": "$266,653 career",
+          "image": "images/derek_tran.jpg",
+          "ties": ""
         },
         {
           "name": "J. Luis Correa",
           "position": "CA-46",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$7,894 direct",
-          "image": "images/j_luis_correa.jpg"
+          "aipac": "$95,232 career",
+          "image": "images/j_luis_correa.jpg",
+          "ties": ""
         },
         {
           "name": "Dave Min",
           "position": "CA-47",
           "party": "Democrat",
           "religion": "Episcopal",
-          "aipac": "$4,615,281 UDP against",
-          "image": "images/dave_min.jpg"
+          "aipac": "$29,643 career",
+          "image": "images/dave_min.jpg",
+          "ties": ""
         },
         {
           "name": "Darrell Issa",
           "position": "CA-48",
           "party": "Republican",
           "religion": "Eastern Orthodox",
-          "aipac": "$22,894 direct",
-          "image": "images/darrell_issa.jpg"
+          "aipac": "$148,376 career",
+          "image": "images/darrell_issa.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Levin",
           "position": "CA-49",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/mike_levin.jpg"
+          "religion": "Jewish",
+          "aipac": "$736,441 career",
+          "image": "images/mike_levin.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Scott H. Peters",
           "position": "CA-50",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$7,894 direct",
-          "image": "images/scott_h_peters.jpg"
+          "aipac": "$190,979 career",
+          "image": "images/scott_h_peters.jpg",
+          "ties": ""
         },
         {
           "name": "Sara Jacobs",
           "position": "CA-51",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/sara_jacobs.jpg"
+          "religion": "Jewish",
+          "aipac": "$83,581 career",
+          "image": "images/sara_jacobs.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Juan Vargas",
           "position": "CA-52",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$27,894 direct",
-          "image": "images/juan_vargas.jpg"
+          "aipac": "$545,890 career",
+          "image": "images/juan_vargas.jpg",
+          "ties": ""
         }
       ]
     },
@@ -611,64 +684,72 @@
           "position": "CO-1",
           "party": "Democrat",
           "religion": "Presbyterian",
-          "aipac": "$2,900 direct",
-          "image": "images/diana_degette.jpg"
+          "aipac": "$128,814 career",
+          "image": "images/diana_degette.jpg",
+          "ties": ""
         },
         {
           "name": "Joe Neguse",
           "position": "CO-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$24,194 direct",
-          "image": "images/joe_neguse.jpg"
+          "aipac": "$523,632 career",
+          "image": "images/joe_neguse.jpg",
+          "ties": ""
         },
         {
           "name": "Jeff Hurd",
           "position": "CO-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$6,869 direct",
-          "image": "images/jeff_hurd.jpg"
+          "aipac": "$138,883 career",
+          "image": "images/jeff_hurd.jpg",
+          "ties": ""
         },
         {
           "name": "Lauren Boebert",
           "position": "CO-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/lauren_boebert.jpg"
+          "aipac": "$38,313 career",
+          "image": "images/lauren_boebert.jpg",
+          "ties": ""
         },
         {
           "name": "Jeff Crank",
           "position": "CO-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/jeff_crank.jpg"
+          "aipac": "$73,498 career",
+          "image": "images/jeff_crank.jpg",
+          "ties": ""
         },
         {
           "name": "Jason Crow",
           "position": "CO-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$6,500 direct",
-          "image": "images/jason_crow.jpg"
+          "aipac": "$324,057 career",
+          "image": "images/jason_crow.jpg",
+          "ties": ""
         },
         {
           "name": "Brittany Pettersen",
           "position": "CO-7",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/brittany_pettersen.jpg"
+          "aipac": "$168,563 career",
+          "image": "images/brittany_pettersen.jpg",
+          "ties": ""
         },
         {
           "name": "Gabe Evans",
           "position": "CO-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$4,994 direct",
-          "image": "images/gabe_evans.jpg"
+          "aipac": "$847,714 career",
+          "image": "images/gabe_evans.jpg",
+          "ties": ""
         }
       ]
     },
@@ -679,40 +760,45 @@
           "position": "CT-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$20,594 direct",
-          "image": "images/john_b_larson.jpg"
+          "aipac": "$346,571 career",
+          "image": "images/john_b_larson.jpg",
+          "ties": ""
         },
         {
           "name": "Joe Courtney",
           "position": "CT-2",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$7,400 direct",
-          "image": "images/joe_courtney.jpg"
+          "aipac": "$128,994 career",
+          "image": "images/joe_courtney.jpg",
+          "ties": ""
         },
         {
           "name": "Rosa L. DeLauro",
           "position": "CT-3",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$10,394 direct",
-          "image": "images/rosa_l_delauro.jpg"
+          "aipac": "$248,693 career",
+          "image": "images/rosa_l_delauro.jpg",
+          "ties": ""
         },
         {
           "name": "James A. Himes",
           "position": "CT-4",
           "party": "Democrat",
           "religion": "Presbyterian",
-          "aipac": "$8,400 direct",
-          "image": "images/james_a_himes.jpg"
+          "aipac": "$107,908 career",
+          "image": "images/james_a_himes.jpg",
+          "ties": ""
         },
         {
           "name": "Jahana Hayes",
           "position": "CT-5",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$2,900 direct",
-          "image": "images/jahana_hayes.jpg"
+          "aipac": "$206,414 career",
+          "image": "images/jahana_hayes.jpg",
+          "ties": ""
         }
       ]
     },
@@ -723,8 +809,9 @@
           "position": "DE-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/sarah_mcbride.jpg"
+          "aipac": "$101,417 career",
+          "image": "images/sarah_mcbride.jpg",
+          "ties": ""
         }
       ]
     },
@@ -735,152 +822,171 @@
           "position": "FL-1",
           "party": "Republican",
           "religion": "Eastern Orthodox",
-          "aipac": "$14,994 direct",
-          "image": "images/jimmy_patronis.jpg"
+          "aipac": "$72,948 career",
+          "image": "images/jimmy_patronis.jpg",
+          "ties": ""
         },
         {
           "name": "Neal P. Dunn",
           "position": "FL-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/neal_p_dunn.jpg"
+          "aipac": "$74,947 career",
+          "image": "images/neal_p_dunn.jpg",
+          "ties": ""
         },
         {
           "name": "Kat Cammack",
           "position": "FL-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$3,994 direct",
-          "image": "images/kat_cammack.jpg"
+          "aipac": "$117,677 career",
+          "image": "images/kat_cammack.jpg",
+          "ties": ""
         },
         {
           "name": "Aaron Bean",
           "position": "FL-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$29,994 direct",
-          "image": "images/aaron_bean.jpg"
+          "aipac": "$104,621 career",
+          "image": "images/aaron_bean.jpg",
+          "ties": ""
         },
         {
           "name": "John H. Rutherford",
           "position": "FL-5",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$25,994 direct",
-          "image": "images/john_h_rutherford.jpg"
+          "aipac": "$79,558 career",
+          "image": "images/john_h_rutherford.jpg",
+          "ties": ""
         },
         {
           "name": "Randy Fine",
           "position": "FL-6",
           "party": "Republican",
-          "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/randy_fine.jpg"
+          "religion": "Jewish",
+          "aipac": "$814,311 career",
+          "image": "images/randy_fine.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Cory Mills",
           "position": "FL-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/cory_mills.jpg"
+          "aipac": "$47,773 career",
+          "image": "images/cory_mills.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Haridopolos",
           "position": "FL-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/mike_haridopolos.jpg"
+          "aipac": "$76,855 career",
+          "image": "images/mike_haridopolos.jpg",
+          "ties": ""
         },
         {
           "name": "Darren Soto",
           "position": "FL-9",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$29,194 direct",
-          "image": "images/darren_soto.jpg"
+          "aipac": "$650,743 career",
+          "image": "images/darren_soto.jpg",
+          "ties": ""
         },
         {
           "name": "Maxwell Frost",
           "position": "FL-10",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/maxwell_frost.jpg"
+          "aipac": "$5,400 career",
+          "image": "images/maxwell_frost.jpg",
+          "ties": ""
         },
         {
           "name": "Daniel Webster",
           "position": "FL-11",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$24,994 direct",
-          "image": "images/daniel_webster.jpg"
+          "aipac": "$117,694 career",
+          "image": "images/daniel_webster.jpg",
+          "ties": ""
         },
         {
           "name": "Gus M. Bilirakis",
           "position": "FL-12",
           "party": "Republican",
           "religion": "Eastern Orthodox",
-          "aipac": "$24,494 direct",
-          "image": "images/gus_m_bilirakis.jpg"
+          "aipac": "$139,077 career",
+          "image": "images/gus_m_bilirakis.jpg",
+          "ties": ""
         },
         {
           "name": "Anna Paulina Luna",
           "position": "FL-13",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/anna_paulina_luna.jpg"
+          "aipac": "$34,670 career",
+          "image": "images/anna_paulina_luna.jpg",
+          "ties": ""
         },
         {
           "name": "Kathy Castor",
           "position": "FL-14",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$13,494 direct",
-          "image": "images/kathy_castor.jpg"
+          "aipac": "$109,178 career",
+          "image": "images/kathy_castor.jpg",
+          "ties": ""
         },
         {
           "name": "Laurel M. Lee",
           "position": "FL-15",
           "party": "Republican",
           "religion": "Protestant",
-          "aipac": "$19,994 direct",
-          "image": "images/laurel_m_lee.jpg"
+          "aipac": "$86,804 career",
+          "image": "images/laurel_m_lee.jpg",
+          "ties": ""
         },
         {
           "name": "Vern Buchanan",
           "position": "FL-16",
           "party": "Republican",
           "religion": "Christian",
-          "aipac": "$18,494 direct",
-          "image": "images/vern_buchanan.jpg"
+          "aipac": "$135,381 career",
+          "image": "images/vern_buchanan.jpg",
+          "ties": ""
         },
         {
           "name": "W. Gregory Steube",
           "position": "FL-17",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$24,994 direct",
-          "image": "images/w_gregory_steube.jpg"
+          "aipac": "$117,713 career",
+          "image": "images/w_gregory_steube.jpg",
+          "ties": ""
         },
         {
           "name": "Scott Franklin",
           "position": "FL-18",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/scott_franklin.jpg"
+          "aipac": "$109,559 career",
+          "image": "images/scott_franklin.jpg",
+          "ties": ""
         },
         {
           "name": "Byron Donalds",
           "position": "FL-19",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/byron_donalds.jpg"
+          "aipac": "$118,828 career",
+          "image": "images/byron_donalds.jpg",
+          "ties": ""
         },
         {
           "name": "Vacant",
@@ -888,71 +994,80 @@
           "party": "Unknown",
           "religion": "—",
           "aipac": "$0",
-          "image": "images/vacant.jpg"
+          "image": "images/vacant.jpg",
+          "ties": ""
         },
         {
           "name": "Brian J. Mast",
           "position": "FL-21",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/brian_j_mast.jpg"
+          "aipac": "$1,324,181 career",
+          "image": "images/brian_j_mast.jpg",
+          "ties": ""
         },
         {
           "name": "Lois Frankel",
           "position": "FL-22",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$25,244 direct",
-          "image": "images/lois_frankel.jpg"
+          "religion": "Jewish",
+          "aipac": "$907,909 career",
+          "image": "images/lois_frankel.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Jared Moskowitz",
           "position": "FL-23",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$29,994 direct",
-          "image": "images/jared_moskowitz.jpg"
+          "religion": "Jewish",
+          "aipac": "$1,101,545 career",
+          "image": "images/jared_moskowitz.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Frederica S. Wilson",
           "position": "FL-24",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/frederica_s_wilson.jpg"
+          "aipac": "$54,386 career",
+          "image": "images/frederica_s_wilson.jpg",
+          "ties": ""
         },
         {
           "name": "Debbie Wasserman Schultz",
           "position": "FL-25",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$29,994 direct",
-          "image": "images/debbie_wasserman_schultz.jpg"
+          "aipac": "$1,676,575 career",
+          "image": "images/debbie_wasserman_schultz.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Mario Diaz-Balart",
           "position": "FL-26",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$24,994 direct",
-          "image": "images/mario_diaz_balart.jpg"
+          "aipac": "$1,394,279 career",
+          "image": "images/mario_diaz_balart.jpg",
+          "ties": ""
         },
         {
           "name": "Maria Elvira Salazar",
           "position": "FL-27",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/maria_elvira_salazar.jpg"
+          "aipac": "$360,105 career",
+          "image": "images/maria_elvira_salazar.jpg",
+          "ties": ""
         },
         {
           "name": "Carlos A. Gimenez",
           "position": "FL-28",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$24,994 direct",
-          "image": "images/carlos_a_gimenez.jpg"
+          "aipac": "$182,213 career",
+          "image": "images/carlos_a_gimenez.jpg",
+          "ties": ""
         }
       ]
     },
@@ -963,112 +1078,126 @@
           "position": "GA-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$4,900 direct",
-          "image": "images/earl_l_buddy_carter.jpg"
+          "aipac": "$89,614 career",
+          "image": "images/earl_l_buddy_carter.jpg",
+          "ties": ""
         },
         {
           "name": "Sanford D. Bishop, Jr.",
           "position": "GA-2",
           "party": "Democrat",
           "religion": "Baptist",
-          "aipac": "$12,900 direct",
-          "image": "images/sanford_d_bishop_jr.jpg"
+          "aipac": "$115,337 career",
+          "image": "images/sanford_d_bishop_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Brian Jack",
           "position": "GA-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$29,994 direct",
-          "image": "images/brian_jack.jpg"
+          "aipac": "$437,796 career",
+          "image": "images/brian_jack.jpg",
+          "ties": ""
         },
         {
           "name": "Henry C. \"Hank\" Johnson, Jr.",
           "position": "GA-4",
           "party": "Democrat",
           "religion": "Buddhist",
-          "aipac": "$0",
-          "image": "images/henry_c_hank_johnson_jr.jpg"
+          "aipac": "$89,435 career",
+          "image": "images/henry_c_hank_johnson_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Nikema Williams",
           "position": "GA-5",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/nikema_williams.jpg"
+          "aipac": "$156,100 career",
+          "image": "images/nikema_williams.jpg",
+          "ties": ""
         },
         {
           "name": "Lucy McBath",
           "position": "GA-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$22,644 direct",
-          "image": "images/lucy_mcbath.jpg"
+          "aipac": "$983,359 career",
+          "image": "images/lucy_mcbath.jpg",
+          "ties": ""
         },
         {
           "name": "Richard McCormick",
           "position": "GA-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/richard_mccormick.jpg"
+          "aipac": "$175,216 career",
+          "image": "images/richard_mccormick.jpg",
+          "ties": ""
         },
         {
           "name": "Austin Scott",
           "position": "GA-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$21,894 direct",
-          "image": "images/austin_scott.jpg"
+          "aipac": "$101,034 career",
+          "image": "images/austin_scott.jpg",
+          "ties": ""
         },
         {
           "name": "Andrew S. Clyde",
           "position": "GA-9",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/andrew_s_clyde.jpg"
+          "aipac": "$3,000 career",
+          "image": "images/andrew_s_clyde.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Collins",
           "position": "GA-10",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/mike_collins.jpg"
+          "aipac": "$34,546 career",
+          "image": "images/mike_collins.jpg",
+          "ties": ""
         },
         {
           "name": "Barry Loudermilk",
           "position": "GA-11",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/barry_loudermilk.jpg"
+          "aipac": "$121,632 career",
+          "image": "images/barry_loudermilk.jpg",
+          "ties": ""
         },
         {
           "name": "Rick W. Allen",
           "position": "GA-12",
           "party": "Republican",
           "religion": "Methodist",
-          "aipac": "$10,994 direct",
-          "image": "images/rick_w_allen.jpg"
+          "aipac": "$88,633 career",
+          "image": "images/rick_w_allen.jpg",
+          "ties": ""
         },
         {
           "name": "Everton Blair Jr.",
           "position": "GA-13",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/everton_blair_jr.jpg"
+          "aipac": "$0 career",
+          "image": "images/everton_blair_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Clay Fuller",
           "position": "GA-14",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/clay_fuller.jpg"
+          "aipac": "$72,922 career",
+          "image": "images/clay_fuller.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1079,16 +1208,18 @@
           "position": "HI-1",
           "party": "Democrat",
           "religion": "Protestant",
-          "aipac": "$7,494 direct",
-          "image": "images/ed_case.jpg"
+          "aipac": "$89,134 career",
+          "image": "images/ed_case.jpg",
+          "ties": ""
         },
         {
           "name": "Jill N. Tokuda",
           "position": "HI-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/jill_n_tokuda.jpg"
+          "aipac": "$31,900 career",
+          "image": "images/jill_n_tokuda.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1099,16 +1230,18 @@
           "position": "ID-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/russ_fulcher.jpg"
+          "aipac": "$38,488 career",
+          "image": "images/russ_fulcher.jpg",
+          "ties": ""
         },
         {
           "name": "Michael K. Simpson",
           "position": "ID-2",
           "party": "Republican",
           "religion": "Latter-day Saint",
-          "aipac": "$22,894 direct",
-          "image": "images/michael_k_simpson.jpg"
+          "aipac": "$74,194 career",
+          "image": "images/michael_k_simpson.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1119,136 +1252,153 @@
           "position": "IL-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$12,900 direct",
-          "image": "images/jonathan_l_jackson.jpg"
+          "aipac": "$23,400 career",
+          "image": "images/jonathan_l_jackson.jpg",
+          "ties": ""
         },
         {
           "name": "Robin L. Kelly",
           "position": "IL-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/robin_l_kelly.jpg"
+          "aipac": "$72,142 career",
+          "image": "images/robin_l_kelly.jpg",
+          "ties": ""
         },
         {
           "name": "Delia C. Ramirez",
           "position": "IL-3",
           "party": "Democrat",
           "religion": "Methodist",
-          "aipac": "$0",
-          "image": "images/delia_c_ramirez.jpg"
+          "aipac": "$102,613 career",
+          "image": "images/delia_c_ramirez.jpg",
+          "ties": ""
         },
         {
           "name": "Jesús G. \"Chuy\" García",
           "position": "IL-4",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/jesus_g_chuy_garcia.jpg"
+          "aipac": "$21,150 career",
+          "image": "images/jesus_g_chuy_garcia.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Quigley",
           "position": "IL-5",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/mike_quigley.jpg"
+          "aipac": "$132,235 career",
+          "image": "images/mike_quigley.jpg",
+          "ties": ""
         },
         {
           "name": "Sean Casten",
           "position": "IL-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/sean_casten.jpg"
+          "aipac": "$924,749 career",
+          "image": "images/sean_casten.jpg",
+          "ties": ""
         },
         {
           "name": "Danny K. Davis",
           "position": "IL-7",
           "party": "Democrat",
           "religion": "Baptist",
-          "aipac": "$0",
-          "image": "images/danny_k_davis.jpg"
+          "aipac": "$62,476 career",
+          "image": "images/danny_k_davis.jpg",
+          "ties": ""
         },
         {
           "name": "Raja Krishnamoorthi",
           "position": "IL-8",
           "party": "Democrat",
           "religion": "Hindu",
-          "aipac": "$12,900 direct",
-          "image": "images/raja_krishnamoorthi.jpg"
+          "aipac": "$366,558 career",
+          "image": "images/raja_krishnamoorthi.jpg",
+          "ties": ""
         },
         {
           "name": "Janice D. Schakowsky",
           "position": "IL-9",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$0",
-          "image": "images/janice_d_schakowsky.jpg"
+          "aipac": "$410,346 career",
+          "image": "images/janice_d_schakowsky.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Bradley Scott Schneider",
           "position": "IL-10",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$19,194 direct",
-          "image": "images/bradley_scott_schneider.jpg"
+          "religion": "Jewish",
+          "aipac": "$2,049,300 career",
+          "image": "images/bradley_scott_schneider.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Bill Foster",
           "position": "IL-11",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/bill_foster.jpg"
+          "aipac": "$507,464 career",
+          "image": "images/bill_foster.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Bost",
           "position": "IL-12",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$21,494 direct",
-          "image": "images/mike_bost.jpg"
+          "aipac": "$208,052 career",
+          "image": "images/mike_bost.jpg",
+          "ties": ""
         },
         {
           "name": "Nikki Budzinski",
           "position": "IL-13",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$4,994 direct",
-          "image": "images/nikki_budzinski.jpg"
+          "aipac": "$369,190 career",
+          "image": "images/nikki_budzinski.jpg",
+          "ties": ""
         },
         {
           "name": "Lauren Underwood",
           "position": "IL-14",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/lauren_underwood.jpg"
+          "aipac": "$116,409 career",
+          "image": "images/lauren_underwood.jpg",
+          "ties": ""
         },
         {
           "name": "Mary E. Miller",
           "position": "IL-15",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "-$6 direct",
-          "image": "images/mary_e_miller.jpg"
+          "aipac": "$11,116 career",
+          "image": "images/mary_e_miller.jpg",
+          "ties": ""
         },
         {
           "name": "Darin LaHood",
           "position": "IL-16",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/darin_lahood.jpg"
+          "aipac": "$198,771 career",
+          "image": "images/darin_lahood.jpg",
+          "ties": ""
         },
         {
           "name": "Eric Sorensen",
           "position": "IL-17",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/eric_sorensen.jpg"
+          "aipac": "$471,844 career",
+          "image": "images/eric_sorensen.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1259,72 +1409,81 @@
           "position": "IN-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$27,894 direct",
-          "image": "images/frank_j_mrvan.jpg"
+          "aipac": "$175,569 career",
+          "image": "images/frank_j_mrvan.jpg",
+          "ties": ""
         },
         {
           "name": "Rudy Yakym III",
           "position": "IN-2",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$29,994 direct",
-          "image": "images/rudy_yakym_iii.jpg"
+          "aipac": "$289,953 career",
+          "image": "images/rudy_yakym_iii.jpg",
+          "ties": ""
         },
         {
           "name": "Marlin A. Stutzman",
           "position": "IN-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/marlin_a_stutzman.jpg"
+          "aipac": "$63,598 career",
+          "image": "images/marlin_a_stutzman.jpg",
+          "ties": ""
         },
         {
           "name": "James R. Baird",
           "position": "IN-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,494 direct",
-          "image": "images/james_r_baird.jpg"
+          "aipac": "$25,859 career",
+          "image": "images/james_r_baird.jpg",
+          "ties": ""
         },
         {
           "name": "Victoria Spartz",
           "position": "IN-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/victoria_spartz.jpg"
+          "aipac": "$120,891 career",
+          "image": "images/victoria_spartz.jpg",
+          "ties": ""
         },
         {
           "name": "Jefferson Shreve",
           "position": "IN-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/jefferson_shreve.jpg"
+          "aipac": "$36,094 career",
+          "image": "images/jefferson_shreve.jpg",
+          "ties": ""
         },
         {
           "name": "André Carson",
           "position": "IN-7",
           "party": "Democrat",
           "religion": "Muslim",
-          "aipac": "$0",
-          "image": "images/andre_carson.jpg"
+          "aipac": "$29,630 career",
+          "image": "images/andre_carson.jpg",
+          "ties": "Muslim"
         },
         {
           "name": "Mark B. Messmer",
           "position": "IN-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/mark_b_messmer.jpg"
+          "aipac": "$1,408,469 career",
+          "image": "images/mark_b_messmer.jpg",
+          "ties": ""
         },
         {
           "name": "Erin Houchin",
           "position": "IN-9",
           "party": "Republican",
           "religion": "Restorationism",
-          "aipac": "$4,994 direct",
-          "image": "images/erin_houchin.jpg"
+          "aipac": "$68,886 career",
+          "image": "images/erin_houchin.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1335,32 +1494,36 @@
           "position": "IA-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$23,894 direct",
-          "image": "images/mariannette_miller_meeks.jpg"
+          "aipac": "$544,802 career",
+          "image": "images/mariannette_miller_meeks.jpg",
+          "ties": ""
         },
         {
           "name": "Ashley Hinson",
           "position": "IA-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/ashley_hinson.jpg"
+          "aipac": "$238,055 career",
+          "image": "images/ashley_hinson.jpg",
+          "ties": ""
         },
         {
           "name": "Zachary Nunn",
           "position": "IA-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/zachary_nunn.jpg"
+          "aipac": "$340,736 career",
+          "image": "images/zachary_nunn.jpg",
+          "ties": ""
         },
         {
           "name": "Randy Feenstra",
           "position": "IA-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,900 direct",
-          "image": "images/randy_feenstra.jpg"
+          "aipac": "$136,509 career",
+          "image": "images/randy_feenstra.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1371,32 +1534,36 @@
           "position": "KS-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$29,994 direct",
-          "image": "images/tracey_mann.jpg"
+          "aipac": "$139,785 career",
+          "image": "images/tracey_mann.jpg",
+          "ties": ""
         },
         {
           "name": "Derek Schmidt",
           "position": "KS-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/derek_schmidt.jpg"
+          "aipac": "$106,185 career",
+          "image": "images/derek_schmidt.jpg",
+          "ties": ""
         },
         {
           "name": "Sharice Davids",
           "position": "KS-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$12,900 direct",
-          "image": "images/sharice_davids.jpg"
+          "aipac": "$348,901 career",
+          "image": "images/sharice_davids.jpg",
+          "ties": ""
         },
         {
           "name": "Ron Estes",
           "position": "KS-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/ron_estes.jpg"
+          "aipac": "$169,582 career",
+          "image": "images/ron_estes.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1407,48 +1574,54 @@
           "position": "KY-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$10,894 direct",
-          "image": "images/james_comer.jpg"
+          "aipac": "$87,301 career",
+          "image": "images/james_comer.jpg",
+          "ties": ""
         },
         {
           "name": "Brett Guthrie",
           "position": "KY-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/brett_guthrie.jpg"
+          "aipac": "$51,871 career",
+          "image": "images/brett_guthrie.jpg",
+          "ties": ""
         },
         {
           "name": "Morgan McGarvey",
           "position": "KY-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$12,900 direct",
-          "image": "images/morgan_mcgarvey.jpg"
+          "aipac": "$177,360 career",
+          "image": "images/morgan_mcgarvey.jpg",
+          "ties": ""
         },
         {
           "name": "Thomas Massie",
           "position": "KY-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$3,894,889 UDP against",
-          "image": "images/thomas_massie.jpg"
+          "aipac": "$0 career",
+          "image": "images/thomas_massie.jpg",
+          "ties": ""
         },
         {
           "name": "Harold Rogers",
           "position": "KY-5",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$17,094 direct",
-          "image": "images/harold_rogers.jpg"
+          "aipac": "$121,013 career",
+          "image": "images/harold_rogers.jpg",
+          "ties": ""
         },
         {
           "name": "Andy Barr",
           "position": "KY-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "-$1,900 direct",
-          "image": "images/andy_barr.jpg"
+          "aipac": "$609,527 career",
+          "image": "images/andy_barr.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1459,48 +1632,54 @@
           "position": "LA-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,594 direct",
-          "image": "images/steve_scalise.jpg"
+          "aipac": "$1,472,282 career",
+          "image": "images/steve_scalise.jpg",
+          "ties": ""
         },
         {
           "name": "Troy A. Carter",
           "position": "LA-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$19,400 direct",
-          "image": "images/troy_a_carter.jpg"
+          "aipac": "$82,837 career",
+          "image": "images/troy_a_carter.jpg",
+          "ties": ""
         },
         {
           "name": "Clay Higgins",
           "position": "LA-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$15,000 direct",
-          "image": "images/clay_higgins.jpg"
+          "aipac": "$19,546 career",
+          "image": "images/clay_higgins.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Johnson",
           "position": "LA-4",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$24,994 direct",
-          "image": "images/mike_johnson.jpg"
+          "aipac": "$1,680,116 career",
+          "image": "images/mike_johnson.jpg",
+          "ties": ""
         },
         {
           "name": "Julia Letlow",
           "position": "LA-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/julia_letlow.jpg"
+          "aipac": "$118,646 career",
+          "image": "images/julia_letlow.jpg",
+          "ties": ""
         },
         {
           "name": "Cleo Fields",
           "position": "LA-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/cleo_fields.jpg"
+          "aipac": "$12,200 career",
+          "image": "images/cleo_fields.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1511,16 +1690,18 @@
           "position": "ME-1",
           "party": "Democrat",
           "religion": "Lutheran",
-          "aipac": "$0",
-          "image": "images/chellie_pingree.jpg"
+          "aipac": "$72,251 career",
+          "image": "images/chellie_pingree.jpg",
+          "ties": ""
         },
         {
           "name": "Jared F. Golden",
           "position": "ME-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/jared_f_golden.jpg"
+          "aipac": "$1,591,524 career",
+          "image": "images/jared_f_golden.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1531,64 +1712,72 @@
           "position": "MD-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/andy_harris.jpg"
+          "aipac": "$150,879 career",
+          "image": "images/andy_harris.jpg",
+          "ties": ""
         },
         {
           "name": "Johnny Olszewski, Jr.",
           "position": "MD-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/johnny_olszewski_jr.jpg"
+          "aipac": "$88,328 career",
+          "image": "images/johnny_olszewski_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Sarah Elfreth",
           "position": "MD-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$5,000 direct · $4,179,711 UDP for",
-          "image": "images/sarah_elfreth.jpg"
+          "aipac": "$4,358,227 career",
+          "image": "images/sarah_elfreth.jpg",
+          "ties": ""
         },
         {
           "name": "Glenn Ivey",
           "position": "MD-4",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/glenn_ivey.jpg"
+          "aipac": "$1,079,525 career",
+          "image": "images/glenn_ivey.jpg",
+          "ties": ""
         },
         {
           "name": "Steny H. Hoyer",
           "position": "MD-5",
           "party": "Democrat",
           "religion": "Baptist",
-          "aipac": "$14,194 direct",
-          "image": "images/steny_h_hoyer.jpg"
+          "aipac": "$1,459,050 career",
+          "image": "images/steny_h_hoyer.jpg",
+          "ties": ""
         },
         {
           "name": "April McClain Delaney",
           "position": "MD-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/april_mcclain_delaney.jpg"
+          "aipac": "$267,386 career",
+          "image": "images/april_mcclain_delaney.jpg",
+          "ties": ""
         },
         {
           "name": "Kweisi Mfume",
           "position": "MD-7",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$29,994 direct",
-          "image": "images/kweisi_mfume.jpg"
+          "aipac": "$262,566 career",
+          "image": "images/kweisi_mfume.jpg",
+          "ties": ""
         },
         {
           "name": "Jamie Raskin",
           "position": "MD-8",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/jamie_raskin.jpg"
+          "religion": "Jewish",
+          "aipac": "$189,629 career",
+          "image": "images/jamie_raskin.jpg",
+          "ties": "Jewish"
         }
       ]
     },
@@ -1599,72 +1788,81 @@
           "position": "MA-1",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$19,994 direct",
-          "image": "images/richard_e_neal.jpg"
+          "aipac": "$170,884 career",
+          "image": "images/richard_e_neal.jpg",
+          "ties": ""
         },
         {
           "name": "James P. McGovern",
           "position": "MA-2",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/james_p_mcgovern.jpg"
+          "aipac": "$87,767 career",
+          "image": "images/james_p_mcgovern.jpg",
+          "ties": ""
         },
         {
           "name": "Lori Trahan",
           "position": "MA-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/lori_trahan.jpg"
+          "aipac": "$86,303 career",
+          "image": "images/lori_trahan.jpg",
+          "ties": ""
         },
         {
           "name": "Jake Auchincloss",
           "position": "MA-4",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$17,994 direct",
-          "image": "images/jake_auchincloss.jpg"
+          "religion": "Jewish",
+          "aipac": "$1,426,877 career",
+          "image": "images/jake_auchincloss.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Katherine M. Clark",
           "position": "MA-5",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$14,494 direct",
-          "image": "images/katherine_m_clark.jpg"
+          "aipac": "$1,448,439 career",
+          "image": "images/katherine_m_clark.jpg",
+          "ties": ""
         },
         {
           "name": "Seth Moulton",
           "position": "MA-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "-$22,301 direct",
-          "image": "images/seth_moulton.jpg"
+          "aipac": "$263,732 career",
+          "image": "images/seth_moulton.jpg",
+          "ties": ""
         },
         {
           "name": "Ayanna Pressley",
           "position": "MA-7",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/ayanna_pressley.jpg"
+          "aipac": "$0 career · no pro-Israel PAC money on file",
+          "image": "images/ayanna_pressley.jpg",
+          "ties": ""
         },
         {
           "name": "Stephen F. Lynch",
           "position": "MA-8",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/stephen_f_lynch.jpg"
+          "aipac": "$16,800 career",
+          "image": "images/stephen_f_lynch.jpg",
+          "ties": ""
         },
         {
           "name": "William R. Keating",
           "position": "MA-9",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/william_r_keating.jpg"
+          "aipac": "$136,492 career",
+          "image": "images/william_r_keating.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1675,104 +1873,117 @@
           "position": "MI-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$18,494 direct",
-          "image": "images/jack_bergman.jpg"
+          "aipac": "$196,834 career",
+          "image": "images/jack_bergman.jpg",
+          "ties": ""
         },
         {
           "name": "John R. Moolenaar",
           "position": "MI-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$25,994 direct",
-          "image": "images/john_r_moolenaar.jpg"
+          "aipac": "$137,813 career",
+          "image": "images/john_r_moolenaar.jpg",
+          "ties": ""
         },
         {
           "name": "Hillary J. Scholten",
           "position": "MI-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$31,884 direct",
-          "image": "images/hillary_j_scholten.jpg"
+          "aipac": "$577,330 career",
+          "image": "images/hillary_j_scholten.jpg",
+          "ties": ""
         },
         {
           "name": "Bill Huizenga",
           "position": "MI-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/bill_huizenga.jpg"
+          "aipac": "$179,189 career",
+          "image": "images/bill_huizenga.jpg",
+          "ties": ""
         },
         {
           "name": "Tim Walberg",
           "position": "MI-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/tim_walberg.jpg"
+          "aipac": "$372,236 career",
+          "image": "images/tim_walberg.jpg",
+          "ties": ""
         },
         {
           "name": "Debbie Dingell",
           "position": "MI-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/debbie_dingell.jpg"
+          "aipac": "$53,324 career",
+          "image": "images/debbie_dingell.jpg",
+          "ties": ""
         },
         {
           "name": "Tom Barrett",
           "position": "MI-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$4,994 direct",
-          "image": "images/tom_barrett.jpg"
+          "aipac": "$193,603 career",
+          "image": "images/tom_barrett.jpg",
+          "ties": ""
         },
         {
           "name": "Kristen McDonald Rivet",
           "position": "MI-8",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/kristen_mcdonald_rivet.jpg"
+          "aipac": "$376,218 career",
+          "image": "images/kristen_mcdonald_rivet.jpg",
+          "ties": ""
         },
         {
           "name": "Lisa C. McClain",
           "position": "MI-9",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$24,994 direct",
-          "image": "images/lisa_c_mcclain.jpg"
+          "aipac": "$361,938 career",
+          "image": "images/lisa_c_mcclain.jpg",
+          "ties": ""
         },
         {
           "name": "John James",
           "position": "MI-10",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/john_james.jpg"
+          "aipac": "$467,202 career",
+          "image": "images/john_james.jpg",
+          "ties": ""
         },
         {
           "name": "Haley M. Stevens",
           "position": "MI-11",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$22,100 direct · $3,869,083 UDP for",
-          "image": "images/haley_m_stevens.jpg"
+          "aipac": "$16,769,728 career",
+          "image": "images/haley_m_stevens.jpg",
+          "ties": ""
         },
         {
           "name": "Rashida Tlaib",
           "position": "MI-12",
           "party": "Democrat",
           "religion": "Muslim",
-          "aipac": "$0",
-          "image": "images/rashida_tlaib.jpg"
+          "aipac": "$5,971 career",
+          "image": "images/rashida_tlaib.jpg",
+          "ties": "Muslim"
         },
         {
           "name": "Shri Thanedar",
           "position": "MI-13",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$14,994 direct · $1,428,678 UDP against",
-          "image": "images/shri_thanedar.jpg"
+          "aipac": "$873,970 career",
+          "image": "images/shri_thanedar.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1783,64 +1994,72 @@
           "position": "MN-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/brad_finstad.jpg"
+          "aipac": "$76,810 career",
+          "image": "images/brad_finstad.jpg",
+          "ties": ""
         },
         {
           "name": "Angie Craig",
           "position": "MN-2",
           "party": "Democrat",
           "religion": "Lutheran",
-          "aipac": "$0",
-          "image": "images/angie_craig.jpg"
+          "aipac": "$990,366 career",
+          "image": "images/angie_craig.jpg",
+          "ties": ""
         },
         {
           "name": "Kelly Morrison",
           "position": "MN-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/kelly_morrison.jpg"
+          "aipac": "$0 career",
+          "image": "images/kelly_morrison.jpg",
+          "ties": ""
         },
         {
           "name": "Betty McCollum",
           "position": "MN-4",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/betty_mccollum.jpg"
+          "aipac": "$68,338 career",
+          "image": "images/betty_mccollum.jpg",
+          "ties": ""
         },
         {
           "name": "Ilhan Omar",
           "position": "MN-5",
           "party": "Democrat",
           "religion": "Muslim",
-          "aipac": "$0",
-          "image": "images/ilhan_omar.jpg"
+          "aipac": "$0 career",
+          "image": "images/ilhan_omar.jpg",
+          "ties": "Muslim"
         },
         {
           "name": "Tom Emmer",
           "position": "MN-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$30,494 direct",
-          "image": "images/tom_emmer.jpg"
+          "aipac": "$1,357,936 career",
+          "image": "images/tom_emmer.jpg",
+          "ties": ""
         },
         {
           "name": "Michelle Fischbach",
           "position": "MN-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/michelle_fischbach.jpg"
+          "aipac": "$111,045 career",
+          "image": "images/michelle_fischbach.jpg",
+          "ties": ""
         },
         {
           "name": "Pete Stauber",
           "position": "MN-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/pete_stauber.jpg"
+          "aipac": "$108,908 career",
+          "image": "images/pete_stauber.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1851,32 +2070,36 @@
           "position": "MS-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/trent_kelly.jpg"
+          "aipac": "$57,103 career",
+          "image": "images/trent_kelly.jpg",
+          "ties": ""
         },
         {
           "name": "Bennie G. Thompson",
           "position": "MS-2",
           "party": "Democrat",
           "religion": "Methodist",
-          "aipac": "$0",
-          "image": "images/bennie_g_thompson.jpg"
+          "aipac": "$21,050 career",
+          "image": "images/bennie_g_thompson.jpg",
+          "ties": ""
         },
         {
           "name": "Michael Guest",
           "position": "MS-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/michael_guest.jpg"
+          "aipac": "$41,770 career",
+          "image": "images/michael_guest.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Ezell",
           "position": "MS-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/mike_ezell.jpg"
+          "aipac": "$55,265 career",
+          "image": "images/mike_ezell.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1887,64 +2110,72 @@
           "position": "MO-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$23,626 direct · $4,041,895 UDP for",
-          "image": "images/wesley_bell.jpg"
+          "aipac": "$15,358,370 career",
+          "image": "images/wesley_bell.jpg",
+          "ties": ""
         },
         {
           "name": "Ann Wagner",
           "position": "MO-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,194 direct",
-          "image": "images/ann_wagner.jpg"
+          "aipac": "$473,300 career",
+          "image": "images/ann_wagner.jpg",
+          "ties": ""
         },
         {
           "name": "Robert F. Onder, Jr.",
           "position": "MO-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/robert_f_onder_jr.jpg"
+          "aipac": "$48,279 career",
+          "image": "images/robert_f_onder_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Mark Alford",
           "position": "MO-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/mark_alford.jpg"
+          "aipac": "$100,598 career",
+          "image": "images/mark_alford.jpg",
+          "ties": ""
         },
         {
           "name": "Emanuel Cleaver",
           "position": "MO-5",
           "party": "Democrat",
           "religion": "Methodist",
-          "aipac": "$10,500 direct",
-          "image": "images/emanuel_cleaver.jpg"
+          "aipac": "$95,782 career",
+          "image": "images/emanuel_cleaver.jpg",
+          "ties": ""
         },
         {
           "name": "Sam Graves",
           "position": "MO-6",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$27,094 direct",
-          "image": "images/sam_graves.jpg"
+          "aipac": "$115,506 career",
+          "image": "images/sam_graves.jpg",
+          "ties": ""
         },
         {
           "name": "Eric Burlison",
           "position": "MO-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/eric_burlison.jpg"
+          "aipac": "$47,249 career",
+          "image": "images/eric_burlison.jpg",
+          "ties": ""
         },
         {
           "name": "Jason Smith",
           "position": "MO-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/jason_smith.jpg"
+          "aipac": "$185,604 career",
+          "image": "images/jason_smith.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1955,16 +2186,18 @@
           "position": "MT-1",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/ryan_k_zinke.jpg"
+          "aipac": "$39,312 career",
+          "image": "images/ryan_k_zinke.jpg",
+          "ties": ""
         },
         {
           "name": "Troy Downing",
           "position": "MT-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/troy_downing.jpg"
+          "aipac": "$57,614 career",
+          "image": "images/troy_downing.jpg",
+          "ties": ""
         }
       ]
     },
@@ -1975,24 +2208,27 @@
           "position": "NE-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$29,994 direct",
-          "image": "images/mike_flood.jpg"
+          "aipac": "$91,423 career",
+          "image": "images/mike_flood.jpg",
+          "ties": ""
         },
         {
           "name": "Don Bacon",
           "position": "NE-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$1,100 direct",
-          "image": "images/don_bacon.jpg"
+          "aipac": "$1,742,739 career",
+          "image": "images/don_bacon.jpg",
+          "ties": ""
         },
         {
           "name": "Adrian Smith",
           "position": "NE-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,995 direct",
-          "image": "images/adrian_smith.jpg"
+          "aipac": "$63,958 career",
+          "image": "images/adrian_smith.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2003,32 +2239,36 @@
           "position": "NV-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$22,853 direct",
-          "image": "images/dina_titus.jpg"
+          "aipac": "$314,315 career",
+          "image": "images/dina_titus.jpg",
+          "ties": ""
         },
         {
           "name": "Mark E. Amodei",
           "position": "NV-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$4,394 direct",
-          "image": "images/mark_e_amodei.jpg"
+          "aipac": "$109,101 career",
+          "image": "images/mark_e_amodei.jpg",
+          "ties": ""
         },
         {
           "name": "Susie Lee",
           "position": "NV-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$17,853 direct",
-          "image": "images/susie_lee.jpg"
+          "aipac": "$1,189,915 career",
+          "image": "images/susie_lee.jpg",
+          "ties": ""
         },
         {
           "name": "Steven Horsford",
           "position": "NV-4",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/steven_horsford.jpg"
+          "aipac": "$313,683 career",
+          "image": "images/steven_horsford.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2039,16 +2279,18 @@
           "position": "NH-1",
           "party": "Democrat",
           "religion": "Eastern Orthodox",
-          "aipac": "$18,159 direct",
-          "image": "images/chris_pappas.jpg"
+          "aipac": "$1,182,416 career",
+          "image": "images/chris_pappas.jpg",
+          "ties": ""
         },
         {
           "name": "Maggie Goodlander",
           "position": "NH-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/maggie_goodlander.jpg"
+          "aipac": "$440,727 career",
+          "image": "images/maggie_goodlander.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2059,96 +2301,108 @@
           "position": "NJ-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$16,894 direct",
-          "image": "images/donald_norcross.jpg"
+          "aipac": "$455,346 career",
+          "image": "images/donald_norcross.jpg",
+          "ties": ""
         },
         {
           "name": "Jefferson Van Drew",
           "position": "NJ-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$27,894 direct",
-          "image": "images/jefferson_van_drew.jpg"
+          "aipac": "$88,927 career",
+          "image": "images/jefferson_van_drew.jpg",
+          "ties": ""
         },
         {
           "name": "Herbert C. Conaway, Jr.",
           "position": "NJ-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/herbert_c_conaway_jr.jpg"
+          "aipac": "$27,218 career",
+          "image": "images/herbert_c_conaway_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Christopher H. Smith",
           "position": "NJ-4",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$27,894 direct",
-          "image": "images/christopher_h_smith.jpg"
+          "aipac": "$332,608 career",
+          "image": "images/christopher_h_smith.jpg",
+          "ties": ""
         },
         {
           "name": "Josh Gottheimer",
           "position": "NJ-5",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$88,624 direct",
-          "image": "images/josh_gottheimer.jpg"
+          "religion": "Jewish",
+          "aipac": "$3,396,743 career",
+          "image": "images/josh_gottheimer.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Frank Pallone, Jr.",
           "position": "NJ-6",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$22,894 direct",
-          "image": "images/frank_pallone_jr.jpg"
+          "aipac": "$410,408 career",
+          "image": "images/frank_pallone_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Thomas H. Kean, Jr.",
           "position": "NJ-7",
           "party": "Republican",
           "religion": "Episcopal",
-          "aipac": "$17,494 direct",
-          "image": "images/thomas_h_kean_jr.jpg"
+          "aipac": "$862,341 career",
+          "image": "images/thomas_h_kean_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Robert Menendez",
           "position": "NJ-8",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/robert_menendez.jpg"
+          "aipac": "$1,634,825 career",
+          "image": "images/robert_menendez.jpg",
+          "ties": ""
         },
         {
           "name": "Nellie Pou",
           "position": "NJ-9",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/nellie_pou.jpg"
+          "aipac": "$60,752 career",
+          "image": "images/nellie_pou.jpg",
+          "ties": ""
         },
         {
           "name": "LaMonica McIver",
           "position": "NJ-10",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/lamonica_mciver.jpg"
+          "aipac": "$0 career",
+          "image": "images/lamonica_mciver.jpg",
+          "ties": ""
         },
         {
           "name": "Analilia Mejia",
           "position": "NJ-11",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/analilia_mejia.jpg"
+          "aipac": "$15,510 career",
+          "image": "images/analilia_mejia.jpg",
+          "ties": ""
         },
         {
           "name": "Bonnie Watson Coleman",
           "position": "NJ-12",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/bonnie_watson_coleman.jpg"
+          "aipac": "$102,784 career",
+          "image": "images/bonnie_watson_coleman.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2159,24 +2413,27 @@
           "position": "NM-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/melanie_a_stansbury.jpg"
+          "aipac": "$59,925 career",
+          "image": "images/melanie_a_stansbury.jpg",
+          "ties": ""
         },
         {
           "name": "Gabe Vasquez",
           "position": "NM-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/gabe_vasquez.jpg"
+          "aipac": "$314,019 career",
+          "image": "images/gabe_vasquez.jpg",
+          "ties": ""
         },
         {
           "name": "Teresa Leger Fernandez",
           "position": "NM-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$7,900 direct",
-          "image": "images/teresa_leger_fernandez.jpg"
+          "aipac": "$166,315 career",
+          "image": "images/teresa_leger_fernandez.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2187,208 +2444,234 @@
           "position": "NY-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/nick_lalota.jpg"
+          "aipac": "$215,503 career",
+          "image": "images/nick_lalota.jpg",
+          "ties": ""
         },
         {
           "name": "Andrew R. Garbarino",
           "position": "NY-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$29,994 direct",
-          "image": "images/andrew_r_garbarino.jpg"
+          "aipac": "$439,328 career",
+          "image": "images/andrew_r_garbarino.jpg",
+          "ties": ""
         },
         {
           "name": "Thomas R. Suozzi",
           "position": "NY-3",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$19,994 direct",
-          "image": "images/thomas_r_suozzi.jpg"
+          "aipac": "$926,567 career",
+          "image": "images/thomas_r_suozzi.jpg",
+          "ties": ""
         },
         {
           "name": "Laura Gillen",
           "position": "NY-4",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/laura_gillen.jpg"
+          "aipac": "$708,888 career",
+          "image": "images/laura_gillen.jpg",
+          "ties": ""
         },
         {
           "name": "Gregory W. Meeks",
           "position": "NY-5",
           "party": "Democrat",
           "religion": "AME",
-          "aipac": "$29,994 direct",
-          "image": "images/gregory_w_meeks.jpg"
+          "aipac": "$1,388,811 career",
+          "image": "images/gregory_w_meeks.jpg",
+          "ties": ""
         },
         {
           "name": "Grace Meng",
           "position": "NY-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$18,694 direct",
-          "image": "images/grace_meng.jpg"
+          "aipac": "$1,305,302 career",
+          "image": "images/grace_meng.jpg",
+          "ties": ""
         },
         {
           "name": "Nydia M. Velázquez",
           "position": "NY-7",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/nydia_m_velazquez.jpg"
+          "aipac": "$79,478 career",
+          "image": "images/nydia_m_velazquez.jpg",
+          "ties": ""
         },
         {
           "name": "Hakeem S. Jeffries",
           "position": "NY-8",
           "party": "Democrat",
           "religion": "Baptist",
-          "aipac": "$11,694 direct",
-          "image": "images/hakeem_s_jeffries.jpg"
+          "aipac": "$2,584,798 career",
+          "image": "images/hakeem_s_jeffries.jpg",
+          "ties": ""
         },
         {
           "name": "Yvette D. Clarke",
           "position": "NY-9",
           "party": "Democrat",
           "religion": "Episcopal",
-          "aipac": "$4,994 direct",
-          "image": "images/yvette_d_clarke.jpg"
+          "aipac": "$137,861 career",
+          "image": "images/yvette_d_clarke.jpg",
+          "ties": ""
         },
         {
           "name": "Daniel S. Goldman",
           "position": "NY-10",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/daniel_s_goldman.jpg"
+          "religion": "Jewish",
+          "aipac": "$1,038,280 career",
+          "image": "images/daniel_s_goldman.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Nicole Malliotakis",
           "position": "NY-11",
           "party": "Republican",
           "religion": "Eastern Orthodox",
-          "aipac": "$19,194 direct",
-          "image": "images/nicole_malliotakis.jpg"
+          "aipac": "$473,798 career",
+          "image": "images/nicole_malliotakis.jpg",
+          "ties": ""
         },
         {
           "name": "Jerrold Nadler",
           "position": "NY-12",
           "party": "Democrat",
           "religion": "Jewish",
-          "aipac": "$7,900 direct",
-          "image": "images/jerrold_nadler.jpg"
+          "aipac": "$360,215 career",
+          "image": "images/jerrold_nadler.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Adriano Espaillat",
           "position": "NY-13",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$19,194 direct",
-          "image": "images/adriano_espaillat.jpg"
+          "aipac": "$617,058 career",
+          "image": "images/adriano_espaillat.jpg",
+          "ties": ""
         },
         {
           "name": "Alexandria Ocasio-Cortez",
           "position": "NY-14",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/alexandria_ocasio_cortez.jpg"
+          "aipac": "$0 career · no pro-Israel PAC money on file",
+          "image": "images/alexandria_ocasio_cortez.jpg",
+          "ties": ""
         },
         {
           "name": "Ritchie Torres",
           "position": "NY-15",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$30,494 direct",
-          "image": "images/ritchie_torres.jpg"
+          "aipac": "$2,920,378 career",
+          "image": "images/ritchie_torres.jpg",
+          "ties": ""
         },
         {
           "name": "George Latimer",
           "position": "NY-16",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$11,994 direct · $4,643,833 UDP for · $84,325 UDP against",
-          "image": "images/george_latimer.jpg"
+          "aipac": "$18,929,197 career",
+          "image": "images/george_latimer.jpg",
+          "ties": ""
         },
         {
           "name": "Michael Lawler",
           "position": "NY-17",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,494 direct",
-          "image": "images/michael_lawler.jpg"
+          "aipac": "$1,835,126 career",
+          "image": "images/michael_lawler.jpg",
+          "ties": ""
         },
         {
           "name": "Patrick Ryan",
           "position": "NY-18",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "-$10,006 direct",
-          "image": "images/patrick_ryan.jpg"
+          "aipac": "$675,984 career",
+          "image": "images/patrick_ryan.jpg",
+          "ties": ""
         },
         {
           "name": "Josh Riley",
           "position": "NY-19",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$40,175 direct",
-          "image": "images/josh_riley.jpg"
+          "aipac": "$400,878 career",
+          "image": "images/josh_riley.jpg",
+          "ties": ""
         },
         {
           "name": "Paul Tonko",
           "position": "NY-20",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/paul_tonko.jpg"
+          "aipac": "$60,890 career",
+          "image": "images/paul_tonko.jpg",
+          "ties": ""
         },
         {
           "name": "Elise M. Stefanik",
           "position": "NY-21",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$14,194 direct",
-          "image": "images/elise_m_stefanik.jpg"
+          "aipac": "$1,160,615 career",
+          "image": "images/elise_m_stefanik.jpg",
+          "ties": ""
         },
         {
           "name": "John W. Mannion",
           "position": "NY-22",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/john_w_mannion.jpg"
+          "aipac": "$166,532 career",
+          "image": "images/john_w_mannion.jpg",
+          "ties": ""
         },
         {
           "name": "Nicholas A. Langworthy",
           "position": "NY-23",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/nicholas_a_langworthy.jpg"
+          "aipac": "$169,397 career",
+          "image": "images/nicholas_a_langworthy.jpg",
+          "ties": ""
         },
         {
           "name": "Claudia Tenney",
           "position": "NY-24",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/claudia_tenney.jpg"
+          "aipac": "$302,552 career",
+          "image": "images/claudia_tenney.jpg",
+          "ties": ""
         },
         {
           "name": "Joseph D. Morelle",
           "position": "NY-25",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/joseph_d_morelle.jpg"
+          "aipac": "$330,714 career",
+          "image": "images/joseph_d_morelle.jpg",
+          "ties": ""
         },
         {
           "name": "Timothy M. Kennedy",
           "position": "NY-26",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$14,994 direct",
-          "image": "images/timothy_m_kennedy.jpg"
+          "aipac": "$204,084 career",
+          "image": "images/timothy_m_kennedy.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2399,112 +2682,126 @@
           "position": "NC-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$27,894 direct · $2,102,636 UDP for",
-          "image": "images/donald_g_davis.jpg"
+          "aipac": "$4,977,688 career",
+          "image": "images/donald_g_davis.jpg",
+          "ties": ""
         },
         {
           "name": "Deborah K. Ross",
           "position": "NC-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$12,900 direct",
-          "image": "images/deborah_k_ross.jpg"
+          "aipac": "$235,096 career",
+          "image": "images/deborah_k_ross.jpg",
+          "ties": ""
         },
         {
           "name": "Gregory F. Murphy",
           "position": "NC-3",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$22,894 direct",
-          "image": "images/gregory_f_murphy.jpg"
+          "aipac": "$118,222 career",
+          "image": "images/gregory_f_murphy.jpg",
+          "ties": ""
         },
         {
           "name": "Valerie P. Foushee",
           "position": "NC-4",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$7,900 direct · $2,105,214 UDP for",
-          "image": "images/valerie_p_foushee.jpg"
+          "aipac": "$3,011,620 career",
+          "image": "images/valerie_p_foushee.jpg",
+          "ties": ""
         },
         {
           "name": "Virginia Foxx",
           "position": "NC-5",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$22,894 direct",
-          "image": "images/virginia_foxx.jpg"
+          "aipac": "$413,533 career",
+          "image": "images/virginia_foxx.jpg",
+          "ties": ""
         },
         {
           "name": "Addison P. McDowell",
           "position": "NC-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/addison_p_mcdowell.jpg"
+          "aipac": "$71,237 career",
+          "image": "images/addison_p_mcdowell.jpg",
+          "ties": ""
         },
         {
           "name": "David Rouzer",
           "position": "NC-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/david_rouzer.jpg"
+          "aipac": "$67,153 career",
+          "image": "images/david_rouzer.jpg",
+          "ties": ""
         },
         {
           "name": "Mark Harris",
           "position": "NC-8",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$14,994 direct",
-          "image": "images/mark_harris.jpg"
+          "aipac": "$56,818 career",
+          "image": "images/mark_harris.jpg",
+          "ties": ""
         },
         {
           "name": "Richard Hudson",
           "position": "NC-9",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/richard_hudson.jpg"
+          "aipac": "$323,262 career",
+          "image": "images/richard_hudson.jpg",
+          "ties": ""
         },
         {
           "name": "Pat Harrigan",
           "position": "NC-10",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/pat_harrigan.jpg"
+          "aipac": "$45,519 career",
+          "image": "images/pat_harrigan.jpg",
+          "ties": ""
         },
         {
           "name": "Chuck Edwards",
           "position": "NC-11",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$29,994 direct",
-          "image": "images/chuck_edwards.jpg"
+          "aipac": "$114,269 career",
+          "image": "images/chuck_edwards.jpg",
+          "ties": ""
         },
         {
           "name": "Alma S. Adams",
           "position": "NC-12",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$7,900 direct",
-          "image": "images/alma_s_adams.jpg"
+          "aipac": "$27,383 career",
+          "image": "images/alma_s_adams.jpg",
+          "ties": ""
         },
         {
           "name": "Brad Knott",
           "position": "NC-13",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$15,000 direct",
-          "image": "images/brad_knott.jpg"
+          "aipac": "$20,515 career",
+          "image": "images/brad_knott.jpg",
+          "ties": ""
         },
         {
           "name": "Tim Moore",
           "position": "NC-14",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/tim_moore.jpg"
+          "aipac": "$36,730 career",
+          "image": "images/tim_moore.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2515,8 +2812,9 @@
           "position": "ND-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$15,000 direct",
-          "image": "images/julie_fedorchak.jpg"
+          "aipac": "$83,988 career",
+          "image": "images/julie_fedorchak.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2526,121 +2824,136 @@
           "name": "Greg Landsman",
           "position": "OH-1",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/greg_landsman.jpg"
+          "religion": "Jewish",
+          "aipac": "$1,469,969 career",
+          "image": "images/greg_landsman.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "David J. Taylor",
           "position": "OH-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/david_j_taylor.jpg"
+          "aipac": "$48,591 career",
+          "image": "images/david_j_taylor.jpg",
+          "ties": ""
         },
         {
           "name": "Joyce Beatty",
           "position": "OH-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$4,594 direct",
-          "image": "images/joyce_beatty.jpg"
+          "aipac": "$265,320 career",
+          "image": "images/joyce_beatty.jpg",
+          "ties": ""
         },
         {
           "name": "Jim Jordan",
           "position": "OH-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$27,894 direct",
-          "image": "images/jim_jordan.jpg"
+          "aipac": "$400,390 career",
+          "image": "images/jim_jordan.jpg",
+          "ties": ""
         },
         {
           "name": "Robert E. Latta",
           "position": "OH-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/robert_e_latta.jpg"
+          "aipac": "$95,132 career",
+          "image": "images/robert_e_latta.jpg",
+          "ties": ""
         },
         {
           "name": "Michael A. Rulli",
           "position": "OH-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/michael_a_rulli.jpg"
+          "aipac": "$62,273 career",
+          "image": "images/michael_a_rulli.jpg",
+          "ties": ""
         },
         {
           "name": "Max L. Miller",
           "position": "OH-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/max_l_miller.jpg"
+          "aipac": "$704,755 career",
+          "image": "images/max_l_miller.jpg",
+          "ties": ""
         },
         {
           "name": "Warren Davidson",
           "position": "OH-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/warren_davidson.jpg"
+          "aipac": "$23,700 career",
+          "image": "images/warren_davidson.jpg",
+          "ties": ""
         },
         {
           "name": "Marcy Kaptur",
           "position": "OH-9",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/marcy_kaptur.jpg"
+          "aipac": "$335,438 career",
+          "image": "images/marcy_kaptur.jpg",
+          "ties": ""
         },
         {
           "name": "Michael R. Turner",
           "position": "OH-10",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "$17,894 direct",
-          "image": "images/michael_r_turner.jpg"
+          "aipac": "$327,600 career",
+          "image": "images/michael_r_turner.jpg",
+          "ties": ""
         },
         {
           "name": "Shontel M. Brown",
           "position": "OH-11",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$20,394 direct · $80,539 UDP for",
-          "image": "images/shontel_m_brown.jpg"
+          "aipac": "$5,312,168 career",
+          "image": "images/shontel_m_brown.jpg",
+          "ties": ""
         },
         {
           "name": "Troy Balderson",
           "position": "OH-12",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$5,494 direct",
-          "image": "images/troy_balderson.jpg"
+          "aipac": "$130,884 career",
+          "image": "images/troy_balderson.jpg",
+          "ties": ""
         },
         {
           "name": "Emilia Strong Sykes",
           "position": "OH-13",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/emilia_strong_sykes.jpg"
+          "aipac": "$830,393 career",
+          "image": "images/emilia_strong_sykes.jpg",
+          "ties": ""
         },
         {
           "name": "David P. Joyce",
           "position": "OH-14",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/david_p_joyce.jpg"
+          "aipac": "$242,121 career",
+          "image": "images/david_p_joyce.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Carey",
           "position": "OH-15",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/mike_carey.jpg"
+          "aipac": "$140,195 career",
+          "image": "images/mike_carey.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2651,40 +2964,45 @@
           "position": "OK-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$29,994 direct",
-          "image": "images/kevin_hern.jpg"
+          "aipac": "$201,390 career",
+          "image": "images/kevin_hern.jpg",
+          "ties": ""
         },
         {
           "name": "Josh Brecheen",
           "position": "OK-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/josh_brecheen.jpg"
+          "aipac": "$49,402 career",
+          "image": "images/josh_brecheen.jpg",
+          "ties": ""
         },
         {
           "name": "Frank D. Lucas",
           "position": "OK-3",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$14,994 direct",
-          "image": "images/frank_d_lucas.jpg"
+          "aipac": "$24,609 career",
+          "image": "images/frank_d_lucas.jpg",
+          "ties": ""
         },
         {
           "name": "Tom Cole",
           "position": "OK-4",
           "party": "Republican",
           "religion": "Methodist",
-          "aipac": "$11,994 direct",
-          "image": "images/tom_cole.jpg"
+          "aipac": "$705,669 career",
+          "image": "images/tom_cole.jpg",
+          "ties": ""
         },
         {
           "name": "Stephanie I. Bice",
           "position": "OK-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$18,994 direct",
-          "image": "images/stephanie_i_bice.jpg"
+          "aipac": "$139,232 career",
+          "image": "images/stephanie_i_bice.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2694,49 +3012,55 @@
           "name": "Suzanne Bonamici",
           "position": "OR-1",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$2,000 direct",
-          "image": "images/suzanne_bonamici.jpg"
+          "religion": "Jewish",
+          "aipac": "$103,234 career",
+          "image": "images/suzanne_bonamici.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Cliff Bentz",
           "position": "OR-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/cliff_bentz.jpg"
+          "aipac": "$22,986 career",
+          "image": "images/cliff_bentz.jpg",
+          "ties": ""
         },
         {
           "name": "Maxine Dexter",
           "position": "OR-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/maxine_dexter.jpg"
+          "aipac": "$0 career",
+          "image": "images/maxine_dexter.jpg",
+          "ties": ""
         },
         {
           "name": "Val T. Hoyle",
           "position": "OR-4",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/val_t_hoyle.jpg"
+          "aipac": "$79,396 career",
+          "image": "images/val_t_hoyle.jpg",
+          "ties": ""
         },
         {
           "name": "Janelle S. Bynum",
           "position": "OR-5",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/janelle_s_bynum.jpg"
+          "aipac": "$163,344 career",
+          "image": "images/janelle_s_bynum.jpg",
+          "ties": ""
         },
         {
           "name": "Andrea Salinas",
           "position": "OR-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/andrea_salinas.jpg"
+          "aipac": "$346,184 career",
+          "image": "images/andrea_salinas.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2747,136 +3071,153 @@
           "position": "PA-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,594 direct",
-          "image": "images/brian_k_fitzpatrick.jpg"
+          "aipac": "$1,940,929 career",
+          "image": "images/brian_k_fitzpatrick.jpg",
+          "ties": ""
         },
         {
           "name": "Brendan F. Boyle",
           "position": "PA-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$19,094 direct",
-          "image": "images/brendan_f_boyle.jpg"
+          "aipac": "$611,751 career",
+          "image": "images/brendan_f_boyle.jpg",
+          "ties": ""
         },
         {
           "name": "Dwight Evans",
           "position": "PA-3",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/dwight_evans.jpg"
+          "aipac": "$44,749 career",
+          "image": "images/dwight_evans.jpg",
+          "ties": ""
         },
         {
           "name": "Madeleine Dean",
           "position": "PA-4",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/madeleine_dean.jpg"
+          "aipac": "$79,305 career",
+          "image": "images/madeleine_dean.jpg",
+          "ties": ""
         },
         {
           "name": "Mary Gay Scanlon",
           "position": "PA-5",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/mary_gay_scanlon.jpg"
+          "aipac": "$79,411 career",
+          "image": "images/mary_gay_scanlon.jpg",
+          "ties": ""
         },
         {
           "name": "Chrissy Houlahan",
           "position": "PA-6",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$7,100 direct",
-          "image": "images/chrissy_houlahan.jpg"
+          "religion": "Jewish",
+          "aipac": "$183,862 career",
+          "image": "images/chrissy_houlahan.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Ryan Mackenzie",
           "position": "PA-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/ryan_mackenzie.jpg"
+          "aipac": "$200,361 career",
+          "image": "images/ryan_mackenzie.jpg",
+          "ties": ""
         },
         {
           "name": "Robert P. Bresnahan, Jr.",
           "position": "PA-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/robert_p_bresnahan_jr.jpg"
+          "aipac": "$249,570 career",
+          "image": "images/robert_p_bresnahan_jr.jpg",
+          "ties": ""
         },
         {
           "name": "Daniel Meuser",
           "position": "PA-9",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/daniel_meuser.jpg"
+          "aipac": "$70,733 career",
+          "image": "images/daniel_meuser.jpg",
+          "ties": ""
         },
         {
           "name": "Scott Perry",
           "position": "PA-10",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$4,494 direct",
-          "image": "images/scott_perry.jpg"
+          "aipac": "$276,897 career",
+          "image": "images/scott_perry.jpg",
+          "ties": ""
         },
         {
           "name": "Lloyd Smucker",
           "position": "PA-11",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$27,894 direct",
-          "image": "images/lloyd_smucker.jpg"
+          "aipac": "$157,644 career",
+          "image": "images/lloyd_smucker.jpg",
+          "ties": ""
         },
         {
           "name": "Summer L. Lee",
           "position": "PA-12",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$3,273,947 UDP against",
-          "image": "images/summer_l_lee.jpg"
+          "aipac": "$89,928 career",
+          "image": "images/summer_l_lee.jpg",
+          "ties": ""
         },
         {
           "name": "John Joyce",
           "position": "PA-13",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/john_joyce.jpg"
+          "aipac": "$431 career",
+          "image": "images/john_joyce.jpg",
+          "ties": ""
         },
         {
           "name": "Guy Reschenthaler",
           "position": "PA-14",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,094 direct",
-          "image": "images/guy_reschenthaler.jpg"
+          "aipac": "$709,883 career",
+          "image": "images/guy_reschenthaler.jpg",
+          "ties": ""
         },
         {
           "name": "Glenn Thompson",
           "position": "PA-15",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/glenn_thompson.jpg"
+          "aipac": "$35,355 career",
+          "image": "images/glenn_thompson.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Kelly",
           "position": "PA-16",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,894 direct",
-          "image": "images/mike_kelly.jpg"
+          "aipac": "$95,499 career",
+          "image": "images/mike_kelly.jpg",
+          "ties": ""
         },
         {
           "name": "Christopher R. Deluzio",
           "position": "PA-17",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$1,000 direct",
-          "image": "images/christopher_r_deluzio.jpg"
+          "aipac": "$415,417 career",
+          "image": "images/christopher_r_deluzio.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2887,16 +3228,18 @@
           "position": "RI-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$15,994 direct",
-          "image": "images/gabe_amo.jpg"
+          "aipac": "$121,518 career",
+          "image": "images/gabe_amo.jpg",
+          "ties": ""
         },
         {
           "name": "Seth Magaziner",
           "position": "RI-2",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/seth_magaziner.jpg"
+          "religion": "Jewish",
+          "aipac": "$127,912 career",
+          "image": "images/seth_magaziner.jpg",
+          "ties": "Jewish"
         }
       ]
     },
@@ -2907,56 +3250,63 @@
           "position": "SC-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,800 direct",
-          "image": "images/nancy_mace.jpg"
+          "aipac": "$208,220 career",
+          "image": "images/nancy_mace.jpg",
+          "ties": ""
         },
         {
           "name": "Joe Wilson",
           "position": "SC-2",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "$20,394 direct",
-          "image": "images/joe_wilson.jpg"
+          "aipac": "$553,579 career",
+          "image": "images/joe_wilson.jpg",
+          "ties": ""
         },
         {
           "name": "Sheri Biggs",
           "position": "SC-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/sheri_biggs.jpg"
+          "aipac": "$22,823 career",
+          "image": "images/sheri_biggs.jpg",
+          "ties": ""
         },
         {
           "name": "William R. Timmons IV",
           "position": "SC-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/william_r_timmons_iv.jpg"
+          "aipac": "$108,416 career",
+          "image": "images/william_r_timmons_iv.jpg",
+          "ties": ""
         },
         {
           "name": "Ralph Norman",
           "position": "SC-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$7,900 direct",
-          "image": "images/ralph_norman.jpg"
+          "aipac": "$15,474 career",
+          "image": "images/ralph_norman.jpg",
+          "ties": ""
         },
         {
           "name": "James E. Clyburn",
           "position": "SC-6",
           "party": "Democrat",
           "religion": "AME",
-          "aipac": "$4,900 direct",
-          "image": "images/james_e_clyburn.jpg"
+          "aipac": "$226,473 career",
+          "image": "images/james_e_clyburn.jpg",
+          "ties": ""
         },
         {
           "name": "Russell Fry",
           "position": "SC-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/russell_fry.jpg"
+          "aipac": "$127,558 career",
+          "image": "images/russell_fry.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2967,8 +3317,9 @@
           "position": "SD-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$17,900 direct",
-          "image": "images/dusty_johnson.jpg"
+          "aipac": "$203,558 career",
+          "image": "images/dusty_johnson.jpg",
+          "ties": ""
         }
       ]
     },
@@ -2979,72 +3330,81 @@
           "position": "TN-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/diana_harshbarger.jpg"
+          "aipac": "$64,065 career",
+          "image": "images/diana_harshbarger.jpg",
+          "ties": ""
         },
         {
           "name": "Tim Burchett",
           "position": "TN-2",
           "party": "Republican",
           "religion": "Presbyterian",
-          "aipac": "$2,494 direct",
-          "image": "images/tim_burchett.jpg"
+          "aipac": "$51,080 career",
+          "image": "images/tim_burchett.jpg",
+          "ties": ""
         },
         {
           "name": "Charles J. \"Chuck\" Fleischmann",
           "position": "TN-3",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$24,994 direct",
-          "image": "images/charles_j_chuck_fleischmann.jpg"
+          "aipac": "$76,944 career",
+          "image": "images/charles_j_chuck_fleischmann.jpg",
+          "ties": ""
         },
         {
           "name": "Scott DesJarlais",
           "position": "TN-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$11,394 direct",
-          "image": "images/scott_desjarlais.jpg"
+          "aipac": "$53,249 career",
+          "image": "images/scott_desjarlais.jpg",
+          "ties": ""
         },
         {
           "name": "Andrew Ogles",
           "position": "TN-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/andrew_ogles.jpg"
+          "aipac": "$47,158 career",
+          "image": "images/andrew_ogles.jpg",
+          "ties": ""
         },
         {
           "name": "John W. Rose",
           "position": "TN-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$20,000 direct",
-          "image": "images/john_w_rose.jpg"
+          "aipac": "$55,747 career",
+          "image": "images/john_w_rose.jpg",
+          "ties": ""
         },
         {
           "name": "Matt Van Epps",
           "position": "TN-7",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$13,494 direct",
-          "image": "images/matt_van_epps.jpg"
+          "aipac": "$21,778 career",
+          "image": "images/matt_van_epps.jpg",
+          "ties": ""
         },
         {
           "name": "David Kustoff",
           "position": "TN-8",
           "party": "Republican",
           "religion": "Jewish",
-          "aipac": "$24,994 direct",
-          "image": "images/david_kustoff.jpg"
+          "aipac": "$341,254 career",
+          "image": "images/david_kustoff.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Steve Cohen",
           "position": "TN-9",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/steve_cohen.jpg"
+          "aipac": "$144,568 career",
+          "image": "images/steve_cohen.jpg",
+          "ties": ""
         }
       ]
     },
@@ -3055,176 +3415,198 @@
           "position": "TX-1",
           "party": "Republican",
           "religion": "Baptist",
-          "aipac": "$19,994 direct",
-          "image": "images/nathaniel_moran.jpg"
+          "aipac": "$73,485 career",
+          "image": "images/nathaniel_moran.jpg",
+          "ties": ""
         },
         {
           "name": "Dan Crenshaw",
           "position": "TX-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$23,394 direct",
-          "image": "images/dan_crenshaw.jpg"
+          "aipac": "$568,490 career",
+          "image": "images/dan_crenshaw.jpg",
+          "ties": ""
         },
         {
           "name": "Keith Self",
           "position": "TX-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/keith_self.jpg"
+          "aipac": "$81,318 career",
+          "image": "images/keith_self.jpg",
+          "ties": ""
         },
         {
           "name": "Pat Fallon",
           "position": "TX-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$21,994 direct",
-          "image": "images/pat_fallon.jpg"
+          "aipac": "$105,681 career",
+          "image": "images/pat_fallon.jpg",
+          "ties": ""
         },
         {
           "name": "Lance Gooden",
           "position": "TX-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,767 direct",
-          "image": "images/lance_gooden.jpg"
+          "aipac": "$72,865 career",
+          "image": "images/lance_gooden.jpg",
+          "ties": ""
         },
         {
           "name": "Jake Ellzey",
           "position": "TX-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/jake_ellzey.jpg"
+          "aipac": "$245,379 career",
+          "image": "images/jake_ellzey.jpg",
+          "ties": ""
         },
         {
           "name": "Lizzie Fletcher",
           "position": "TX-7",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/lizzie_fletcher.jpg"
+          "aipac": "$312,389 career",
+          "image": "images/lizzie_fletcher.jpg",
+          "ties": ""
         },
         {
           "name": "Morgan Luttrell",
           "position": "TX-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$15,000 direct",
-          "image": "images/morgan_luttrell.jpg"
+          "aipac": "$46,955 career",
+          "image": "images/morgan_luttrell.jpg",
+          "ties": ""
         },
         {
           "name": "Al Green",
           "position": "TX-9",
           "party": "Democrat",
           "religion": "Baptist",
-          "aipac": "$0",
-          "image": "images/al_green.jpg"
+          "aipac": "$27,855 career",
+          "image": "images/al_green.jpg",
+          "ties": ""
         },
         {
           "name": "Michael T. McCaul",
           "position": "TX-10",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$22,900 direct",
-          "image": "images/michael_t_mccaul.jpg"
+          "aipac": "$1,238,228 career",
+          "image": "images/michael_t_mccaul.jpg",
+          "ties": ""
         },
         {
           "name": "August Pfluger",
           "position": "TX-11",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,094 direct",
-          "image": "images/august_pfluger.jpg"
+          "aipac": "$274,004 career",
+          "image": "images/august_pfluger.jpg",
+          "ties": ""
         },
         {
           "name": "Craig A. Goldman",
           "position": "TX-12",
           "party": "Republican",
-          "religion": "Unknown",
-          "aipac": "$9,994 direct",
-          "image": "images/craig_a_goldman.jpg"
+          "religion": "Jewish",
+          "aipac": "$236,100 career",
+          "image": "images/craig_a_goldman.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Ronny Jackson",
           "position": "TX-13",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$29,767 direct",
-          "image": "images/ronny_jackson.jpg"
+          "aipac": "$114,292 career",
+          "image": "images/ronny_jackson.jpg",
+          "ties": ""
         },
         {
           "name": "Randy K. Weber, Sr.",
           "position": "TX-14",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$25,494 direct",
-          "image": "images/randy_k_weber_sr.jpg"
+          "aipac": "$123,070 career",
+          "image": "images/randy_k_weber_sr.jpg",
+          "ties": ""
         },
         {
           "name": "Monica De La Cruz",
           "position": "TX-15",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/monica_de_la_cruz.jpg"
+          "aipac": "$149,043 career",
+          "image": "images/monica_de_la_cruz.jpg",
+          "ties": ""
         },
         {
           "name": "Veronica Escobar",
           "position": "TX-16",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/veronica_escobar.jpg"
+          "aipac": "$67,296 career",
+          "image": "images/veronica_escobar.jpg",
+          "ties": ""
         },
         {
           "name": "Pete Sessions",
           "position": "TX-17",
           "party": "Republican",
           "religion": "Methodist",
-          "aipac": "$22,894 direct",
-          "image": "images/pete_sessions.jpg"
+          "aipac": "$91,746 career",
+          "image": "images/pete_sessions.jpg",
+          "ties": ""
         },
         {
           "name": "Christian D. Menefee",
           "position": "TX-18",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/christian_d_menefee.jpg"
+          "aipac": "$0 career",
+          "image": "images/christian_d_menefee.jpg",
+          "ties": ""
         },
         {
           "name": "Jodey C. Arrington",
           "position": "TX-19",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$5,394 direct",
-          "image": "images/jodey_c_arrington.jpg"
+          "aipac": "$53,723 career",
+          "image": "images/jodey_c_arrington.jpg",
+          "ties": ""
         },
         {
           "name": "Joaquin Castro",
           "position": "TX-20",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$0",
-          "image": "images/joaquin_castro.jpg"
+          "aipac": "$51,301 career",
+          "image": "images/joaquin_castro.jpg",
+          "ties": ""
         },
         {
           "name": "Chip Roy",
           "position": "TX-21",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/chip_roy.jpg"
+          "aipac": "$39,400 career",
+          "image": "images/chip_roy.jpg",
+          "ties": ""
         },
         {
           "name": "Troy E. Nehls",
           "position": "TX-22",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$7,100 direct",
-          "image": "images/troy_e_nehls.jpg"
+          "aipac": "$22,182 career",
+          "image": "images/troy_e_nehls.jpg",
+          "ties": ""
         },
         {
           "name": "Vacant",
@@ -3232,127 +3614,143 @@
           "party": "Unknown",
           "religion": "—",
           "aipac": "$0",
-          "image": "images/vacant.jpg"
+          "image": "images/vacant.jpg",
+          "ties": ""
         },
         {
           "name": "Beth Van Duyne",
           "position": "TX-24",
           "party": "Republican",
           "religion": "Episcopal",
-          "aipac": "$19,994 direct",
-          "image": "images/beth_van_duyne.jpg"
+          "aipac": "$106,034 career",
+          "image": "images/beth_van_duyne.jpg",
+          "ties": ""
         },
         {
           "name": "Roger Williams",
           "position": "TX-25",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,094 direct",
-          "image": "images/roger_williams.jpg"
+          "aipac": "$77,607 career",
+          "image": "images/roger_williams.jpg",
+          "ties": ""
         },
         {
           "name": "Brandon Gill",
           "position": "TX-26",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/brandon_gill.jpg"
+          "aipac": "$50,817 career",
+          "image": "images/brandon_gill.jpg",
+          "ties": ""
         },
         {
           "name": "Michael Cloud",
           "position": "TX-27",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$6,500 direct",
-          "image": "images/michael_cloud.jpg"
+          "aipac": "$37,273 career",
+          "image": "images/michael_cloud.jpg",
+          "ties": ""
         },
         {
           "name": "Henry Cuellar",
           "position": "TX-28",
           "party": "Democrat",
           "religion": "Catholic",
-          "aipac": "$30,700 direct · $407,430 UDP for",
-          "image": "images/henry_cuellar.jpg"
+          "aipac": "$2,709,070 career",
+          "image": "images/henry_cuellar.jpg",
+          "ties": ""
         },
         {
           "name": "Sylvia R. Garcia",
           "position": "TX-29",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/sylvia_r_garcia.jpg"
+          "aipac": "$112,162 career",
+          "image": "images/sylvia_r_garcia.jpg",
+          "ties": ""
         },
         {
           "name": "Jasmine Crockett",
           "position": "TX-30",
           "party": "Democrat",
           "religion": "Baptist",
-          "aipac": "$0",
-          "image": "images/jasmine_crockett.jpg"
+          "aipac": "$0 career",
+          "image": "images/jasmine_crockett.jpg",
+          "ties": ""
         },
         {
           "name": "John R. Carter",
           "position": "TX-31",
           "party": "Republican",
           "religion": "Christian",
-          "aipac": "$1,267 direct",
-          "image": "images/john_r_carter.jpg"
+          "aipac": "$80,513 career",
+          "image": "images/john_r_carter.jpg",
+          "ties": ""
         },
         {
           "name": "Julie Johnson",
           "position": "TX-32",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$5,000 direct",
-          "image": "images/julie_johnson.jpg"
+          "aipac": "$103,485 career",
+          "image": "images/julie_johnson.jpg",
+          "ties": ""
         },
         {
           "name": "Marc A. Veasey",
           "position": "TX-33",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/marc_a_veasey.jpg"
+          "aipac": "$144,597 career",
+          "image": "images/marc_a_veasey.jpg",
+          "ties": ""
         },
         {
           "name": "Vicente Gonzalez",
           "position": "TX-34",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$29,953 direct",
-          "image": "images/vicente_gonzalez.jpg"
+          "aipac": "$648,071 career",
+          "image": "images/vicente_gonzalez.jpg",
+          "ties": ""
         },
         {
           "name": "Greg Casar",
           "position": "TX-35",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/greg_casar.jpg"
+          "aipac": "$32,366 career",
+          "image": "images/greg_casar.jpg",
+          "ties": ""
         },
         {
           "name": "Brian Babin",
           "position": "TX-36",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$11,894 direct",
-          "image": "images/brian_babin.jpg"
+          "aipac": "$48,071 career",
+          "image": "images/brian_babin.jpg",
+          "ties": ""
         },
         {
           "name": "Lloyd Doggett",
           "position": "TX-37",
           "party": "Democrat",
           "religion": "Methodist",
-          "aipac": "$0",
-          "image": "images/lloyd_doggett.jpg"
+          "aipac": "$163,074 career",
+          "image": "images/lloyd_doggett.jpg",
+          "ties": ""
         },
         {
           "name": "Wesley Hunt",
           "position": "TX-38",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/wesley_hunt.jpg"
+          "aipac": "$199,603 career",
+          "image": "images/wesley_hunt.jpg",
+          "ties": ""
         }
       ]
     },
@@ -3363,32 +3761,36 @@
           "position": "UT-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/blake_d_moore.jpg"
+          "aipac": "$108,210 career",
+          "image": "images/blake_d_moore.jpg",
+          "ties": ""
         },
         {
           "name": "Celeste Maloy",
           "position": "UT-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,994 direct",
-          "image": "images/celeste_maloy.jpg"
+          "aipac": "$86,771 career",
+          "image": "images/celeste_maloy.jpg",
+          "ties": ""
         },
         {
           "name": "Mike Kennedy",
           "position": "UT-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/mike_kennedy.jpg"
+          "aipac": "$15,265 career",
+          "image": "images/mike_kennedy.jpg",
+          "ties": ""
         },
         {
           "name": "Burgess Owens",
           "position": "UT-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$14,994 direct",
-          "image": "images/burgess_owens.jpg"
+          "aipac": "$137,953 career",
+          "image": "images/burgess_owens.jpg",
+          "ties": ""
         }
       ]
     },
@@ -3398,9 +3800,10 @@
           "name": "Becca Balint",
           "position": "VT-1",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/becca_balint.jpg"
+          "religion": "Jewish",
+          "aipac": "$88,614 career",
+          "image": "images/becca_balint.jpg",
+          "ties": "Jewish"
         }
       ]
     },
@@ -3411,88 +3814,99 @@
           "position": "VA-1",
           "party": "Republican",
           "religion": "Episcopal",
-          "aipac": "$25,994 direct",
-          "image": "images/robert_j_wittman.jpg"
+          "aipac": "$224,049 career",
+          "image": "images/robert_j_wittman.jpg",
+          "ties": ""
         },
         {
           "name": "Jennifer A. Kiggans",
           "position": "VA-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$10,994 direct",
-          "image": "images/jennifer_a_kiggans.jpg"
+          "aipac": "$305,858 career",
+          "image": "images/jennifer_a_kiggans.jpg",
+          "ties": ""
         },
         {
           "name": "Robert C. \"Bobby\" Scott",
           "position": "VA-3",
           "party": "Democrat",
           "religion": "Episcopal",
-          "aipac": "$0",
-          "image": "images/robert_c_bobby_scott.jpg"
+          "aipac": "$3,500 career",
+          "image": "images/robert_c_bobby_scott.jpg",
+          "ties": ""
         },
         {
           "name": "Jennifer L. McClellan",
           "position": "VA-4",
           "party": "Democrat",
           "religion": "Presbyterian",
-          "aipac": "$15,000 direct",
-          "image": "images/jennifer_l_mcclellan.jpg"
+          "aipac": "$97,447 career",
+          "image": "images/jennifer_l_mcclellan.jpg",
+          "ties": ""
         },
         {
           "name": "John J. McGuire III",
           "position": "VA-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/john_j_mcguire_iii.jpg"
+          "aipac": "$183,716 career",
+          "image": "images/john_j_mcguire_iii.jpg",
+          "ties": ""
         },
         {
           "name": "Ben Cline",
           "position": "VA-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$15,994 direct",
-          "image": "images/ben_cline.jpg"
+          "aipac": "$59,747 career",
+          "image": "images/ben_cline.jpg",
+          "ties": ""
         },
         {
           "name": "Eugene Simon Vindman",
           "position": "VA-7",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/eugene_simon_vindman.jpg"
+          "religion": "Jewish",
+          "aipac": "$74,101 career",
+          "image": "images/eugene_simon_vindman.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Donald S. Beyer, Jr.",
           "position": "VA-8",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/donald_s_beyer_jr.jpg"
+          "aipac": "$90,189 career",
+          "image": "images/donald_s_beyer_jr.jpg",
+          "ties": ""
         },
         {
           "name": "H. Morgan Griffith",
           "position": "VA-9",
           "party": "Republican",
           "religion": "Episcopal",
-          "aipac": "$24,994 direct",
-          "image": "images/h_morgan_griffith.jpg"
+          "aipac": "$57,578 career",
+          "image": "images/h_morgan_griffith.jpg",
+          "ties": ""
         },
         {
           "name": "Suhas Subramanyam",
           "position": "VA-10",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/suhas_subramanyam.jpg"
+          "aipac": "$41,693 career",
+          "image": "images/suhas_subramanyam.jpg",
+          "ties": ""
         },
         {
           "name": "James R. Walkinshaw",
           "position": "VA-11",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/james_r_walkinshaw.jpg"
+          "aipac": "$13,950 career",
+          "image": "images/james_r_walkinshaw.jpg",
+          "ties": ""
         }
       ]
     },
@@ -3503,80 +3917,90 @@
           "position": "WA-1",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$15,894 direct",
-          "image": "images/suzan_k_delbene.jpg"
+          "aipac": "$320,820 career",
+          "image": "images/suzan_k_delbene.jpg",
+          "ties": ""
         },
         {
           "name": "Rick Larsen",
           "position": "WA-2",
           "party": "Democrat",
           "religion": "Methodist",
-          "aipac": "$25,000 direct",
-          "image": "images/rick_larsen.jpg"
+          "aipac": "$106,461 career",
+          "image": "images/rick_larsen.jpg",
+          "ties": ""
         },
         {
           "name": "Marie Gluesenkamp Perez",
           "position": "WA-3",
           "party": "Democrat",
           "religion": "nondenominational Christianity",
-          "aipac": "$19,994 direct",
-          "image": "images/marie_gluesenkamp_perez.jpg"
+          "aipac": "$514,725 career",
+          "image": "images/marie_gluesenkamp_perez.jpg",
+          "ties": ""
         },
         {
           "name": "Dan Newhouse",
           "position": "WA-4",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$16,994 direct",
-          "image": "images/dan_newhouse.jpg"
+          "aipac": "$167,970 career",
+          "image": "images/dan_newhouse.jpg",
+          "ties": ""
         },
         {
           "name": "Michael Baumgartner",
           "position": "WA-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$19,494 direct",
-          "image": "images/michael_baumgartner.jpg"
+          "aipac": "$102,727 career",
+          "image": "images/michael_baumgartner.jpg",
+          "ties": ""
         },
         {
           "name": "Emily Randall",
           "position": "WA-6",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/emily_randall.jpg"
+          "aipac": "$41,280 career",
+          "image": "images/emily_randall.jpg",
+          "ties": ""
         },
         {
           "name": "Pramila Jayapal",
           "position": "WA-7",
           "party": "Democrat",
           "religion": "Hindu",
-          "aipac": "$0",
-          "image": "images/pramila_jayapal.jpg"
+          "aipac": "$139,554 career",
+          "image": "images/pramila_jayapal.jpg",
+          "ties": ""
         },
         {
           "name": "Kim Schrier",
           "position": "WA-8",
           "party": "Democrat",
-          "religion": "Unknown",
-          "aipac": "$22,894 direct",
-          "image": "images/kim_schrier.jpg"
+          "religion": "Jewish",
+          "aipac": "$432,529 career",
+          "image": "images/kim_schrier.jpg",
+          "ties": "Jewish"
         },
         {
           "name": "Adam Smith",
           "position": "WA-9",
           "party": "Democrat",
           "religion": "Episcopal",
-          "aipac": "$17,089 direct",
-          "image": "images/adam_smith.jpg"
+          "aipac": "$891,482 career",
+          "image": "images/adam_smith.jpg",
+          "ties": ""
         },
         {
           "name": "Marilyn Strickland",
           "position": "WA-10",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$24,194 direct",
-          "image": "images/marilyn_strickland.jpg"
+          "aipac": "$461,009 career",
+          "image": "images/marilyn_strickland.jpg",
+          "ties": ""
         }
       ]
     },
@@ -3587,16 +4011,18 @@
           "position": "WV-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$22,094 direct",
-          "image": "images/carol_d_miller.jpg"
+          "aipac": "$81,599 career",
+          "image": "images/carol_d_miller.jpg",
+          "ties": ""
         },
         {
           "name": "Riley M. Moore",
           "position": "WV-2",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/riley_m_moore.jpg"
+          "aipac": "$47,290 career",
+          "image": "images/riley_m_moore.jpg",
+          "ties": ""
         }
       ]
     },
@@ -3607,64 +4033,72 @@
           "position": "WI-1",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$24,994 direct",
-          "image": "images/bryan_steil.jpg"
+          "aipac": "$356,240 career",
+          "image": "images/bryan_steil.jpg",
+          "ties": ""
         },
         {
           "name": "Mark Pocan",
           "position": "WI-2",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/mark_pocan.jpg"
+          "aipac": "$46,370 career",
+          "image": "images/mark_pocan.jpg",
+          "ties": ""
         },
         {
           "name": "Derrick Van Orden",
           "position": "WI-3",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$15,994 direct",
-          "image": "images/derrick_van_orden.jpg"
+          "aipac": "$206,825 career",
+          "image": "images/derrick_van_orden.jpg",
+          "ties": ""
         },
         {
           "name": "Gwen Moore",
           "position": "WI-4",
           "party": "Democrat",
           "religion": "Unknown",
-          "aipac": "$0",
-          "image": "images/gwen_moore.jpg"
+          "aipac": "$53,760 career",
+          "image": "images/gwen_moore.jpg",
+          "ties": ""
         },
         {
           "name": "Scott Fitzgerald",
           "position": "WI-5",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/scott_fitzgerald.jpg"
+          "aipac": "$84,827 career",
+          "image": "images/scott_fitzgerald.jpg",
+          "ties": ""
         },
         {
           "name": "Glenn Grothman",
           "position": "WI-6",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$24,994 direct",
-          "image": "images/glenn_grothman.jpg"
+          "aipac": "$189,080 career",
+          "image": "images/glenn_grothman.jpg",
+          "ties": ""
         },
         {
           "name": "Thomas P. Tiffany",
           "position": "WI-7",
           "party": "Republican",
           "religion": "Catholic",
-          "aipac": "$10,000 direct",
-          "image": "images/thomas_p_tiffany.jpg"
+          "aipac": "$62,276 career",
+          "image": "images/thomas_p_tiffany.jpg",
+          "ties": ""
         },
         {
           "name": "Tony Wied",
           "position": "WI-8",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$10,000 direct",
-          "image": "images/tony_wied.jpg"
+          "aipac": "$18,300 career",
+          "image": "images/tony_wied.jpg",
+          "ties": ""
         }
       ]
     },
@@ -3675,8 +4109,9 @@
           "position": "WY-1",
           "party": "Republican",
           "religion": "Unknown",
-          "aipac": "$13,994 direct",
-          "image": "images/harriet_m_hageman.jpg"
+          "aipac": "$55,140 career",
+          "image": "images/harriet_m_hageman.jpg",
+          "ties": ""
         }
       ]
     }

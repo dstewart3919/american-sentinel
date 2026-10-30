@@ -1,0 +1,844 @@
+{
+  "as_of": "September 5, 2026",
+  "note": "2026 candidates with a career pro-Israel PAC total on file. AIPAC stopped endorsements and direct PAC checks after the 2026 midterms; its super PAC, United Democracy Project, is still active. Totals are career money from the tracked pro-Israel committees, not a single AIPAC check.",
+  "candidates": [
+    {
+      "name": "Mary Peltola",
+      "party": "Democrat",
+      "state": "Alaska",
+      "position": "U.S. Senate",
+      "aipac": "$263,091 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Amish Shah",
+      "party": "Democrat",
+      "state": "Arizona",
+      "position": "AZ-1",
+      "aipac": "$53,383 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Elizabeth Lee",
+      "party": "Democrat",
+      "state": "Arizona",
+      "position": "AZ-5",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Mark Lamb",
+      "party": "Republican",
+      "state": "Arizona",
+      "position": "AZ-5",
+      "aipac": "$2,000 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Joanna Mendoza",
+      "party": "Democrat",
+      "state": "Arizona",
+      "position": "AZ-6",
+      "aipac": "$204,781 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Robb Ryerse",
+      "party": "Democrat",
+      "state": "Arkansas",
+      "position": "AR-3",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Mike McGuire",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-1",
+      "aipac": "$11,700 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Connie Chan",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-11",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Scott Wiener",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-11",
+      "aipac": "$108,146 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Melissa Hernandez",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-14",
+      "aipac": "$213,600 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Randy Villegas",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-22",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Tessa Lynn Hodge",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-23",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Angélica Dueñas",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-29",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Angela Gonzales-Torres",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-34",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Hilda Solis",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-38",
+      "aipac": "$12,515 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Marni von Wilpert",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-48",
+      "aipac": "$2,046,842 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Mai Vang",
+      "party": "Democrat",
+      "state": "California",
+      "position": "CA-7",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Melat Kiros",
+      "party": "Democrat",
+      "state": "Colorado",
+      "position": "CO-1",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Andrew Rice",
+      "party": "Independent",
+      "state": "Connecticut",
+      "position": "CT-3",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Bernard Taylor",
+      "party": "Democrat",
+      "state": "Florida",
+      "position": "FL-21",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Nicole Locklin",
+      "party": "Democrat",
+      "state": "Florida",
+      "position": "FL-26",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Angie Nixon",
+      "party": "Democrat",
+      "state": "Florida",
+      "position": "U.S. Senate",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Houston Gaines",
+      "party": "Republican",
+      "state": "Georgia",
+      "position": "GA-10",
+      "aipac": "$70,930 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "James Marter",
+      "party": "Republican",
+      "state": "Illinois",
+      "position": "IL-14",
+      "aipac": "$4,200 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Paul Nolley",
+      "party": "Democrat",
+      "state": "Illinois",
+      "position": "IL-16",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Donna Miller",
+      "party": "Democrat",
+      "state": "Illinois",
+      "position": "IL-2",
+      "aipac": "$4,708,227 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Melissa Bean",
+      "party": "Democrat",
+      "state": "Illinois",
+      "position": "IL-8",
+      "aipac": "$4,963,917 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Daniel Biss",
+      "party": "Democrat",
+      "state": "Illinois",
+      "position": "IL-9",
+      "aipac": "$364,699 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Julianna Stratton",
+      "party": "Democrat",
+      "state": "Illinois",
+      "position": "U.S. Senate",
+      "aipac": "$93,475 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Drew Cox",
+      "party": "Democrat",
+      "state": "Indiana",
+      "position": "IN-4",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Christina Bohannan",
+      "party": "Democrat",
+      "state": "Iowa",
+      "position": "IA-1",
+      "aipac": "$462,765 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Joe Mitchell",
+      "party": "Republican",
+      "state": "Iowa",
+      "position": "IA-2",
+      "aipac": "$5,750 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Ed Gallrein",
+      "party": "Republican",
+      "state": "Kentucky",
+      "position": "KY-4",
+      "aipac": "$15,982,406 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Ralph Alvarado",
+      "party": "Republican",
+      "state": "Kentucky",
+      "position": "KY-6",
+      "aipac": "$92,760 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Charles Booker",
+      "party": "Democrat",
+      "state": "Kentucky",
+      "position": "U.S. Senate",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "John Fleming",
+      "party": "Republican",
+      "state": "Louisiana",
+      "position": "U.S. Senate",
+      "aipac": "$40,150 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Matt Dunlap",
+      "party": "Democrat",
+      "state": "Maine",
+      "position": "ME-2",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Adrian Boafo",
+      "party": "Democrat",
+      "state": "Maryland",
+      "position": "MD-5",
+      "aipac": "$5,991,285 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Jeromie Whalen",
+      "party": "Democrat",
+      "state": "Massachusetts",
+      "position": "MA-1",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Jason Poulos",
+      "party": "Democrat",
+      "state": "Massachusetts",
+      "position": "MA-4",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Jamie Belsito",
+      "party": "Democrat",
+      "state": "Massachusetts",
+      "position": "MA-6",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Tim Greimel",
+      "party": "Democrat",
+      "state": "Michigan",
+      "position": "MI-10",
+      "aipac": "$12,936 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Jeremy Moss",
+      "party": "Democrat",
+      "state": "Michigan",
+      "position": "MI-11",
+      "aipac": "$131,632 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Donavan McKinney",
+      "party": "Democrat",
+      "state": "Michigan",
+      "position": "MI-13",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "William Lawrence",
+      "party": "Democrat",
+      "state": "Michigan",
+      "position": "MI-7",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Abdul El-Sayed",
+      "party": "Democrat",
+      "state": "Michigan",
+      "position": "U.S. Senate",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Mike Rogers",
+      "party": "Republican",
+      "state": "Michigan",
+      "position": "U.S. Senate",
+      "aipac": "$569,861 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Denise Powell",
+      "party": "Democrat",
+      "state": "Nebraska",
+      "position": "NE-2",
+      "aipac": "$0 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Heath Howard",
+      "party": "Democrat",
+      "state": "New Hampshire",
+      "position": "NH-1",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Maura Sullivan",
+      "party": "Democrat",
+      "state": "New Hampshire",
+      "position": "NH-1",
+      "aipac": "$159,879 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Stefany Shaheen",
+      "party": "Democrat",
+      "state": "New Hampshire",
+      "position": "NH-1",
+      "aipac": "$0 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Paige Beauchemin",
+      "party": "Democrat",
+      "state": "New Hampshire",
+      "position": "NH-2",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "John Sununu",
+      "party": "Republican",
+      "state": "New Hampshire",
+      "position": "U.S. Senate",
+      "aipac": "$75,750 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Karishma Manzur",
+      "party": "Democrat",
+      "state": "New Hampshire",
+      "position": "U.S. Senate",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Scott Brown",
+      "party": "Republican",
+      "state": "New Hampshire",
+      "position": "U.S. Senate",
+      "aipac": "$108,273 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Adam Hamawy",
+      "party": "Democrat",
+      "state": "New Jersey",
+      "position": "NJ-12",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Karen Ortiz",
+      "party": "Independent",
+      "state": "New York",
+      "position": "NY-12",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Micah Lasher",
+      "party": "Democrat",
+      "state": "New York",
+      "position": "NY-12",
+      "aipac": "$35,958 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Darializa Avila Chevalier",
+      "party": "Democrat",
+      "state": "New York",
+      "position": "NY-13",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Cait Conley",
+      "party": "Democrat",
+      "state": "New York",
+      "position": "NY-17",
+      "aipac": "$124,826 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Claire Valdez",
+      "party": "Democrat",
+      "state": "New York",
+      "position": "NY-7",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Laurie Buckhout",
+      "party": "Republican",
+      "state": "North Carolina",
+      "position": "NC-1",
+      "aipac": "$79,019 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Ashley Bell",
+      "party": "Democrat",
+      "state": "North Carolina",
+      "position": "NC-10",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Allison Jaslow",
+      "party": "Democrat",
+      "state": "North Carolina",
+      "position": "NC-3",
+      "aipac": "$1,150 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Michael Whatley",
+      "party": "Republican",
+      "state": "North Carolina",
+      "position": "U.S. Senate",
+      "aipac": "$309,749 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Roy Cooper",
+      "party": "Democrat",
+      "state": "North Carolina",
+      "position": "U.S. Senate",
+      "aipac": "$448,985 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Amy Acton",
+      "party": "Democrat",
+      "state": "Ohio",
+      "position": "Governor",
+      "aipac": "$0 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Vivek Ramaswamy",
+      "party": "Republican",
+      "state": "Ohio",
+      "position": "Governor",
+      "aipac": "$8,872,227 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Jerrad Christian",
+      "party": "Democrat",
+      "state": "Ohio",
+      "position": "OH-12",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Sherrod Brown",
+      "party": "Democrat",
+      "state": "Ohio",
+      "position": "U.S. Senate",
+      "aipac": "$1,577,933 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Janelle Stelson",
+      "party": "Democrat",
+      "state": "Pennsylvania",
+      "position": "PA-10",
+      "aipac": "$111,652 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Justin Wagner",
+      "party": "Democrat",
+      "state": "Pennsylvania",
+      "position": "PA-16",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Paige Cognetti",
+      "party": "Democrat",
+      "state": "Pennsylvania",
+      "position": "PA-8",
+      "aipac": "$130,405 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Raymond McKay",
+      "party": "Republican",
+      "state": "Rhode Island",
+      "position": "U.S. Senate",
+      "aipac": "$3,057 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Annie Andrews",
+      "party": "Democrat",
+      "state": "South Carolina",
+      "position": "U.S. Senate",
+      "aipac": "$5,330 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Brent Taylor",
+      "party": "Republican",
+      "state": "Tennessee",
+      "position": "TN-9",
+      "aipac": "$6,500 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Justin J. Pearson",
+      "party": "Democrat",
+      "state": "Tennessee",
+      "position": "TN-9",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Kyle Rable",
+      "party": "Democrat",
+      "state": "Texas",
+      "position": "TX-19",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Steve Toth",
+      "party": "Republican",
+      "state": "Texas",
+      "position": "TX-2",
+      "aipac": "$0 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Mark Teixeira",
+      "party": "Republican",
+      "state": "Texas",
+      "position": "TX-21",
+      "aipac": "$42,830 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Steven Shook",
+      "party": "Democrat",
+      "state": "Texas",
+      "position": "TX-26",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Tanya Lloyd",
+      "party": "Democrat",
+      "state": "Texas",
+      "position": "TX-27",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Frederick Haynes III",
+      "party": "Democrat",
+      "state": "Texas",
+      "position": "TX-30",
+      "aipac": "$250 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Colin Allred",
+      "party": "Democrat",
+      "state": "Texas",
+      "position": "TX-33",
+      "aipac": "$811,909 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Eric Flores",
+      "party": "Republican",
+      "state": "Texas",
+      "position": "TX-34",
+      "aipac": "$77,602 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Johnny Garcia",
+      "party": "Democrat",
+      "state": "Texas",
+      "position": "TX-35",
+      "aipac": "$209,252 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Danny Minton",
+      "party": "Democrat",
+      "state": "Texas",
+      "position": "TX-6",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "James Talarico",
+      "party": "Democrat",
+      "state": "Texas",
+      "position": "U.S. Senate",
+      "aipac": "$13,983 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Ken Paxton",
+      "party": "Republican",
+      "state": "Texas",
+      "position": "U.S. Senate",
+      "aipac": "$15,500 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Ben McAdams",
+      "party": "Democrat",
+      "state": "Utah",
+      "position": "UT-1",
+      "aipac": "$85,252 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Elaine Luria",
+      "party": "Democrat",
+      "state": "Virginia",
+      "position": "VA-2",
+      "aipac": "$1,893,025 career",
+      "ties": "Jewish",
+      "image": "images/portrait-fallback.svg",
+      "religion": "Jewish"
+    },
+    {
+      "name": "John Dursky",
+      "party": "Democrat",
+      "state": "Washington",
+      "position": "WA-4",
+      "aipac": "$0 career · no pro-Israel PAC money on file",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    },
+    {
+      "name": "Rebecca Cooke",
+      "party": "Democrat",
+      "state": "Wisconsin",
+      "position": "WI-3",
+      "aipac": "$272,359 career",
+      "ties": "",
+      "image": "images/portrait-fallback.svg"
+    }
+  ]
+}

@@ -205,6 +205,7 @@ async function init() {
 
   window.addEventListener("resize", onWindowResize);
   loadPresidentTeam();
+  loadCandidates();
   loadMetrics();
   setInterval(loadMetrics, 30000);
   setInterval(updateDebtClock, 1000);
@@ -248,6 +249,20 @@ async function loadMetrics() {
   }
 }
 
+let candidates2026 = [];
+
+function esc(value) {
+  return String(value ?? "")
+    .replace(/&/g, "\u0026amp;")
+    .replace(/</g, "\u003c")
+    .replace(/>/g, "\u003e");
+}
+
+function personFacts(o) {
+  const ties = o.ties ? `<br><small>Ties: ${esc(o.ties)}</small>` : "";
+  return `<strong>${esc(o.name)}</strong><br><small>${esc(o.position)} • ${esc(o.party)}</small><br><small>Religion: ${esc(o.religion || "—")}</small><br><small>AIPAC: ${esc(o.aipac || "—")}</small>${ties}`;
+}
+
 async function loadPresidentTeam() {
   try {
     const response = await fetch("data/president_team_data.json");
@@ -263,7 +278,7 @@ async function loadPresidentTeam() {
       img.alt = official.name;
       img.onerror = function () { this.onerror = null; this.src = PORTRAIT_FALLBACK; };
       const span = document.createElement("div");
-      span.innerHTML = `<strong>${official.name}</strong><br><small>${official.position} • ${official.party}</small><br><small>Religion: ${official.religion || "—"}</small><br><small>AIPAC: ${official.aipac || "—"}</small>`;
+      span.innerHTML = personFacts(official);
       memberDiv.appendChild(img);
       memberDiv.appendChild(span);
       teamContainer.appendChild(memberDiv);
@@ -292,7 +307,7 @@ function animate() {
 function createOfficialDiv(o) {
   const div = document.createElement("div");
   div.className = "official";
-  div.innerHTML = `<img src="${portraitSrc(o.image)}" alt="" onerror="this.onerror=null;this.src='${PORTRAIT_FALLBACK}'"><div><strong>${o.name}</strong><br><small>${o.position} • ${o.party}</small><br><small>Religion: ${o.religion || "—"}</small><br><small>AIPAC: ${o.aipac || "—"}</small></div>`;
+  div.innerHTML = `<img src="${portraitSrc(o.image)}" alt="" onerror="this.onerror=null;this.src='${PORTRAIT_FALLBACK}'"><div>${personFacts(o)}</div>`;
   div.style.cssText = "display:flex; align-items:center; gap:12px; margin:10px 0;";
   return div;
 }
@@ -341,6 +356,20 @@ function showOfficials(stateName) {
     list.appendChild(houseHeader);
     list.appendChild(houseDiv);
   }
+  const running = candidates2026.filter((c) => c.state === stateName);
+  if (running.length) {
+    const header = document.createElement("div");
+    header.textContent = `2026 candidates (${running.length})`;
+    header.style.cssText = "cursor: pointer; font-weight: bold; margin: 8px 0 5px;";
+    const wrap = document.createElement("div");
+    wrap.style.cssText = "margin-left: 12px;";
+    running.forEach((c) => wrap.appendChild(createOfficialDiv(c)));
+    header.addEventListener("click", () => {
+      wrap.style.display = wrap.style.display === "none" ? "block" : "none";
+    });
+    list.appendChild(header);
+    list.appendChild(wrap);
+  }
   document.getElementById("info").style.display = "block";
 }
 
@@ -357,6 +386,29 @@ function hideOfficials() {
     currentSelectedMeshes = null;
   }
   document.getElementById("info").style.display = "none";
+}
+
+async function loadCandidates() {
+  try {
+    const response = await fetch("data/candidates_2026.json");
+    const payload = await response.json();
+    candidates2026 = payload.candidates || [];
+    const box = document.getElementById("candidate-list");
+    if (!box) return;
+    box.innerHTML = "";
+    let state = "";
+    candidates2026.forEach((c) => {
+      if (c.state !== state) {
+        state = c.state;
+        const h = document.createElement("h3");
+        h.textContent = state;
+        box.appendChild(h);
+      }
+      box.appendChild(createOfficialDiv(c));
+    });
+  } catch (error) {
+    console.error("Failed to load 2026 candidates", error);
+  }
 }
 
 init();

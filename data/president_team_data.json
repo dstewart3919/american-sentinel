@@ -6,24 +6,27 @@
       "position": "President",
       "party": "Republican",
       "religion": "Unknown",
-      "aipac": "$0",
-      "image": "images/Donald_Trump.jpg"
+      "aipac": "$230,313,775 career",
+      "image": "images/Donald_Trump.jpg",
+      "ties": ""
     },
     {
       "name": "JD Vance",
       "position": "Vice President",
       "party": "Republican",
       "religion": "Unknown",
-      "aipac": "$0",
-      "image": "images/jd_vance.jpg"
+      "aipac": "$182,085 career",
+      "image": "images/jd_vance.jpg",
+      "ties": ""
     },
     {
       "name": "Marco Rubio",
       "position": "Secretary of State",
       "party": "Republican",
       "religion": "Unknown",
-      "aipac": "$10,000 direct",
-      "image": "images/marco_rubio.jpg"
+      "aipac": "$904,015 career",
+      "image": "images/marco_rubio.jpg",
+      "ties": ""
     },
     {
       "name": "Scott Bessent",
@@ -31,7 +34,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/scott_bessent.jpg"
+      "image": "images/scott_bessent.jpg",
+      "ties": ""
     },
     {
       "name": "Pete Hegseth",
@@ -39,7 +43,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/pete_hegseth.jpg"
+      "image": "images/pete_hegseth.jpg",
+      "ties": ""
     },
     {
       "name": "Todd Blanche",
@@ -47,7 +52,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/todd_blanche.jpg"
+      "image": "images/todd_blanche.jpg",
+      "ties": ""
     },
     {
       "name": "Doug Burgum",
@@ -55,7 +61,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/doug_burgum.jpg"
+      "image": "images/doug_burgum.jpg",
+      "ties": ""
     },
     {
       "name": "Brooke Rollins",
@@ -63,7 +70,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/brooke_rollins.jpg"
+      "image": "images/brooke_rollins.jpg",
+      "ties": ""
     },
     {
       "name": "Howard Lutnick",
@@ -71,7 +79,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/howard_lutnick.jpg"
+      "image": "images/howard_lutnick.jpg",
+      "ties": ""
     },
     {
       "name": "Keith Sonderling",
@@ -79,7 +88,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/keith_sonderling.jpg"
+      "image": "images/keith_sonderling.jpg",
+      "ties": ""
     },
     {
       "name": "Robert F. Kennedy Jr.",
@@ -87,7 +97,8 @@
       "party": "Independent",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/robert_f_kennedy_jr.jpg"
+      "image": "images/robert_f_kennedy_jr.jpg",
+      "ties": ""
     },
     {
       "name": "Scott Turner",
@@ -95,7 +106,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/scott_turner.jpg"
+      "image": "images/scott_turner.jpg",
+      "ties": ""
     },
     {
       "name": "Sean Duffy",
@@ -103,7 +115,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/sean_duffy.jpg"
+      "image": "images/sean_duffy.jpg",
+      "ties": ""
     },
     {
       "name": "Chris Wright",
@@ -111,7 +124,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/chris_wright.jpg"
+      "image": "images/chris_wright.jpg",
+      "ties": ""
     },
     {
       "name": "Linda McMahon",
@@ -119,7 +133,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/linda_mcmahon.jpg"
+      "image": "images/linda_mcmahon.jpg",
+      "ties": ""
     },
     {
       "name": "Doug Collins",
@@ -127,23 +142,26 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/doug_collins.jpg"
+      "image": "images/doug_collins.jpg",
+      "ties": ""
     },
     {
       "name": "Markwayne Mullin",
       "position": "Secretary of Homeland Security",
       "party": "Republican",
       "religion": "Unknown",
-      "aipac": "$4,994 direct",
-      "image": "images/markwayne_mullin.jpg"
+      "aipac": "$0",
+      "image": "images/markwayne_mullin.jpg",
+      "ties": ""
     },
     {
       "name": "Lee Zeldin",
       "position": "Administrator of the EPA",
       "party": "Republican",
-      "religion": "Unknown",
+      "religion": "Jewish",
       "aipac": "$0",
-      "image": "images/lee_zeldin.jpg"
+      "image": "images/lee_zeldin.jpg",
+      "ties": "Jewish"
     },
     {
       "name": "Russell Vought",
@@ -151,7 +169,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/russell_vought.jpg"
+      "image": "images/russell_vought.jpg",
+      "ties": ""
     },
     {
       "name": "Jay Clayton",
@@ -159,7 +178,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/jay_clayton.jpg"
+      "image": "images/jay_clayton.jpg",
+      "ties": ""
     },
     {
       "name": "John Ratcliffe",
@@ -167,7 +187,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/john_ratcliffe.jpg"
+      "image": "images/john_ratcliffe.jpg",
+      "ties": ""
     },
     {
       "name": "Jamieson Greer",
@@ -175,7 +196,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/jamieson_greer.jpg"
+      "image": "images/jamieson_greer.jpg",
+      "ties": ""
     },
     {
       "name": "Kelly Loeffler",
@@ -183,7 +205,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/kelly_loeffler.jpg"
+      "image": "images/kelly_loeffler.jpg",
+      "ties": ""
     },
     {
       "name": "Susie Wiles",
@@ -191,7 +214,8 @@
       "party": "Republican",
       "religion": "Unknown",
       "aipac": "$0",
-      "image": "images/susie_wiles.jpg"
+      "image": "images/susie_wiles.jpg",
+      "ties": ""
     }
   ]
 }

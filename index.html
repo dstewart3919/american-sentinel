@@ -17,11 +17,11 @@
       header h1 { font-family: "Oswald", sans-serif; margin: 0; font-size: 4.8em; letter-spacing: 4px; text-transform: uppercase; color: var(--white); text-shadow: 2px 2px 0 var(--red), -1px -1px 0 var(--navy), 0 0 20px rgba(255,255,255,0.5); position: relative; z-index: 1; animation: textGlow 2.5s ease-in-out infinite alternate; }
       @keyframes textGlow { 0% { text-shadow: 2px 2px 0 var(--red), -1px -1px 0 var(--navy), 0 0 10px rgba(255,255,255,0.3); } 100% { text-shadow: 2px 2px 0 var(--red), -1px -1px 0 var(--navy), 0 0 30px rgba(255,255,255,0.7); } }
       header p { color: var(--white); font-style: italic; font-family: "Roboto", sans-serif; font-size: 1.35em; margin: 8px 0 0; opacity: 0.95; position: relative; z-index: 1; text-shadow: 1px 1px 2px rgba(0,0,0,0.5); }
-      #metrics-section, #president-section, #map-container { margin: 24px auto; max-width: 1400px; padding: 28px; border-radius: 12px; background: rgba(255, 255, 255, 0.97); color: var(--navy); border: 3px solid var(--red); box-shadow: 0 8px 30px rgba(0,0,0,0.25), 0 0 15px rgba(178, 34, 52, 0.3); position: relative; transition: box-shadow 0.3s, transform 0.3s; }
+      #metrics-section, #president-section, #candidates-section, #map-container { margin: 24px auto; max-width: 1400px; padding: 28px; border-radius: 12px; background: rgba(255, 255, 255, 0.97); color: var(--navy); border: 3px solid var(--red); box-shadow: 0 8px 30px rgba(0,0,0,0.25), 0 0 15px rgba(178, 34, 52, 0.3); position: relative; transition: box-shadow 0.3s, transform 0.3s; }
       #metrics-section:hover, #president-section:hover { box-shadow: 0 12px 40px rgba(0,0,0,0.3), 0 0 25px rgba(178, 34, 52, 0.5); transform: translateY(-2px); }
       #metrics-section::before, #president-section::before { content: ""; position: absolute; top: 0; left: 0; right: 0; height: 6px; background: linear-gradient(90deg, var(--red), var(--white), var(--navy)); border-radius: 12px 12px 0 0; animation: stripeShift 3s linear infinite; }
       @keyframes stripeShift { 0% { background-position: 0% 50%; } 100% { background-position: 100% 50%; } }
-      #metrics-section h2, #president-section h2 { margin-top: 8px; text-align: center; font-family: "Oswald", sans-serif; font-size: 2.2em; letter-spacing: 2px; color: var(--navy); text-transform: uppercase; }
+      #metrics-section h2, #president-section h2, #candidates-section h2 { margin-top: 8px; text-align: center; font-family: "Oswald", sans-serif; font-size: 2.2em; letter-spacing: 2px; color: var(--navy); text-transform: uppercase; }
       .metrics-container { display: flex; justify-content: space-around; flex-wrap: wrap; gap: 20px; margin-top: 16px; }
       .metric { background: linear-gradient(135deg, var(--navy) 0%, #1a3a5c 100%); color: var(--white); padding: 20px 24px; border-radius: 10px; min-width: 220px; text-align: center; font-weight: 500; font-size: 1.05em; border: 2px solid var(--red); box-shadow: 0 4px 12px rgba(0,0,0,0.2), inset 0 0 10px rgba(178, 34, 52, 0.2); transition: transform 0.2s, box-shadow 0.2s; }
       .metric:hover { transform: translateY(-3px); box-shadow: 0 6px 16px rgba(0,0,0,0.3), 0 0 15px rgba(178, 34, 52, 0.4); }
@@ -35,7 +35,9 @@
       #info { position: absolute; top: 12px; left: 12px; z-index: 2; background: rgba(255, 255, 255, 0.96); padding: 16px; border-radius: 10px; max-width: 320px; display: none; border: 3px solid var(--red); box-shadow: 0 6px 20px rgba(0,0,0,0.3), 0 0 15px rgba(178, 34, 52, 0.4); color: var(--navy); animation: panelIn 0.3s ease-out; }
       @keyframes panelIn { from { opacity: 0; transform: translateY(-10px); } to { opacity: 1; transform: translateY(0); } }
       #info h3 { margin: 0 0 10px; font-family: "Oswald", sans-serif; color: var(--red); font-size: 1.6em; letter-spacing: 1px; }
-      #officials-list { margin-top: 8px; max-height: 55vh; overflow-y: auto; }
+      #candidate-list { max-height: 70vh; overflow-y: auto; margin-top: 12px; }
+      #candidate-list h3 { font-family: "Oswald", sans-serif; margin: 16px 0 4px; color: var(--red); }
+      #candidates-section p { text-align: center; margin: 8px auto 0; max-width: 900px; }
       .official { margin-bottom: 12px; padding: 10px; border: 1px solid #ddd; border-radius: 8px; background: var(--off-white); display: flex; align-items: center; gap: 12px; transition: background 0.2s; }
       .official:hover { background: #fff; box-shadow: 0 2px 6px rgba(0,0,0,0.1); }
       .official img { width: 56px; height: 56px; border-radius: 50%; border: 2px solid var(--navy); object-fit: cover; flex-shrink: 0; }
@@ -62,6 +64,11 @@
       <h2>Key Administration Officials</h2>
       <div class="team"></div>
     </section>
+    <section id="candidates-section">
+      <h2>Candidates Running in 2026</h2>
+      <p>Career pro-Israel PAC totals through September 5, 2026, including AIPAC PAC and its super PAC. AIPAC ended endorsements and direct PAC checks after this midterm. United Democracy Project is still active. Ties are listed only when a public biography states the person is Jewish or Muslim.</p>
+      <div id="candidate-list"></div>
+    </section>
     <div id="map-container">
       <div id="map"></div>
       <div id="info">
@@ -78,6 +85,6 @@
     <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/RenderPass.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/UnrealBloomPass.js"></script>
     <script src="https://cdn.jsdelivr.net/npm/three@0.128.0/examples/js/postprocessing/EffectComposer.js"></script>
-    <script src="app.js?v=20261029b"></script>
+    <script src="app.js?v=20261029c"></script>
   </body>
 </html>
